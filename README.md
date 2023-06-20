@@ -1,8 +1,11 @@
-# Data Ecosystem Automation
+Data Ecosystem Automation
 
 RPA Automation for all the TBS Policy Instruments: https://www.tbs-sct.canada.ca/pol/hierarch-eng.aspx (except 12 from different sources)
 
-This is a small RPA Automation using UiPath.
-The LIST of English and French Policies is found in the OBJECTS folders “\.Objects\PolicyInstruments.xlsx” as well as the log file from the automation “\.Objects\Runtime_Log.txt”.
+This is a small RPA Automation using UiPath. In the ".Objects\" folder you will find 3 important artifacts
 
-There are 2 'Write CSV' components found within the workflow that are currently saving the .CSV files to my file path: "F:\UiPath_Workspace\TBS_Policy_Instrument_Data". In the interim, please change the write file path until automation is migrated to the Cloud with orchestration.
+1) LIST of English and French Policies ".Objects\PolicyInstruments.xlsx”,
+2) Log file from the automation “.Objects\Runtime_Log.txt”.
+3) The collected data in .CSV format
+
+Everything is stored in the relative path to ease running the automation on your machine.
