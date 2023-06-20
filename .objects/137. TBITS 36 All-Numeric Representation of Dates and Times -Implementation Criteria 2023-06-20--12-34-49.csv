@@ -1,0 +1,98 @@
+﻿New column 0,New column 1
+1. Reference,"1.1 Name
+All-numeric representation of dates and times
+1.2 Identifier
+TBITS-36
+1.3 Category
+Standard
+1.4 Effective date
+Immediately Upon Publication
+1.5 Approving authority
+Updated per Information Technology Guidelines – Part 2
+ACIM Endorsement (Dec. 18, 1997)
+1.6 Maintenance agency
+Infrastructure Investment Management
+Treasury Board Secretariat
+1.7 Cross index
+FIPS PUB 4-1, Representation for calendar date and ordinal date for information interchange
+ISO 8601:1988, Data elements and interchange formats - Information interchange - Representation of dates and times
+1.8 Related documents
+CAN/CSA-Z243.4-89, All-numeric date and time
+ANSI X3.30-1985 (R1991) - for information systems - Representation for calendar date and ordinal date for information interchange
+GES/NGI-2/A-1977-04-01 is replaced by this publication"
+2. Purpose,"The purpose of this standard is to define the numeric format for calendar dates for the purpose of interchange of machine-readable data between departments and agencies.
+
+The term ""Gregorian Date"", as frequently used in Electronic Data Processing parlance, is the equivalent of the term ""Calendar Date"" as used in this document, i.e. date format consisting of three numeric fields to represent year, month and day of month respectively.
+
+The term ""Julian Date"", also frequently used in EDP parlance, is the equivalent of the term ""Ordinal Date"" as used in this document, i.e. date format consisting of two numeric fields, often conjoined, to represent year and sequential day within the year commencing with 001 for January 1st."
+3. Application,This standard shall apply when describing either calendar or ordinal dates in an all-numeric form for interchange of machine-readable data between departments and agencies.
+4. Qualifications,"4.1 Sequence
+
+An all-numeric date consists of the following data elements from left to right:
+
+(Calendar) year-month-day
+(Ordinal) year-day of year
+4.2 Characters
+
+Arabic numerals from set 0, 1, 2, ... 9 are used.
+
+4.3 Elements
+
+4.3.1 A calendar date consists of three elements:
+
+four digits to represent ""year""
+two digits to represent ""month""
+two digits to represent ""day""
+
+4.3.2 An ordinal date consists of two elements:
+
+four digits to represent ""year""
+three digits to represent ""day of the year""
+4.4 Separators
+
+For person-to-machine (input) or machine-to-person (output) purposes, as well as for person-to-person purposes, the calendar date may be edited by the inclusion of either of the separators space or hyphen to partition the elements, e.g.:
+
+1975 07 01 (space separators)
+1975-07-01 (hyphen separators)
+
+but the internal machine representation does not include separators."
+5. Implementation,The permitted period for conformance to this standard shall not exceed six months subsequent to its publication date.
+6. Government Standards Working Group,"G.E. Henderson (Chairman)
+B. Laidlaw TBS
+G. Beauséjour
+R.E. Blasius
+N.D. Brewer
+D.S. Brooks
+D.M. Brown
+A.B. Donaldson
+J.A. Guminski
+T.J. Jones
+P. McLellan PWGSC
+S. Poretski
+J.M. Selman"
+7. Where to Obtain Copies,"Copies of the technical specification may be obtained as follows:
+
+FIPS PUB 4-1,
+
+Representation for calendar date and ordinal date for information interchange
+
+National Technical Information Service (NTIS)
+U.S. Department of Commerce
+ATTN: Sales Office, Sills Building
+5285 Port Royal Road
+Springfield, VA 22161
+U.S.A.
+Telephone: (703) 487-4650
+Facsimile: (703) 321-8547
+ISO 8601:1988,
+
+Data elements and interchange format - Information interchange - Representation of dates and times
+
+
+CAN/CSA-Z243.4-89, All-numeric date and time
+Canadian Standards Association
+178 Rexdale Blvd.
+Etobicoke, Ontario
+M9W 1R3
+Telephone: (416) 747-4044
+Facsimile: (416) 747-247"

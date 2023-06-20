@@ -1,0 +1,145 @@
+﻿New column 0,New column 1
+1. Effective Date,"1.1  This standard takes effect on July 1, 2012, and was updated on March 31, 2013."
+2. Application,"2.1 This standard applies to “departments” as defined in section 2 of the Financial Administration Act, with the exception of paragraphs (b) and (c), and unless excluded by specific acts, regulations or Orders in Council.
+
+2.2 Section 6 applies to all websites and Web applications and Web pages that:
+
+Are public facing; (i.e., available to individuals and businesses outside of the Government of Canada); and
+Are those for which the department is accountable.
+
+2.3 Section 6.1 does not apply to:
+
+Web content that the department is not accountable for;
+Web pages that are archived on the Web;
+Third-party websites and Web applications (including social media sites); and
+Web pages of third-party websites and Web applications (including social media sites).
+
+2.4 Section 6.1 is to be implemented in phases and applies as follows:
+
+Phase I (July 1, 2012 – June 30, 2013)
+One requirement of the standard;
+Phase II (April 1, 2013 – December 31, 2014)
+Two more requirements, for a total of three requirements of the standard; and,
+Phase III (January 1, 2015 – June 30, 2015)
+All four requirements of the standard.
+
+2.5 Sections 7.3 and 8.2 relating to the role of the Treasury Board Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance."
+3. Context,"3.1 The Web presence of the Government of Canada is highly complex with each department maintaining a unique online presence that provides a wide variety of content and applications to support informational and transactional services for individuals and businesses. The Web channel is an important part of the Government of Canada’s commitment to multi-channel access and service delivery.
+
+3.2 Web content is delivered through a variety of technologies that are ever evolving. As Canadians are becoming increasingly reliant upon mobile devices and data-centric technologies, the Government of Canada is committed to ensuring the re-use and the portability of Web content across websites and Web applications, platforms, and devices.
+
+3.3 For the purposes of this standard, Web interoperability is defined as the ability of different types of platforms, devices, networks, and applications to work together effectively, without prior communication, to find, retrieve, exchange, and re-use Web content in a useful and meaningful manner.
+
+3.4 This standard supports the Policy on the Management of Information Technology and the Policy on Information Management.
+
+3.5 This standard is issued under the authority of section 7 of the Financial Administration Act by the Secretary of the Treasury Board pursuant to subsection 6(4) of the Financial Administration Act and in section 3.5 of the Policy on Management of Information Technology and s.3.4 of the Policy on Information Management.
+
+3.6 This standard is to be read in conjunction with the Standard on Web Usability, Standard on Web Accessibility, Standard on Metadata, the Standard on Geospatial Data and the Standard on Optimizing Websites and Applications for Mobile Devices."
+4. Definitions,4.1 Definitions to be used in the interpretation of this standard are attached in Appendix A.
+5. Standard Statement,"5.1 Objective
+
+5.1.1 Ensure re-use, and portability of Government of Canada Web content across websites and Web applications, platforms, and devices.
+
+5.1.2 Ensure Web content can be found, retrieved, and exchanged.
+
+5.2 Expected results
+
+5.2.1 Improved re-use and portability of content across websites and Web applications, platforms, and devices.
+
+5.2.2 Improved search, retrieval, and exchange of Web content."
+6. Requirements,"6.1 Managers, functional specialists, and equivalents responsible for Web content or Web pages are responsible for:
+
+6.1.1 Ensuring that websites and Web applications meet the Web feed requirements described in Appendix B.
+
+6.1.2 Ensuring that Web pages meet the character encoding requirements described in Appendix C.
+
+6.1.3 Ensuring that Web pages that are in HTML or XHTML meet the mark-up language requirements described in Appendix D.
+
+6.1.4 Ensuring that Web pages that are in HTML or XHTML meet the HTML data requirements described in Appendix E.
+
+6.2 The senior departmental official, designated by the deputy head, is responsible for:
+
+6.2.1 Overseeing the implementation of this standard in their department and carrying out the activities referred to in 7.2.
+
+6.2.2 Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.
+
+6.3 The departmental Chief Information Officer (CIO) or equivalent is responsible for:
+
+6.3.1 Ensuring that software and systems acquired or developed by the department enable websites and Web applications to meet the requirements of this standard or are modifiable to enable websites and Web applications to meet the requirements of this standard.
+
+6.3.2 Encouraging personnel to collaborate departmentally and interdepartmentally, to share expertise, and to build reusable components and tools.
+
+6.4 Centres of Expertise are responsible for:
+
+6.4.1 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of the standards, guidelines and tools.
+
+6.4.2 Participating in the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving standards, guidelines and tools."
+7. Monitoring and Reporting Requirements,"Senior departmental official
+
+7.1 The senior departmental official, designated by the deputy head, is responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.
+
+Government-wide
+
+7.2 The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:
+
+assessments under the Management Accountability Framework;
+examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and
+work performed in collaboration with departments; and
+
+7.3 The Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted)."
+8. Consequences,"8.1 In instances of non-compliance, deputy heads are responsible for taking corrective measures, within their organization with those responsible for implementing the requirements of this standard.
+
+8.2 Consequences of non-compliance with this standard can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.
+
+8.3 Senior departmental officials are to ensure corrective actions are taken to address instances of non-compliance with the requirements of this standard. Corrective actions can include requiring additional training, changes to procedures and systems, disciplinary action, and other measures as appropriate.
+
+8.4 For a range of consequences of non-compliance refer to Appendix C: Consequences for Institutions & Appendix D: Consequences for Individuals in the Framework for the Management of Compliance."
+9. Roles and responsibilities of government organizations,"9.1 Treasury Board of Canada Secretariat (Chief Information Officer Branch), in consultation with other departments, is responsible for the following:
+
+9.1.1 Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments.
+
+9.1.2 Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government.
+
+9.1.3 Providing support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.
+
+9.1.4 Amending the Technical Specifications for the Web and Mobile Presence as required, in consultation with Strategic Communications and Ministerial Affairs."
+10. References,"10.1 Relevant Legislation
+Financial Administration Act
+10.2 Related Policy Instruments and Publications
+Common Services Policy
+Communications Policy of the Government of Canada
+Directive on the Management of Information Technology
+Directive on Official Languages for Communications and Services
+Directive on Privacy Practices
+Federal Identity Program Policy
+Foundation Framework for Treasury Board Policies
+Framework for the Management of Compliance
+Policy on Evaluation
+Policy Framework for Service Improvement in the Government of Canada
+Policy on Government Security
+Policy on Information Management
+Policy on Internal Audit
+Policy on Management of Information Technology
+Policy on Privacy Protection
+Policy on Official Languages
+Standard on Geospatial Data
+Standard on Metadata
+Standard on Optimizing Websites and Applications for Mobile Devices
+Standard on Privacy and Web Analytics
+Standard on Social Media Account Management
+Standard on Web Accessibility
+Standard on Web Interoperability
+10.3 Related External Standards and Specifications
+Atom Syndication Format [RFC 4287]
+HTML5
+RDFa 1.1 Lite
+Schema.org
+UTF-8 [RFC 3629]
+Web Content Accessibility Guidelines (WCAG) 2.0"
+11. Enquiries,"Please direct enquiries about this standard to your department's Web Standards Centre of Expertise. For interpretation of this standard, Web Standards Centres of Expertise should contact:
+
+Digital Policy
+Office of the Chief Information Officer
+Treasury Board of Canada Secretariat
+Ottawa ON K1A 0R5
+E-mail: DPPN@tbs-sct.gc.ca"

@@ -1,0 +1,300 @@
+﻿New column 0,New column 1
+1. Date d’entrée en vigueur,"1.1
+Cette directive entre en vigueur le 1er avril 2020.
+1.2
+Cette directive remplace les instruments du Conseil du Trésor suivants :
+1.2.1
+Directive sur la gestion des technologies de l’information, 1er avril 2009.
+1.2.2
+Directive sur les rôles et responsabilités en matière de gestion de l’information, 8 octobre 2007.
+1.2.3
+Directive sur la tenue de documents, 1er juin 2009
+1.2.4
+Politique sur l’utilisation acceptable des dispositifs et des réseaux, 1er octobre 2013, annexes A, B, C, et D."
+2. Autorisations et pouvoirs,"2.1
+La présente directive est émise conformément aux mêmes autorisations et pouvoirs indiqués à la section 2 de la Politique sur les services et le numérique.
+2.2
+Le Conseil du Trésor du Canada a délégué au Président du Conseil du Trésor du Canada, le pouvoir d’émettre, de modifier et d’annuler la présente directive.
+2.3
+Le Conseil du Trésor du Canada a délégué au dirigeant principal de l’information du Canada, le pouvoir d’émettre, de modifier et d’annuler les instruments à l’appui, y compris les normes, procédures obligatoires et autres annexes."
+3. Objectifs et résultats attendus,"3.1
+Les objectifs indiqués à la section 3 de la Politique sur les services et le numérique s’appliquent à cette directive.
+3.2
+Les résultats escomptés indiqués à la section 3 de la Politique sur les services et le numérique s’appliquent à cette directive."
+4. Exigences,"4.1
+Gouvernance, planification et production de rapports à l’échelle du gouvernement
+
+
+Examen d’architecture intégrée
+
+4.1.1
+Le dirigeant principal de l’information (DPI) du ministère est responsable de ce qui suit :
+4.1.1.1
+Présider un conseil d’examen de l’architecture ministériel dont le mandat est de revoir et d’approuver l’architecture de toutes les initiatives numériques ministérielles et d’assurer leur harmonisation avec les architectures intégrées.
+4.1.1.2
+Présenter au conseil d’examen de l’architecture intégrée du gouvernement du Canada des propositions liées à la conception, à l’élaboration, à l’installation et à la mise en œuvre d’initiatives numériques :
+4.1.1.2.1
+lorsque le ministère est disposé à investir au moins l’un des montants suivants afin de régler le problème ou de bénéficier de l’occasion :
+4.1.1.2.1.1
+2,5 millions de dollars pour les ministères qui n’ont pas de catégorie de capacité organisationnelle de gestion de projets approuvée ou pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 1 approuvée, conformément à la Directive sur la gestion de la planification des projets et des programmes;
+4.1.1.2.1.2
+5 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 2 approuvée;
+4.1.1.2.1.3
+10 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 3 approuvée;
+4.1.1.2.1.4
+15 millions de dollars pour le ministère de la Défense nationale;
+4.1.1.2.1.5
+25 millions de dollars pour les ministères ayant une capacité organisationnelle de gestion de projets de catégorie 4 approuvée;
+4.1.1.2.2
+qui comportent des technologies émergentes;
+4.1.1.2.3
+qui exigent une exception à la présente directive ou à d’autres directives liées à la politique;
+4.1.1.2.4
+qui sont catégorisées au niveau Protégé B ou inférieur et utilisant un modèle de déploiement autre que le nuage public pour l’hébergement d’applications (y compris l’infrastructure), le déploiement d’applications ou le développement d’applications;
+4.1.1.2.5
+qui comprennent la prolongation ou la création d’un soutien personnalisé pour éviter qu’une technologie ne devienne non prise en charge dans le cas où :
+4.1.1.2.5.1
+la proposition s’avère une prolongation d’un contrat de soutien précédent où le projet de migration a été retardé (avec justification);
+4.1.1.2.5.2
+la technologie prend en charge un système essentiel à la mission pour lequel le risque de préjudice est élevé en cas de défaillance des fonctions du système;
+4.1.1.2.5.3
+la technologie a été abandonnée par le fournisseur, et la migration vers une nouvelle technologie nécessiterait l’adoption d’une solution entièrement nouvelle; ou
+4.1.1.2.6
+tel qu’indiqué par le DPI du Canada.
+4.1.1.3
+Veiller à ce que les propositions présentées au conseil d’examen de l’architecture intégrée du gouvernement du Canada soient d’abord évaluées par le conseil d’examen de l’architecture ministériel, lorsqu’il en existe un.
+4.1.1.4
+Veiller à ce que les propositions soient présentées au conseil d’examen de l’architecture intégrée du gouvernement du Canada après l’examen des cas conceptuels des projets numériques conformément aux « Procédures obligatoires pour les cas conceptuels des projets numériques » et avant l’élaboration d’une présentation au Conseil du Trésor ou d’un modèle d’analyse de rentabilisation ministériel.
+4.1.1.5
+Veiller à ce que les initiatives ministérielles présentées au Conseil d’examen de l’architecture intégrée du gouvernement du Canada soient conformes au cadre d’architecture intégrée,  aux procédures relatives aux interfaces de programmation d’applications, et aux Normes relatives au numérique du gouvernement du Canada. Le cadre d’architecture intégrée est le critère utilisé par le Conseil d’examen de l’architecture intégrée du gouvernement du Canada et les conseils d’examen de l’architecture ministérielle lors de l’examen des initiatives en matière de numérique pour assurer leur conformité avec les architectures intégrées dans les domaines des affaires, de l’information, des applications, de la technologie et de la sécurité afin d’appuyer les résultats stratégiques.
+
+Planification
+
+4.1.1.6
+Approuver la composante de la TI et de l’information ou des données de l’ensemble des stratégies, des plans, des initiatives, des projets, des approvisionnements et des demandes d’autorisation de dépense du ministère.
+4.1.1.7
+Produire le rapport ministériel sur les dépenses en matière de TI et les rapports de mise à jour de la gestion en continu du portefeuille des applications.
+4.1.1.8
+Veiller à ce que les investissements ministériels en matière de TI, l’élaboration de services et les initiatives d’amélioration soient à la fois éclairés par la planification des activités du ministère et intégrés à celle-ci.
+
+Participation pangouvernementale
+
+4.1.1.9
+Participer, en tant que fournisseur de services ou d’utilisateur de services, à la conception, à la planification, à l’évolution et à la surveillance des solutions et services de la TI à l’échelle du gouvernement.
+4.1.1.10
+Conseiller le DPI du Canada sur les décisions, les plans, les stratégies, les orientations, les progrès, les risques et les enjeux liés aux initiatives qui touchent la prestation ou l’utilisation de services de la TI au sein d’un ministère ou dans l’ensemble des ministères.
+4.2
+Conception et prestation de services axés sur les clients
+4.2.1
+L’agent désigné pour les services, en collaboration avec d’autres agents au besoin, est responsable de ce qui suit, conformément à l’orientation et aux directives du SCT :
+
+Services axés sur les clients
+
+4.2.1.1
+Veiller à ce que la rétroaction des clients, y compris la rétroaction des clients en direct, les sondages sur la satisfaction des clients et les tests « expérience utilisateur » soit recueillie et utilisée pour éclairer la conception, la prestation et l’amélioration continue des services.
+4.2.1.2
+Veiller à ce que les services en ligne nouvellement conçus ou révisés fournissent au client l’état de leur demande en temps réel.
+
+Répertoire de services
+
+4.2.1.3
+Élaborer et mettre à jour chaque année un répertoire des services ministériels.
+4.2.1.4
+Collaborer avec le SCT en vue de rendre le répertoire des services ministériels disponible au moyen du Portail du gouvernement ouvert du Canada.
+
+Normes de service
+
+4.2.1.5
+Veiller à l’élaboration, la gestion et l’examen régulier des normes de service, des cibles connexes et de l’information sur le rendement, pour tous les services et tous les modes de prestation des services utilisés.
+4.2.1.6
+Veiller à ce que l’information sur le rendement en temps réel pour les normes de service soit disponible par l’entremise du site Web du ministère.
+
+Examen des services
+
+4.2.1.7
+Veiller à ce que chaque service soit régulièrement examiné avec les clients, les partenaires et les intervenants, en collaboration avec le DPI ministériel, le cas échéant, au moins une fois tous les cinq ans afin d’identifier les améliorations possibles, y compris la révision de la conception pour assurer l’accent sur les clients, la facilitation par le numérique, la disponibilité et l’adoption en ligne, l’efficacité, les ententes de partenariat et d’autres approches de prestation des services, et d’assurer la conformité aux Normes relatives au numérique du gouvernement du Canada.
+4.3
+Gestion ouverte et stratégique de l’information et des données
+4.3.1
+Le DPI du ministère, en collaboration avec d’autres agents du ministère, au besoin, est responsable de ce qui suit :
+
+Gestion stratégique de l’information
+
+4.3.1.1
+Établir une architecture d’information ministérielle en harmonisation avec les normes pangouvernementales établies.
+4.3.1.2
+Veiller à ce que les systèmes numériques constituent le mode privilégié de création, de saisie et de gestion de l’information.
+4.3.1.3
+Veiller à ce que l’information et les données soient gérées pour permettre, dans la mesure du possible, l’interopérabilité des données, la réutilisation et le partage au sein des ministères et avec d’autres ministères à l’échelle du gouvernement afin d’éviter les répétitions et maximiser l’utilité, tout en respectant les exigences en matière de sécurité et de protection des renseignements personnels.
+4.3.1.4
+Veiller à ce que l’information ministérielle soit créée dans un format accessible, le cas échéant, conformément aux lignes directrices du SCT.
+4.3.1.5
+Établir et tenir à jour des taxonomies ou des structures de classification afin de gérer, de stocker, de chercher et de récupérer de l’information et des données dans tous les formats, conformément aux normes pangouvernementales établies.
+4.3.1.6
+Consigner les pratiques de gestion du cycle de vie au sein du ministère qui s’harmonisent avec la nature ou l’objet de l’information ou des données et qui répondent aux exigences en matière de responsabilité, d’intendance, de mesure du rendement, de production de rapports, ainsi que des exigences prévues par la loi.
+4.3.1.7
+Établir, mettre en œuvre et respecter les périodes de conservation de toute l’information et de toutes les données, le cas échéant, selon leur format.
+4.3.1.8
+Élaborer un processus de disposition consigné et entreprendre des activités de disposition régulières pour toute l’information et toutes les données, le cas échéant.
+
+Protection
+
+4.3.1.9
+Protéger l’information et les données en consignant et atténuant les risques et en tenant en compte la valeur opérationnelle de l’information, les risques juridiques et réglementaires, l’accès à l’information, la sécurité de l’information et la protection des renseignements personnels.
+
+Tenue de documents
+
+4.3.1.10
+Déterminer l’information ayant une valeur opérationnelle en s’appuyant sur une analyse des fonctions et des activités exécutées par le ministère pour faciliter ou appuyer le mandat que lui confère la loi.
+4.3.1.11
+Maximiser l’élimination des restrictions d’accès à l’information ministérielle déterminée comme ayant une valeur archivistique avant qu’elle soit transférée à Bibliothèque et Archives Canada (BAC) dans le cadre des activités d’élimination prévues.
+4.3.1.12
+Veiller à ce qu’une solution intégrée de gestion de l’information approuvée par le gouvernement du Canada soit utilisée afin de consigner les activités, les décisions et les processus de prise de décisions opérationnels.
+4.3.1.13
+Déterminer, établir, mettre en œuvre et maintenir des répertoires ministériels désignés où l’information ayant une valeur opérationnelle est gérée pendant son cycle de vie, tout en respectant les exigences en matière de sécurité et de protection des renseignements personnels.
+4.3.1.14
+Veiller à ce que la qualité de l’information soit gérée et préservée pour satisfaire aux exigences et aux attentes des utilisateurs afin de répondre aux besoins opérationnels, aux responsabilités et aux exigences de conservation à long terme.
+4.3.2
+Les gestionnaires sont responsables de ce qui suit :
+4.3.2.1
+Informer les employés de leur obligation de consigner leurs activités et leurs décisions ayant une valeur opérationnelle.
+4.3.3
+Les employés sont responsables de ce qui suit :
+4.3.3.1
+consigner leurs activités et leurs décisions ayant une valeur opérationnelle.
+4.4
+
+Optimisation de la technologie
+
+4.4.1
+
+Le dirigeant principal de l’information (DPI) du Canada est responsable de ce qui suit :
+
+4.4.1.1
+Définir les exigences et les critères de l’annexe D : Norme sur les profils des utilisateurs et des points de travail pour la TI et l’annexe E : Norme sur les dispositions relatives à la technologie de l’information.
+4.4.2
+
+L’administrateur général de SPC est responsable de ce qui suit :
+
+4.4.2.1
+Fournir des services dans le cadre de son mandat concernant les dispositions, les limites et les seuils précisés à l’annexe D : Norme sur les profils des utilisateurs et des points de travail pour la TI et l’annexe E : Norme sur les dispositions relatives à la technologie de l’information.
+4.4.2.2
+Fournir aux DPI des ministères et au DPI du Canada des détails sur l’offre de services, la disponibilité et la consommation actuelle de leur ministère, selon la disponibilité des données.
+4.4.2.3
+Communiquer aux fins de publication, par l’entremise du Portail du gouvernement ouvert, les statistiques annuelles pangouvernementales sur la disponibilité et la consommation actuelle, selon la disponibilité des données.
+4.4.2.4
+Fournir des répertoires d’applications, de logiciels et de versions connexes aux ministères, selon la disponibilité des données.
+4.4.3
+
+Le DPI ministériel est responsable de ce qui suit :
+
+Gestion stratégique de la TI
+
+4.4.3.1
+Fournir des services de la TI qui répondent aux priorités ministérielles, aux besoins en matière d’exécution des programmes et aux besoins opérationnels.
+4.4.3.2
+Veiller à ce que les décisions et les mesures liées à la TI soient orientées par le plan pangouvernemental du DPI du Canada et la priorisation de la demande du gouvernement du Canada pour des services et des actifs de la TI.
+4.4.3.3
+Adopter, s’il y a lieu, des solutions pangouvernementales au sein de leur ministère respectif.
+4.4.3.4
+Élaborer et maintenir des pratiques et des processus ministériels en matière de gestion de la TI en tenant compte de la Bibliothèque de l’infrastructure des technologies de l’information (BITI) et des Objectifs de contrôle de l’information et des technologies associées (COBIT), tout en accordant la priorité à la gestion des actifs de la TI, au catalogue de services de la TI et à l’établissement des coûts et des tarifs des services de la TI, le cas échéant.
+4.4.3.5
+Élaborer, mettre en œuvre et entretenir des stratégies ministérielles en vue de produire ou d’utiliser des services et solutions de la TI pangouvernementaux, et ce, en fonction du plan ministériel intégré sur les services, l’information, la TI et la cybersécurité.
+4.4.3.6
+Collaborer à la transformation opérationnelle facilitée par le numérique avec le responsable opérationnel et les autres intervenants.
+4.4.3.7
+Identifier les technologies émergentes qui pourraient potentiellement contribuer à l’atteinte des objectifs stratégiques et opérationnels du ministère et du gouvernement du Canada.
+4.4.3.8
+Veiller à ce que les services de la TI soient conçus et gérés en vue d’appuyer l’interopérabilité.
+4.4.3.9
+Recueillir, conserver, approuver et tenir à jour annuellement les données du répertoire des employés des ministères ainsi que leurs profils conformément à l’annexe D : Norme sur les profils des utilisateurs et des points de travail pour la TI et l’annexe E : Norme sur les dispositions relatives à la technologie de l’information.
+4.4.3.10
+Respecter les profils, les dispositions, les limites, les configurations, et les seuils précisés pour les services intégrés de la TI énumérés à l’annexe E : Norme sur les dispositions relatives à la technologie de l’information, à l’annexe F : Norme sur la restriction de l’utilisation des services de la TI intégrée et l’annexe G : Norme sur les configurations courantes des services de la TI intégrée.
+4.4.3.11
+Déterminer l’utilisation prévue des services de la TI dans le plan ministériel intégré sur les services, l’information, la TI et la cybersécurité à l’aide des Mesures de l’utilisation de la technologie de l’information au gouvernement du Canada.
+4.4.3.12
+Veiller à ce que l’emploi de logiciels libres soit encouragé et veiller, le cas échéant, à ce que ceux-ci contribuent aux collectivités dont le travail est exploité.
+
+Information et résidence de données
+
+4.4.3.13
+Appuyer l’utilisation des services d’informatique en nuage en premier en veillant à ce qu’ils soient :
+4.4.3.13.1
+désignés et évalués comme la principale option de prestation de services lors du lancement de nouveaux investissements, initiatives, stratégies et projets en matière de TI par des ministères, l’ensemble du gouvernement et des regroupements de collectivités d’intérêt;
+4.4.3.13.2
+adoptés lorsqu’ils constituent l’option la plus efficace pour répondre aux besoins opérationnels;
+4.4.3.13.3
+conformes aux lois, aux politiques et aux normes fédérales pertinentes sur la protection des renseignements personnels et la sécurité.
+4.4.3.14
+Veiller à ce que les installations informatiques situées à l’intérieur des frontières géographiques du Canada ou dans des locaux à l’étranger appartenant à un ministère du gouvernement du Canada, telle qu’une mission diplomatique ou consulaire, soient considérées et évaluées en tant qu’option principale pour la prestation de services impliquant toute l’information et toutes les données électroniques délicates sous le contrôle du gouvernement qui est classée Protégé B, C ou Classifié.
+
+Utilisation des dispositifs et des réseaux
+
+4.4.3.15
+Rédiger des avis destinés aux utilisateurs autorisés des dispositifs et des réseaux pour les informer de ce qui suit :
+4.4.3.15.1
+des attentes quant à l’utilisation acceptable et inacceptable des dispositifs et des réseaux électroniques du gouvernement du Canada, y compris un lien vers la Politique sur les services et le numérique et des instructions à consulter à l’annexe A : Exemples d’utilisation acceptable des dispositifs et des réseaux (liste non exhaustive) et l’annexe B : Exemples d’utilisation inacceptable des dispositifs et des réseaux (liste non exhaustive);
+4.4.3.15.2
+des pratiques de surveillance des réseaux électroniques en vigueur dans leur propre ministère ou par Services partagés Canada (SPC), conformément à l’annexe C : Protection des renseignements personnels et surveillance liées à l’utilisation des dispositifs et réseaux.
+
+Services de la TI alternatifs
+
+4.4.3.16
+Veiller à la conformité avec les procédures établies pour accéder aux mécanismes alternatifs de prestation de services à SPC, au besoin.
+
+Gestion des technologies à risque
+
+4.4.3.17
+Veiller à ce que les technologies sont à jour et que les technologies qui ne sont pas prises en charge ne sont pas utilisées, conformément à l’annexe H : Norme sur la technologie de l’information à risque.
+
+Cybersécurité
+
+4.4.4
+L’agent désigné pour la cybersécurité, en collaboration avec le DPI ministériel et le dirigeant principal de la sécurité, le cas échéant, est responsable de ce qui suit :
+4.4.4.1
+Veiller à ce que les exigences en matière de cybersécurité et les mesures axées sur le risque qui sont appropriées soient gérées en permanence au moyen d’une approche d’identification, de protection, de détection, d’intervention et de reprise des systèmes et des services d’information conformément à l’annexe B de la Directive sur la gestion de la sécurité : Procédures obligatoires relatives aux mesures de sécurité de la technologie de l’information.
+4.4.4.2
+Veiller à ce que des plans, des processus et des procédures ministériels soient en place pour réagir aux événements de cybersécurité et signaler les incidents aux autorités pertinentes et aux intervenants touchés, conformément au Plan de gestion des événements de cybersécurité du gouvernement du Canada.
+4.4.4.3
+Prendre des mesures immédiates au sein du ministère, tel que prescrit, pour évaluer les répercussions, y compris s’il y a atteinte à la vie privée, et mettre en œuvre des mesures d’atténuation en réponse à des évènements de cybersécurité.
+4.4.4.4
+Faire la liaison avec le bureau de l’accès à l’information et de la protection des renseignements personnels du ministère et le Commissariat à la protection de la vie privée en cas d’atteinte substantielle à la vie privée.
+4.5
+Appuyer les capacités et les compétences de l’effectif
+4.5.1
+Le DPI ministériel est responsable de ce qui suit :
+4.5.1.1
+Fournir un leadership fonctionnel au sein du ministère à l’égard du développement et de la durabilité des collectivités de la TI et de l’information grâce à des stratégies de gestion des talents et de développement des collectivités."
+5. Rôles des autres organisations gouvernementales,"5.1
+Les rôles des autres organisations gouvernementales relativement à la présente directive sont décrits à la section 5 de la Politique sur les services et le numérique."
+6. Application,"6.1
+La présente directive s’applique aux ministères au sens de l’article 2 de la Loi sur la gestion des finances publiques, sauf si des lois, des règlements ou des décrets les en excluent.
+6.2
+Les exigences énoncées dans les sections 4.4.2.1, 4.4.2.2, 4.4.2.3, 4.4.2.4, 4.4.3.9, 4.4.3.10, et 4.4.3.11 s’appliquent uniquement aux ministères au sens de l’article 2 de la Loi sur la gestion des finances publiques, qui reçoivent leurs services de la TI de Services partagés Canada conformément au décret 2015-1071. Les autres ministères ou organismes distincts, non assujettis aux présentes dispositions, sont encouragés à se conformer à ces exigences à titre de pratique exemplaire.
+6.3
+L’exigence de la section 4.4.3.14 s’applique seulement à l’administration publique centrale comme définie à l’article 11.1 de la Loi sur la gestion des finances publiques, sauf si des lois, des règlements ou des décrets les en excluent. Les autres ministères ou organismes distincts, non assujettis aux présentes dispositions, sont encouragés à se conformer à ces exigences en tant que pratique exemplaire.
+6.4
+Petits ministères et organismes :
+6.4.1
+Aux fins de la présente directive, les petits ministères et organismes sont définis comme des organisations qui ont des niveaux de référence, y compris des recettes à valoir sur le crédit, de moins de 300 millions de dollars par année ou qui ont été, aux fins de la présente directive, désignés comme des petits ministères ou organismes par le président du Conseil du Trésor sur recommandation du secrétaire du Conseil du Trésor.
+6.4.2
+Les organisations dont les niveaux de référence augmentent au-dessus ou diminuent en dessousdu seuil de 300 millions de dollars ne seront pas redéfinies comme des grands ou petits ministères ou organismes à moins que leurs niveaux de référence demeurent supérieurs ou inférieurs au seuil pendant trois années consécutives, pour permettre la stabilité et la transition, à moins que le président du Conseil du Trésor, sur recommandation du secrétaire du Conseil du Trésor, n’en décide autrement.
+6.4.3
+En ce qui concerne les petits ministères et organismes, la présente directive s’applique en vertu du paragraphe 6.1 avec les exceptions mentionnées à l’article 4.1.1.1.
+6.5
+Agents du Parlement
+6.5.1
+Les administrateurs généraux des organisations suivantes sont entièrement responsables de la surveillance et d’assurer la conformité avec la présente directive au sein de leur organisation :
+Bureau du vérificateur général
+Bureau du directeur général des élections
+Commissariat au lobbying du Canada
+Commissariat aux langues officielles
+Commissariat à l’information du Canada
+Commissariat à la protection de la vie privée du Canada
+Commissariat à l’intégrité du secteur public du Canada
+6.5.2
+Les sections suivantes ne s’appliquent pas aux agents du Parlement : 4.1.1.1, 4.1.1.2, 4.1.1.3, 4.1.1.4, 4.1.1.5, 4.1.1.10, 4.4.3.2 et 4.4.3.15."
+7. Références,"7.1
+Les références à l’égard de la présente directive sont décrites à la section 7 de la Politique sur les services et le numérique."
+8. Demandes de renseignements,"8.1
+Pour l’interprétation de tout aspect de la présente directive, veuillez communiquer avec le Secrétariat du Conseil du Trésor du Canada – Demandes de renseignements."

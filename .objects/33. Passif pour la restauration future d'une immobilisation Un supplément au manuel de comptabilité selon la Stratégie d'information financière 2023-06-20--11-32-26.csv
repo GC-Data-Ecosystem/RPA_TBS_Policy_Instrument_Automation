@@ -1,0 +1,195 @@
+﻿New column 0,New column 1
+Introduction,"Les frais futurs de restauration d'une immobilisation portent sur certaines obligations qui surgissent lorsqu'une immobilisation est acquise, construite, développée ou déjà exploitée. Toutefois, ces frais ne sont réglés qu'au moment où l'immobilisation est mise hors service à la fin de sa vie utile ou à la fin du contrat. L'obligation de supporter ces frais doit découler d'un contrat ou d'une loi. À titre d'exemple : la nécessité de remettre l'immobilisation louée dans son état d'origine à la fin d'un bail, la nécessité d'aliéner un certain genre de réservoir de stockage de combustible aux termes d'un règlement, la nécessité de décontaminer certains déchets avant qu'ils ne soient libérés ou la nécessité de déclasser une installation nucléaire.
+
+Veuillez prendre note que ce guide fournit l'explication supplémentaire sur l'application des articles 22, 23, 24 et 25 de la Norme comptable 3.1 du Conseil du Trésor – Immobilisations (NCCT 3.1), qui est en vigueur depuis le 29 mars 2001."
+Constatation et mesure,"La constatation du passif est justifiée uniquement par une obligation légale ou contractuelle associée à la mise hors service d'une immobilisation qui exige la restauration de celle-ci. Ces passifs peuvent englober des frais de démantèlement, d'abandon, de nettoyage ou de la restauration d'une immobilisation.Lorsque ces frais peuvent être estimés de façon raisonnable:
+
+ils doivent être ajoutés à la valeur comptable de l'immobilisation et amortis sur le reste de sa vie utile;
+une provision pour les frais estimatifs de la restauration future de l'immobilisation doit être constatée au titre de passif.
+
+Lorsqu'il est prévu que les frais de restauration futurs d'une l'immobilisation seront importants, mais qu'ils ne peuvent être estimés de façon raisonnable, il convient de déclarer un passif éventuel dans les notes des états financiers ministériels conformément à la Norme comptable du Conseil du Trésor 3.6 – Éventualités).
+
+Ce traitement comptable s'explique par le fait que les frais futurs de restauration de l'immobilisation sont liés à l'utilisation de l'immobilisation et que, par conséquent, ils doivent être constatés au fil des années d'utilisation et non au moment où les travaux de restauration sont exécutés.
+
+Le ministère doit constater le passif pour la restauration future d'une immobilisation dans la période ou l'immobilisation est mise en service et lorsqu'une estimation raisonnable des frais peut être faite. L'estimation initiale des frais de restauration doit correspondre à une juste valeur basée sur les meilleurs renseignements disponibles lorsque l'immobilisation est initialement mise en service, tel que les prix courants du marché ou les prix pour des travaux semblables. Si, en ce qui concerne les frais futurs de restauration, les besoins de trésorerie futurs sont définis, l'estimation des flux monétaires futurs devrait être actualisée au taux d'intérêt débiteur du gouvernement du Canada, afin d'établir approximativement la juste valeur totale de l'immobilisation lorsque l'immobilisation est mis en service tel qu'indiquer dans l'annexe A.
+
+Au cours des années suivantes, une technique d'actualisation, rajustée selon l'indice des prix à la consommation (IPC) doit être appliquée au solde du passif constaté au début de l'exercice afin d'estimer la juste valeur du passif de clôture au 31 mars de chaque année (voir l'annexe B). Bien que les estimations doivent être réexaminées après quelques années ou selon les circonstances qui pourraient les modifier, les ministères doivent s'assurer que le rajustement de la valeur actualisée est au minimum effectué chaque année en l'absence de réévaluation. En d'autres mots, les ministères doivent tenir compte de l'inflation pour maintenir les estimations à jour.
+
+Le taux d'intérêt débiteur du gouvernement du Canada pour 25 ans doit être utilisé lorsque les frais futurs de restauration et les flux monétaires futurs estimés s'étendent sur plus de 25 ans.
+
+Veuillez noter que les frais à capitaliser ne comprennent pas ceux liés au passif environnemental attribuable aux sites contaminés et aux sites d'enfouissement de déchets solides. Veuillez consulter le guide sur le Passif au titre de l'assainissement des sites contaminés.
+
+Durant la période de transition, la juste valeur des frais estimés de la restauration d'une immobilisation au moment de l'adoption de ce guide doit être ajoutée à valeur comptable d'une immobilisation déjà en service et amortie sur le reste de sa vie utile."
+Divulgations,"Les renseignements suivants sur les frais futurs de restauration d'immobilisations doivent être fournis :
+
+une description générale des frais futurs de restauration et des immobilisations à long terme qui y sont associés;
+un rapprochement de la valeur globale comptabilisée d'ouverture et de fermeture des frais futurs de restauration d'immobilisations, comme suit :
+Tableau de rapprochement :
+Solde d'ouverture (Comptes de rapports financiers (CRF) 24112)
+[plus] Révisions des flux de trésorerie estimatifs (CRF 24112, autorité F419)
+[plus] Charge de désactualisation1 (CRF 51729, Autorité F120)
+[moins] Passifs réglés au cours de la période(CRF 24112, autorité Axxx ou Bxxx)
+[égale] Solde de clôture (CRF 24112)
+
+Note:
+
+Charge de désactualisation : montant correspondant à l'augmentation de la valeur comptable d'une obligation liée à la mise hors service d'une immobilisation, qui est attribuable à l'écoulement du temps."
+Références,"NCCT 3.1 – Immobilisations
+NCCT 3.6 – Éventualités
+Chapitre 3110 du Manuel de l'Institut canadien des comptables agréés (ICCA) – Obligations liées à la mise hors service d'immobilisations"
+Écritures comptables,"Note : Par souci de simplicité, les écritures comptables qui suivent ne comprennent pas la taxe sur les produits et services / la taxe de vente harmonisée (TPS / TVH).
+
+1. Constatation initiale – Voir l'annexe B pour des calculs annuels relatifs aux montants utilisés dans les écritures comptables ci-dessous.
+Un ministère construit une tour de surveillance sur un terrain loué à la condition qu'il remette les lieux dans leur état d'origine à la fin du bail.
+
+Le coût de construction de la tour s'établit à 1 000 000 $, et l'on estime qu'il en coûtera 150 000 $ pour la démanteler et la transporter à la fin du bail de dix ans (prix courant du marché). À la fin de la deuxième année, on estime qu'il en coûtera 10 000 $ de plus pour nettoyer l'emplacement.
+
+(a)  Pour comptabiliser le coût de la tour et les frais futurs de restauration la première année
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Ouvrages et infrastructure	1 000 000	16113	B14A(*)	1339
+Débit : Ouvrages et infrastructure	150 000	16113	F359	7099
+Crédit : Passif pour la restauration future d'immobilisations	150 000	24112	F419	7029
+Crédit : Créditeurs - courants	1 000 000	21111	R300	6299
+(b)  Pour comptabiliser le changement de l'estimation du coût de restauration à la fin de la deuxième année
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Ouvrages et infrastructure	10 000	16113	F359	7099
+Crédit : Passif pour la restauration future d'immobilisations	10 000	24112	F419	7029
+Justification du code du CRF :
+
+Le coût de construction de la tour de 1 000 000 $ et des frais de restauration futurs de 150 000 $ sont capitalisés au titre de solde de l'immobilisation au moyen du code 16113. Le crédit de 150 000 $ est porté au compte de passif 24112, qui restera ouvert jusqu'à l'exécution des travaux de restauration dans dix ans. Puisque le Ministère n'a pas encore payé la tour, un créditeur doit être comptabilisé au titre de montant dû au moyen du code 21111. À la fin de la deuxième année, on estime qu'il en coûtera 10 000 $ de plus pour nettoyer l'emplacement; ce montant est ajouté au compte d'actif 16113 et au compte de passif 24112.
+
+Justification du code d'autorisation :
+
+Dans cet exemple, on présume que le coût de la tour de surveillance sera imputé au code B14A. Toutefois, selon le ministère et l'immobilisation visés, d'autres codes d'autorisation peuvent s'appliquer, tels que B11A B12A ou A131. Puisque les coûts associés à la restauration des lieux ne seront déboursés que dans le futur, le code F359 est utilisé pour l'immobilisation et le code F419, pour le passif. Comme d'habitude, le code R300 est utilisé pour les comptes créditeurs.
+
+B14A : Crédit pour dépenses en capital
+B11A ou B12A : Crédit pour dépenses de programmes et pour dépenses de fonctionnement
+A131 : Dépenses des produits de l'aliénation des biens meubles en surplus de la Couronne
+F359 : Autres montants ne nécessitant pas de crédit parlementaire ajoutés aux, ou déduits des comptes d'actifs
+F419 : Autres charges et imputations aux provisions
+R300 : Montants totaux (ou nets, selon le cas) de tous les autres éléments d'actif et de passif
+
+Note : Pour en savoir davantage sur le code A131, veuillez consulter les articles 13 à 15 de la Loi sur les biens de surplus de la Couronne.
+
+Justification du code d'article :
+
+Le code 1339 est utilisé pour constater le coût de la tour de surveillance. Le code 7099 est utilisé au titre de l'augmentation de la valeur de l'immobilisation attribuable aux frais futurs de restauration des lieux, et le code 7029 est utilisé au titre de la provision pour le passif correspondant. Le code 6299 est utilisé pour les comptes créditeurs.
+
+1339 : Autres travaux de génie
+7099 : Augmentation ou diminution nette en autres transactions
+7029 : Autres provisions
+6299 : Augmentations ou diminutions nettes dans d'autres passifs
+2. Écritures en fin d'exercice – Voir l'annexe B pour des calculs annuels relatifs aux montants utilisés dans les écritures comptables ci-dessous.
+(a)  Pour constater l'amortissement de la tour de surveillance (fin de la première et de la deuxième année)
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Charges d'amortissement – Ouvrages et infrastructures	115 000	51413	F111	3451
+Crédit : Amortissement cumulé des ouvrages et des infrastructures	115 000	16213	F311	7061
+(b)  Pour constater l'amortissement de la tour de surveillance (à partir de la fin de la troisième année)
+Compte de rapports financiers (CRF)	Montant $	CRF	Code d'autorisation	Code d'article
+Débit : Charge d'amortissement – Ouvrages et infrastructures	116 250	51413	F111	3451
+Crédit : Amortissement cumulé des ouvrages et des infrastructures	116 250	16213	F311	7061
+Justification du code du CRF :
+
+Selon un amortissement linéaire sur dix ans, le coût de l'actif et des frais futurs de restauration sont répartis sur la vie utile de l'actif. À la fin de la deuxième et de la troisième année, les charges d'amortissement s'établiraient à 115 000 $ (1 150 000 $ [divisé par] 10 ans). À partir de la fin de la troisième année, les charges d'amortissement équivaudraient à 116,250 $ [(1 150 000 $ [moins] 230 000 $ [plus] 10 000 $) [divisé par] 8 ans].
+
+Si une valeur de récupération actualisée de 20 000 $ est prévue pour la vente de la structure démantelée à la fin du contrat, le montant de l'amortissement serait de 980 000 $ (1 000 000 $ [moins] 20 000 $) et, à la fin de la première et de la deuxième année, les charges d'amortissement s'établiraient à 113 000 $ [(980 000 $ [plus] 150 000 $) [divisé par] 10 ans]. À partir de la fin de la troisième année, les charges d'amortissement équivaudraient à 114 250 $ [(980 000 $ [plus] 150 000 $ [moins] 226 000 $ [plus] 10 000 $) [divisé par] 8 ans].
+
+Justification du code d'autorisation :
+
+Les codes F111 et F311 sont utilisés parce que les dépenses de construction de la tour ont été imputées à un crédit au moyen d'une écriture antérieure. Par conséquent, l'écriture des charges d'amortissement de la tour construite n'a pas d'incidence sur les autorisations.
+
+F111 : Charges d'amortissement des immobilisations
+F311 : Augmentation (diminution) de l'amortissement cumulé des immobilisations
+Justification du code d'article :
+
+Les codes 3451 et 7061 sont utilisés parce qu'il s'agit d'éléments hors caisse (autres que de dépenses) qui n'ont aucune incidence sur les articles économiques.
+
+3451 : Charges d'amortissement des immobilisations
+7061 : Amortissement accumulé sur les immobilisations
+(c)  Pour mettre à jour le solde du passif avec les rajustements de la valeur actualisée – Voir l'annexe B pour des calculs annuels relatifs aux montants utilisés dans les écritures comptables ci-dessous.
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Autres charges diverses	3 000	51729	F120	3469
+Crédit : Passif pour la restauration future d'immobilisations	3 000	24112	F419	7029
+Justification du code du CRF :
+
+Le rajustement de la valeur actualisée est le produit obtenu en multipliant le facteur de l'IPC par le solde de clôture de l'exercice précédent. Voir la colonne Autres charges diverses à l'annexe B. Le rajustement de la valeur actualisée est débité au compte 51729, Autres charges diverses, et crédité au compte 24112, Passif au titre de la restauration future d'immobilisations.
+
+Justification du code d'autorisation :
+
+Les codes F120 et F419 sont utilisés parce que les frais futurs associés à la restauration de l'immobilisation ne seront déboursés que dans le futur.
+
+F120 : Charges correspondantes à l'augmentation de la valeur comptable d'un passif lié à la mise hors service d'une immobilisation attribuable à l'écoulement du temps
+F419 : Autres charges et imputations aux provisions
+Justification du code d'article :
+
+Le code 3469 est utilisé pour la charge d'opération liée au rajustement à l'inflation, et le code 7029 est utilisé pour le passif correspondant. Le solde du passif correspond à la juste valeur estimée du passif pour la restauration future d'immobilisations à la fin de l'exercice.
+
+3469 : Charges aux autres comptes de passifs
+7029 : Autres provisions
+3. À la fin de la durée du bail – Voir l'annexe B pour les calculs annuels relatifs aux montants utilisés dans les écritures comptables ci-dessous.
+Scénario A - Dix années se sont écoulées et le bail est terminer. La tour est démantelé et transporté et les lieux sont remit dans leur état d'origine.
+
+Le solde du passif au titre de la restauration future de l'immobilisation s'établit à 194 566 $ (150 000 $ [plus] 10 000 $ [plus] rajustement de la valeur actualisée de 34 566 $). Toutefois, les frais réels de démolition de la tour et de nettoyage s'élèvent à 175 000 $ (a) ou à 210 000 $ (b).
+
+(a) Pour comptabiliser les frais réels de restauration inférieurs au solde du passif
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Passif pour la restauration future   d'immobilisations	175 000	24112	B14A(*)	0819 ou
+0499
+Débit : Passif pour la restauration future d'immobilisations	19 566	24112	F419	7029
+Crédit : Autres charges diverses	19 566	51729	F120	3469
+Crédit : Créditeurs - courants	175 000	21111	R300	6299
+(b) Pour comptabiliser les frais réels de restauration supérieurs au solde du passif
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Passif pour la restauration future d'immobilisations	194 566	24112	B14A(*)	0819 ou 0499
+Débit : Autres charges diverses	15 434	51729	B14A(*)	0819 ou 0499
+Crédit : Créditeurs - courants	210 000	21111	R300	6299
+Justification du code du CRF :
+
+Le passif de 194 566 $ (150 000 $ [plus] 10 000 $ [plus] le rajustement de la valeur actualisée de 34 566 $) consigné à titre de frais estimatifs de la restauration future de l'immobilisation est porté au débit. Le compte créditeur 21111 correspond aux frais réels de restauration. La différence entre le solde du passif et le montant réel du compte créditeur est portée au crédit ou au débit au 51729.
+
+Justification du code d'autorisation :
+
+Puisqu'il s'agit d'une charge légitime sur un crédit de fonctionnement, les frais de restauration sont imputés sur le crédit pour dépenses en capital, B14A, ou aux autres crédits appropriés, comme B11A, B12A ou A131. La différence entre le solde du passif et les frais réels de restauration en (a) devrait être imputée au code F419 initialement utilisé. Les comptes créditeurs n'ayant pas d'incidence sur les autorisations, le code R300 est utilisé.
+
+B14A : Crédit pour dépenses en capital
+B11A ou B12A : Crédit pour dépenses de programmes et pour dépenses de fonctionnement
+A131 : Dépenses des produits de l'aliénation des biens meubles en surplus de la Couronne
+F419 : Autres charges et imputations aux provisions
+R300 : Montants totaux (ou nets, selon le cas) de tous les autres éléments d'actif et de passif
+Justification du code d'article :
+
+Les codes 0819, 0499 ou d'autres codes de services professionnels peuvent être utilisés pour les frais de restauration, selon la nature des services. Le code 6299 sert à établir les créditeurs.
+
+0819 : Contrats de service personnels non professionnels, non spécifiés ailleurs
+0499 : Autres services personnels non précisés ailleurs
+3469 : Charges aux autres comptes de passifs
+6299 : Augmentations ou diminutions nettes dans d'autres passifs
+
+(c) Pour comptabiliser la vente de l'immobilisation et les gains réalisés
+
+Scénario B - Cinq années se sont écoulées, et le ministère choisit de vendre l'immobilisation à un acheteur extérieur contre 600 000 $.
+
+Veuillez suivre la Directive sur la vente ou le transfert des biens immobiliers excédentaires du Conseil du Trésor pour connaître les procédures de vente et d'accès aux produits de la vente.
+
+Compte de rapports financiers (CRF)	Montant $	Code de CRF	Code d'autorisation	Code d'article
+Débit : Passif pour la restauration future d'immobilisations	176 224	24112	D321	4843
+Débit : Fonds détenus par les ministères en attente pour dépôt au crédit du Receveur général	600 000	11125	R300	5299
+Débit : Amortissement cumulé des ouvrages et infrastructures	578 750	16213	D321	4843
+Crédit : Ouvrages et infrastructure	1 160 000	16113	D321	4843
+Crédit : Gain sur disposition d'immobilisations à des tiers	194 974	42411	D321	4843
+Justification du code du CRF :
+
+Le passif de 176 224 $ (150 000 $ [plus] 10 000 $ [plus] le rajustement de la valeur actualisée de 16 224 $) comptabilisé au titre des frais estimés pour la restauration des lieux est débité. L'immobilisation est créditée de son coût d'origine, et l'amortissement cumulé est débité, de sorte qu'ils ne figurent plus dans le système. La différence entre le produit de la vente moins la valeur comptable nette de l'immobilisation et les frais futurs de restauration des lieux est crédité à titre de gain (ou débité à titre de perte, selon le cas).
+
+Justification du code d'autorisation :
+
+Puisque le montant reçu n'a aucune incidence sur les crédits, le code R300 est utilisé. Le code D321, code d'autorisation de dépenses réservé à l'aliénation des biens en surplus de la Couronne, est utilisé pour les débits et les crédits restants.
+
+R300 : Montants totaux (ou nets, selon le cas) de tous les autres éléments d'actif et de passif
+D321 : Produit de l'aliénation des biens meubles en surplus de la Couronne
+Justification du code d'article :
+
+Puisque la comptabilisation des objets économiques se fonde sur les dépenses, le code 5299 est utilisé pour comptabiliser l'incidence nette sur les comptes de caisse et le code 4843 sert à comptabiliser le produit de la vente
+
+4843 : Biens excédentaires d'État vendus
+5299 : Augmentations ou diminutions nettes de comptes de caisse"

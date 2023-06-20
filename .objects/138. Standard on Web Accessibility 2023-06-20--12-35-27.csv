@@ -1,0 +1,154 @@
+﻿New column 0,New column 1
+1. Effective date,"1.1 This standard took effect on August 1, 2011 and was updated March 31, 2013. It replaces Part 2 of the Common Look and Feel 2.0 Standards for the Internet."
+2. Application,"2.1 This standard applies to ""departments"" as defined in section 2 of the Financial Administration Act, with the exception of paragraphs (b) and (c), and unless excluded by specific acts, regulations or Orders in Council.
+
+2.2 Section 6 applies to all Web pages:
+
+That are public-facing (i.e., available to individuals and businesses outside of the Government of Canada);
+For which the department is accountable; and
+That are provided through Government of Canada Web sites and Web applications.
+
+2.3 Section 6 does not apply to:
+
+Web content that the department is not accountable for;
+Web pages that are archived on the Web; and
+Video content provided exclusively for reuse by media for broadcast purposes.
+
+2.4 Section 6.1.1 is implemented in phases and applies as follows:
+
+Phase I (August 1, 2011 – February 29, 2012)
+All home pages and pages referenced from website and Web application home pages.
+Significant number of Web pages that provide the most important information and services for individuals and businesses including rights and benefits.
+Significant number of Web pages that are the most frequently used.
+All new Web pages published post October 1, 2011 must immediately conform
+Phase II (March 1, 2012 – July 31, 2012)
+Additional Web pages that provide the most important information and services for individuals and businesses including rights and benefits.
+Additional Web pages that are the most frequently used.
+Phase III (August 1, 2012 - July 31, 2013)
+Remaining Web pages.
+
+2.5 Specific requirements of section 6.1.1 do not apply to:
+
+Web content where exclusion for a period of time can be demonstrably justified; and
+Web content that is excluded by the Web Content Accessibility Guidelines (WCAG) 2.0, such as essential images of text.
+
+A list of exclusions is attached in Appendix B.
+
+2.6 Sections 7.2, 7.3 and 8.2 relating to the role of the Treasury Board Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance."
+3. Context,"3.1 The Web channel is an important part of the Government of Canada's commitment to multi-channel access and service delivery. The Government of Canada is committed to ensuring that a high level of Web accessibility is applied uniformly across its websites and Web applications.
+
+Web technologies and standards are constantly evolving and web accessibility plays a major role in making the Government of Canada Web channel more effective and inclusive. To meet the Government of Canada commitment to Web accessibility, the Government of Canada has adopted the WCAG 2.0. The WCAG 2.0 states: ""Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.""
+
+3.2 This standard supports the Policy on Management of Information Technology and the management of GC Web presence by providing departmental Chief Information Officers (CIO) or equivalents as well as heads of communications or other officials supporting the management of IT with additional requirements to ensure consistency in IT management processes.
+
+3.3 This standard is issued under the authority of section 7 of the Financial Administration Act by the Secretary of the Treasury Board pursuant to subsection 6(4) of the Financial Administration Act and section 3.5 of the Policy on Management of Information Technology.
+
+3.4 This standard is to be read in conjunction with the Standard on Web Usability, the Standard on Web Interoperability and the Standard on Optimizing Websites and Applications for Mobile Devices."
+4. Definitions,4.1 Definitions to be used in the interpretation of this standard are attached in Appendix A.
+5. Standard statement,"5.1 Objective
+
+5.1.1 The objective of this standard is to ensure a high level of Web accessibility is applied uniformly across Government of Canada websites and Web applications.
+
+5.2 Expected Results
+
+5.2.1 Government of Canada websites and Web applications respect internationally accepted guidelines for Web accessibility and are measured consistently."
+6. Requirements,"6.1 Managers, functional specialists, and equivalents responsible for Web content or Web pages are responsible for:
+
+6.1.1 Ensuring each Web page meets all five WCAG 2.0 conformance requirements:
+
+Conformance requirement 1 (Conformance Level) defines the levels of conformance.
+It can only be met if the following are true:
+Level AA conformance is met in full.
+Common failures are avoided for all applicable success criteria.
+Sufficient techniques are used to meet all applicable success criteria.
+Sufficient techniques specific to each technology (that is relied upon) are used where applicable.
+Conformance requirement 2 (Full pages) defines what needs to be assessed for a Web page.
+Conformance requirement 3 (Complete processes) defines what needs to be assessed for a Web page that is part of a process.
+Conformance requirement 4 (Only Accessibility-Supported Ways of Using Technologies) defines the ways of using technologies that can be relied upon to satisfy the success criteria. It can only be met by use of the following technologies:
+XHTML 1.0 or later excluding deprecated elements and attributes,
+HTML 4.01 excluding deprecated elements and attributes,
+HTML5 or later excluding obsolete features, or
+Technologies with sufficient techniques (specific to each technology) to meet all applicable success criteria.
+Conformance requirement 5 (Non-Interference) defines requirements for ways of using technologies which are not relied upon to satisfy the success criteria.
+
+A list of exclusions is attached in Appendix B.
+
+6.2 The senior departmental official, designated by the deputy head, is responsible for:
+
+6.2.1 Overseeing the implementation of this standard in their department and carrying out the activities referred to in 7.2.
+
+6.3 The departmental Chief Information Officer (CIO) or equivalent is responsible for:
+
+6.3.1 Ensuring that software and systems acquired by departments enable websites and Web applications to meet the requirements of section 6.1.1 or are modifiable to enable them to meet these requirements."
+7. Monitoring and reporting requirements are as follows:,"Deputy heads
+
+7.1 Deputy heads are responsible for monitoring adherence to this standard within their departments, consistent with the provisions of the Treasury Board's Policy on Evaluation, and Policy on Internal Audit, and for ensuring that appropriate remedial action is taken to address any deficiencies within their departments.
+
+Senior departmental official
+
+7.2 The senior departmental official, designated by the deputy head, is responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.
+
+Government-wide
+
+7.3 The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:
+
+assessments under the Management Accountability Framework;
+examinations of Treasury Board submissions, departmental performance reports, results of audits, evaluations and studies; and
+work performed in collaboration with departments.
+
+7.4 Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted)."
+8. Consequences,"8.1 In instances of non-compliance, deputy heads are responsible for taking corrective measures, within their organization with those responsible for implementing the requirements of this standard.
+
+8.2 Consequences of non-compliance with this standard can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.
+
+8.3 Potential corrective actions, including consequences, are included in Appendix C and align with the Framework for the Management of Compliance."
+9. Roles and responsibilities of government organizations,"9.1 Treasury Board of Canada Secretariat (Chief Information Officer Branch), in consultation with other departments, is responsible for the following:
+
+9.1.1 Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments;
+
+9.1.2 Communicating and engaging the government-wide Web community on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government; and
+
+9.1.3 Providing support to the CIO Council and other committees and working groups, as necessary, to address government-wide challenges and opportunities related to implementing this standard and its supporting instruments.
+
+9.1.4 Publishing and maintaining the list of exclusions from specific requirements of section 6.1.1."
+10. References,"10.1 Relevant Legislation
+Canadian Charter of Rights and Freedoms
+Canadian Human Rights Act
+Financial Administration Act
+10.2 Related Policy Instruments and Publications
+Common Services Policy
+Communications Policy of the Government of Canada
+Directive on the Management of Information Technology
+Directive on Official Languages for Communications and Services
+Directive on Privacy Practices
+Foundation Framework for Treasury Board Policies
+Framework for the Management of Compliance
+Guidance on Implementing the Standard on Web Accessibility
+Policy on Evaluation
+Policy Framework for Service Improvement in the Government of Canada
+Policy on Government Security
+Policy on Information Management
+Policy on Internal Audit
+Policy on Management of Information Technology
+Policy on the Duty to Accommodate Persons with Disabilities in the Federal Public Service
+Policy on Privacy Protection
+Policy on Official Languages
+Standard on Optimizing Websites and Applications for Mobile Devices
+Standard on Privacy and Web Analytics
+Standard on Social Media Account Management
+Standard on Web Usability
+Standard on Web Interoperability
+10.3 Related External Standards and Specifications
+Accessible Rich Internet Applications (WAI-ARIA) 1.0
+Authoring Tool Accessibility Guidelines (ATAG) 2.0
+HTML5
+User Agent Accessibility Guidelines (UAAG) 2.0
+Web Content Accessibility Guidelines (WCAG) 2.0
+XHTML 1.0 The Extensible HyperText Markup Language"
+11. Enquiries,"Please direct enquiries about this standard to your department's Web Standards Centre of Expertise. For interpretation of this standard, Web Standards Centres of Expertise should contact:
+
+Digital Policy
+Office of the Chief Information Officer
+Treasury Board of Canada Secretariat
+Ottawa ON K1A 0R5
+E-mail: DPPN@tbs-sct.gc.ca"

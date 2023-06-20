@@ -1,0 +1,91 @@
+﻿New column 0,New column 1
+1. Référence,"1.1 Titre
+Numéro d'entreprise
+1.2 Indicatif
+NCTTI-30
+1.3 Catégorie
+Norme
+1.4 Entrée en vigueur
+Juin 1996
+1.5 Autorisation
+Conseil du Trésor du Canada
+1.6 Organisme responsable
+Systèmes et technologies
+Secrétariat du Conseil du Trésor, de concert avec la Gestion des risques et du matériel, Bureau des biens immobiliers et du matériel, Secrétariat du Conseil du Trésor
+1.7 Renvois
+NCTTI-6.2, Spécification des systèmes ouverts de l'industrie et du gouvernement – Section 3.2.7 Services d'annuaire et appendice b Spécifications de conformité des services d'annuaire
+NCTTI-11, Codes pour la représentation des noms de pays
+CAN/CSA-Z243.177.6-91 (ISO/IEC 9594-6: 1990) Information Technology – Open Systems Interconnection – The Directory: Selected Attribute Types
+CAN/CSA-Z243.177.7-91 (ISO/IEC 9594-7: 1990) Information Technology – Open Systems Interconnection – The Directory: Selected Object Classes
+1.8 Documents connexes
+RC2(F) Rév. 94 – Le numéro d'enregistrement et vos comptes de Revenu Canada
+RC5(F) Rév. 94  – Conversion au numéro d'entreprise"
+2. Objet,"2.1 Sous réserve des restrictions imposées par la loi, la présente norme du Conseil du Trésor sur les technologies de l'information appuie l'utilisation d'un numéro d'entreprise (NE) pour désigner des entités publiques et privées (c.-à-d. des inscrits), des programmes gouvernementaux et des exécutants.
+
+2.2 Pour appuyer la mise en oeuvre du NE, la présente norme désigne Revenu Canada comme l'organisation émettrice et énonce les méthodes à suivre et les renseignements d'identification à fournir en vue de l'attribution d'un NE et de la prestation de services.
+
+2.3 La présente norme exige l'utilisation du NE dans les opérations commerciales applicables et prévoit des possibilités de réduction de coûts, de même que la rationalisation et l'accélération du processus de prestation des services de l'administration fédérale."
+3. Champ d'application,"3.1 La présente norme vise toutes les opérations commerciales applicables entre des entités publiques et privées, conformément à la politique ou à la réglementation émise en vertu des lois applicables, et des entités du gouvernement du Canada désignées ministères aux annexes 1 et 2 de la Loi sur la gestion des finances publiques.
+
+3.2 Un NE doit être utilisé pour toutes les opérations commerciales avec le gouvernement du Canada découlant des obligations liées aux programmes indiqués au paragraphe 5.3 ci-après.
+
+3.3 La présente norme vise tous les systèmes qui engendrent et transmettent des opérations commerciales ayant trait aux programmes indiqués au paragraphe 5.3 ci-après."
+4. Spécifications,"4.1 Le NE comporte un numéro d'enregistrement à neuf chiffres et un identificateur de compte à six caractères, tels que précisé à l'appendice A. L'identificateur de compte utilise deux lettres pour désigner uniquement un programme et quatre chiffres pour désigner uniquement un exécutant de ce programme.
+
+4.2 L'appendice B définit les renseignements d'identification de l'inscrit qui sont requis pour assurer l'enregistrement et la communication entre le gouvernement du Canada et les inscrits ou ses exécutants.
+
+4.3 Pour obtenir un NE, tous les requérants doivent suivre les procédures d'attribution et de tenue à jour établies par l'organisation émettrice ou l'agent émetteur."
+5. Conditions,"5.1 Des renseignements supplémentaires portant sur les organismes publics et privés applicables, les obligations juridiques et les critères de déclaration figurent dans les documents fournis pour chaque programme par l'organisation émettrice ou par l'agent émetteur.
+
+5.2 Les renseignements d'identification de l'inscrit doivent être exacts et à jour pour garantir la rapidité du processus de prestation de services. Tous les détenteurs de NE doivent faire rapport à l'organisation émettrice ou à l'agent émetteur applicable de toute modification aux renseignements d'identification de l'inscrit ou à la participation à des programmes (voir la tenue à jour du NE à l'appendice A et les renseignements d'identification à l'appendice B).
+
+5.3 Au départ, la présente norme se limitera aux programmes suivants : la taxe sur les produits et services (TPS); les importations-exportations; l'impôt sur le revenu des corporations; les retenues sur la paye. D'autres programmes s'ajouteront selon les besoins et les ressources. L'appendice A.1.2.1 précise les programmes susceptibles d'être intégrés à cette liste en conformité avec une stratégie de mise en oeuvre que l'organisation émettrice est en train d'élaborer en vue d'appliquer le NE à d'autres opérations."
+6. Mise en oeuvre,"6.1 À compter de janvier 1995, la mise en oeuvre du système se fera par étapes. Tous les inscrits actuels qui détiennent un numéro de compte « ancien modèle » seront invités à se convertir au système du NE. À compter du 1er janvier 1997, l'utilisation du NE sera obligatoire pour toutes les opérations effectuées dans les quatre programmes précisés au paragraphe 5.3.
+
+6.2 Tous les systèmes en voie d'élaboration ou de modification à la date d'adoption de la présente norme devront indiquer leur NE dans le cadre d'opérations avec le gouvernement du Canada.
+
+6.3 Tous les plans de technologie de l'information élaborés après l'adoption de la présente norme devront se fonder sur une stratégie acceptable de passage aux NE ou de mise en oeuvre du NE.
+
+6.4 L'organisation émettrice est chargée en exclusivité d'appliquer tous les aspects du NE : l'attribution, la promotion, l'administration, la diffusion, l'application à de nouveaux programmes et la protection de l'intégrité de l'information sur le NE, y compris l'enregistrement, la mise en oeuvre et la conservation des identificateurs de programme attribués.
+
+6.5 L'organisation émettrice peut désigner d'autres organisations comme agents émetteurs pour l'aider à s'acquitter des obligations énoncées au paragraphe 6.4."
+7. Groupe de travail fédéral chargé des normes,"Groupe de travail gouvernemental sur le NEUE
+
+Graham Chambers (président), SCT
+Des Beckstead, SC
+Ed Buchinski (secrétaire), SCT
+Paul Drolet, RNCan
+Ronald Fauvel, SCT
+Robert Graham, EC
+John Horsley, TPSGC
+Douglas Kirk, EC
+Mark Lalonde, RC
+Audrey Nicholson, RC
+William Penner, SC
+Robert Porteous, TPSGC
+Rod Quiney, RC
+Pierre Raby, AINC
+Major Yves Rioux, MDN
+Bruce Shepley, TPSGC
+Wayne Stanton, DRHC
+Jo Ellen Welsford, IC"
+8. Commande d'exemplaires,"On peut obtenir des documents d'information en s'adressant à l'organisation émettrice et aux agents émetteurs applicables. Au départ, on ne pourra obtenir l'information que de :
+
+Numéro d'entreprise Revenu Canada
+7e étage, Tour C
+Place Vanier
+25, avenue McArthur
+Ottawa, Ontario
+K1A OL5
+
+Pour le service en anglais, appelez au 1-800-959-5525
+Pour le service en français, appelez au 1-800-959-7775
+
+Pour obtenir des exemplaires de la norme CAN/CSA Z243.177 : 1991 (ISO/IEC 9594 : 1990), s'adresser à :
+
+Association canadienne de normalisation
+178, boul. Rexdale
+Rexdale (Toronto), ON
+M9W 1R3
+Téléphone : 1 (416) 747-4000
+Télécopieur : 1 (416) 747-4149"

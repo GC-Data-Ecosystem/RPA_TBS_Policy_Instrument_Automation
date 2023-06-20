@@ -1,0 +1,44 @@
+﻿New column 0,New column 1
+Introduction,"Conformément à la Directive sur l'aliénation du matériel en surplus,dans la mesure du possible, les ministères doivent mettre les biens matériels en surplus à la disposition des autres ministères et organismes du gouvernement fédéral avant d'en faire l'aliénation hors du secteur fédéral, et que ce soit gratuitement, à la valeur comptable ou à la valeur marchande.
+
+Norme comptable 3.1 du Conseil du Trésor – Immobilisationsexige que les transferts d'immobilisations entre ministères soient comptabilisés à la valeur comptable nette du bien peu importe si ces immobilisations sont transférées à un autre ministère gratuitement, à la valeur comptable ou à la valeur marchande. Le ministère qui reçoit le transfert doit comptabiliser le coût d'origine de ce bien ainsi que son amortissement cumulé à la date du transfert. De plus, le coût d'origine de l'immobilisation transférée ainsi que son amortissement accumulé doivent être éliminés des livres du ministère à l'origine du transfert. Par conséquent, le traitement comptable de ce transfert ne devrait pas donner lieu à un gain ou à une perte et la transaction ne devrait avoir aucun effet à l'échelle du gouvernement. Étant donné que les transferts interministériels sont des opérations entre apparentés, il faut que la valeur comptable nette de l'immobilisation soit créditée ou débitée dans les comptes d'avoirs des ministères.
+
+De plus, le ministère à l'origine du transfert ne peut pas réutiliser les montants découlant d'un transfert interministériel du matériel en surplus, car la Loi sur les biens de surplus de la Couronne permet aux ministères de dépenser le produit d'une vente uniquement quand cette vente est effectuée à un tiers. Veuillez consulter l'analyste de programmes du Secrétariat du Conseil du Trésor qui s'occupe de votre ministère si vous souhaitez accéder à ces montants. Les transferts interministériels de l'immobilisation ne sont pas comptabilisés comme les transferts interministériels de fonds.
+
+Pour qu'il n'y ait aucun effet sur les rapports du gouvernement, les ministères devraient veiller à ce que leurs écritures comptables soient faites dans la même période."
+Références,"Loi sur les biens de surplus de la Couronne
+Norme comptable 3.1 du Conseil du Trésor – Immobilisations
+Directive sur l'aliénation du matériel en surplus
+Chapitre 3840 du Manuel de l'ICCA portant sur les opérations entre apparentés"
+Écritures comptables,"1. Transfert d'une immobilisation entre deux ministères
+Scénario A - Un ministère transfère un véhicule automobile à un autre ministère.
+
+La valeur comptable nette du véhicule automobile transféré à l'autre ministère est 35 000 $ (le coût d'origine de 50 000 $ moins l'amortissement cumulé de 15 000 $).
+
+(a) Le ministère à l'origine du transfert commence le processus en enlevant l'immobilisation de ses livres.
+Compte de rapports financiers (CRF)	Montant $	CRF	Code d'autorisation	Code d'article
+Débit : Amortissement cumulé des véhicles automobiles (non militaires)	15 000	16233	F311	7061
+Débit : Transfert d'immobilisation À/DE – Compte de contrepartie	35 000	37DDD	F999	7099
+Crédit : Véhicules automobiles (non-militaires)	50 000	16133	F319	7099
+(b) Le ministère qui reçoit le transfert fixe la valeur comptable nette du bien dans ses livres.
+Compte de rapports financiers (CRF)	Montant $	CRF	Code d'autorisation	Code d'article
+Débit : Véhicules automobiles (non-militaires)	50 000	16133	F319	7099
+Crédit : Amortissement cumulé	15 000	16233	F311	7061
+Crédit : Transfert d'immobilisation À/DE – Compte de contrepartie 	35 000	37DDD	F999	7099
+Justification du code de CRF :
+
+La valeur de l'immobilisation représentée par le véhicule automobile sous le CRF 16133 ainsi que son amortissement cumulé inscrit sous le CRF 16233 seront enlevés des livres du ministère à l'origine du transfert et inscrits dans les livres du ministère qui reçoit le transfert. Puisque le transfert entre les ministères est comptabilisé à la valeur comptable nette du bien, l'opération ne donne pas lieu à un gain ou à une perte. Par conséquent, le code CRF 37DDD du compte d'avoirs sera utilisé pour indiquer la valeur comptable nette.
+
+Justification du code d'autorisation :
+
+Puisque l'achat du bien par le ministère a eu une incidence sur ses autorisations à dépenser, le transfert ministériel n'a pas d'incidence sur ses crédits. Afin de faciliter le rapprochement des comptes des ministères, les codes « F » sont utilisés pour ces montants ne nécessitant pas de crédit parlementaire. Le code F319 est utilisé pour ajuster la valeur de l'immobilisation et le code F311 est utilisé pour indiquer l'amortissement cumulé. Le code F999 sert à inscrire le changement aux avoirs. 
+
+F311 : Augmentation (diminution) de l'amortissement cumulé des immobilisations
+F319 : Réduction (augmentation) des soldes d'autres actifs
+F999 : Montants ne nécessitant pas de crédit parlementaire
+Justification du code d'article :
+
+Puisque ces éléments sont hors caisse (pas de charges), ils n'influent pas sur les articles, le code 7061 sert à comptabiliser l'amortissement cumulé. Le code 7099 sera utilisé pour tenir compte de l'augmentation ou de la diminution de ces biens.
+
+7061 : Amortissement accumulé sur les immobilisations
+7099 : Augmentation ou diminution nette en autres transactions"

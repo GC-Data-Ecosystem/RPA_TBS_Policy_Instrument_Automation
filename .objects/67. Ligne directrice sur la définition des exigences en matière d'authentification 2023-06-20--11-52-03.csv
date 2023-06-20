@@ -1,0 +1,566 @@
+﻿New column 0,New column 1
+1.0. Introduction et but,"La présente Ligne directrice a pour but d’aider les ministères et organismes
+Note en bas de page
+1 à définir leurs exigences en matière d’authentification pour la prestation de leurs programmes et services, conformément à la Norme sur l’assurance de l’identité et des justificatifs et aux politiques et lois pertinentes.
+
+La présente Ligne directrice permettra aux ministères d’utiliser une approche normalisée à la définition des exigences en matière d’authentification, tout en leur accordant la souplesse voulue pour définir les exigences en fonction de leur application à un contexte donné ou pour répondre à des contraintes particulières.
+
+La dirigeante principale de l’information du gouvernement du Canada instaure la présente Ligne directrice pour appuyer la Politique sur la sécurité du gouvernement, la Directive sur la gestion de l’identité et la Norme sur l’assurance de l’identité et des justificatifs.
+
+Les exigences pertinentes énoncées dans la Norme sur l’assurance de l’identité et des justificatifs (la Norme) sont les suivantes :
+
+relever et évaluer les risques liés à l’identité et au justificatif en utilisant une évaluation des préjudices
+Note en bas de page
+2 liés à une activité de programme, à un service ou à une opération;
+déterminer les niveaux d’assurance requis s’appliquant à l’identité et au justificatif en utilisant les niveaux d’assurance normalisés définis dans la Norme;
+sélectionner les contrôles s’appliquant à l’identité et au justificatif pour atteindre les exigences quant au niveau d’assurance en utilisant les niveaux d’assurance normalisés définis dans la Norme.
+
+La présente Ligne directrice expose un processus d’évaluation simple en deux étapes. Une fois que les ministères ont terminé ce processus, ils doivent pouvoir décrire ce qui suit :
+
+les exigences quant au niveau d’assurance liées à une activité de programme, à un service ou à une opération;
+les options d’authentification dans la mesure où elles se rapportent à l’assurance de l’identité, à l’assurance du justificatif et au processus d’authentification;
+le risque résiduel dans la mesure où il se rapporte à l’identité, au justificatif et à l’authentification.
+
+Les ministères doivent pouvoir décrire ce qui suit :
+
+les facteurs de compensation;
+d’autres mesures de protection;
+les risques acceptables.
+
+La présente Ligne directrice doit être utilisée parallèlement avec les Lignes directrices en matière de sécurité des technologies de l’information (ITSG-31) – Guide sur l’authentification des utilisateurs pour les systèmes TI du Centre de la sécurité des télécommunications Canada (CSTC) et avec les ITSG-33 – Gestion des risques liés à la sécurité des TI : Une méthode axée sur le cycle de vie.
+
+La présente Ligne directrice peut aussi être utilisée pour aider à définir les exigences pour les systèmes de traitement des opérations financières, conjointement avec la Politique sur le contrôle interne et la Directive sur l’authentification et l’autorisation électroniques des opérations financières.
+
+1.1 Public cible
+
+La présente Ligne directrice est destinée aux utilisateurs suivants :
+
+les gestionnaires de programmes et de prestation des services qui ont la responsabilité d’identifier et d’authentifier les clients du gouvernement du Canada (particuliers et entreprises) dans le cadre des exigences de leurs programmes ou de la prestation de leurs services. La présente Ligne directrice peut être utilisée pour évaluer les préjudices afin de déterminer les exigences normalisées quant au niveau d’assurance.
+
+
+les praticiens de la TI et de la sécurité qui ont la responsabilité de recommander, de concevoir, d’élaborer et de fournir des solutions d’authentification qui répondent aux exigences des programmes. Les évaluations et les exigences quant au niveau d’assurance déterminées par les ministères peuvent être utilisées dans le cadre du processus de conception et de recommandation technique.
+1.2 Application
+
+La présente Ligne directrice s’applique aux systèmes (financiers et non financiers), aux services ou aux programmes où il existe un risque de préjudice aux utilisateurs, aux clients, aux ministères ou à l’ensemble du gouvernement du Canada, en raison d’une utilisation inappropriée ou illégale (intentionnelle ou non). Ce risque comprend entre autres l’atteinte à la vie privée, la divulgation non autorisée de renseignements personnels ou de renseignements de nature délicate et l’exécution non autorisée d’opérations financières.
+
+La présente Ligne directrice peut être utilisée pour aider à l’analyse de processus opérationnels (manuels ou automatisés) qui comprennent une composante d’authentification. Par exemple, une visite en personne qui exige que le client soit authentifié avant la réception du service.
+
+La présente Ligne directrice peut aussi être utilisée pour élaborer des exigences ou critères normalisés au moyen des niveaux d’assurance, par exemple, les exigences en matière d’assurance de l’identité, les exigences en matière d’assurance (intégrité) des documents, les exigences de vérification et les exigences en matière d’éléments de preuve.
+
+La présente Ligne directrice ne recommande pas de mettre en œuvre des technologies en particulier pour le processus d’authentification. Pour obtenir de plus amples renseignements pouvant être utilisés conjointement avec la présente Ligne directrice, veuillez consulter la section Documents et outils connexes.
+
+La présente Ligne directrice ne donne pas de directives particulières sur tous les scénarios d’authentification possibles. Elle présente plutôt un cadre pour l’analyse des exigences en matière d’authentification et pour la détermination des principales décisions devant être prises en considération par les gestionnaires.
+
+La présente Ligne directrice ne s’applique pas aux décisions d’autorisation ou de versement. Ces décisions sont habituellement prises indépendamment du processus d’authentification; les ministères doivent les considérer séparément.
+
+La présente Ligne directrice ne traite pas des questions liées à l’utilisation de signatures électroniques, y compris les signatures numériques et les signatures électroniques sécurisées. Ces questions sont traitées dans la Loi sur la protection des renseignements personnels et les documents électroniques, la Loi sur la preuve au Canada, le Règlement sur les signatures électroniques sécurisées et les documents d’orientation connexes.
+
+1.3 Termes clés et définitions
+
+Voici certains termes utilisés dans la présente Ligne directrice, tels que définis dans la Norme. La Norme donne la liste complète des termes et définitions.
+
+Assurance
+certain niveau de certitude quant à la véracité d’une déclaration ou d’un fait.
+Niveau d’assurance
+Un niveau de confiance sur lequel d’autres peuvent s’appuyer.
+Note en bas de page
+3
+Authentification
+Le processus d’établissement de la vérité ou de l’authenticité en vue de la génération d’une assurance.
+Note en bas de page
+4
+Partie ayant autorité
+Un membre d’une fédération qui donne des assurances (du justificatif ou de l’identité) à d’autres membres (parties utilisatrices).
+Source faisant autorité
+collection ou un registre de dossiers tenu par une autorité qui satisfait aux critères établis.
+Justificatif
+Un unique objet (ou identificateur) physique ou électronique délivré ou associé à une personne
+Note en bas de page
+*, un organisme ou un appareil.
+Assurance du justificatif
+L’assurance qu’une personne
+Note en bas de page
+*, un organisme ou un appareil a conservé le contrôle sur l’élément qui lui a été confié (p. ex., une clé, un jeton, un document, un identificateur) et que le justificatif n’a pas été compromis (p. ex., altéré, corrompu, modifié).
+Niveau d’assurance du justificatif
+niveau de confiance avec lequel on peut affirmer qu’une personne
+Note en bas de page
+*, un organisme ou un appareil a conservé le contrôle sur l’élément qui lui a été confié (p. ex., une clé, un jeton, un document, un identificateur) et que le justificatif n’a pas été compromis (p. ex., altéré, corrompu, modifié).
+Fédération
+Une entente de collaboration entre des entités autonomes qui ont accepté de travailler de concert. La fédération repose sur des relations et des normes de confiance à l’appui de son interopérabilité.
+Identité
+Une référence ou désignation servant à distinguer une personne
+Note en bas de page
+*, un organisme ou un appareil unique et particulier.
+Assurance de l’identité
+Un niveau de certitude qu’une personne
+Note en bas de page
+*, un organisme ou un appareil est la personne, l’organisme ou l’appareil qu’il prétend être.
+Niveau d’assurance de l’identité
+niveau de confiance avec lequel on peut affirmer qu’une personne
+Note en bas de page
+*, un organisme ou un appareil est la personne, l’organisme ou l’appareil qu’il prétend être.
+Gestion de l’identité
+L’ensemble de principes, de pratiques, de processus et de procédures permettant à une organisation de remplir son mandat et d’atteindre ses objectifs liés à l’identité.
+Risque lié à l’identité
+Le risque qu’une personne
+Note en bas de page
+*, un organisme ou un appareil ne soit pas la personne, l’organisme ou l’appareil qu’il prétend être.
+Partie utilisatrice
+Un membre d’une fédération qui se fie aux assurances (de justificatif ou d’identité) d’autres membres (parties ayant autorité)."
+2.0. Contexte,"2.1 Authentification électronique et fédération de la gestion de l’identité au gouvernement du Canada
+
+L’authentification est le « processus d’établissement de la véracité ou de l’authenticité à des fins de production d’assurance ». Cette définition est générique et reflète le fait que l’authentification est un vaste concept qui peut englober de nombreux aspects. Dans la plupart des cas, les exigences en matière d’authentification et les processus connexes sont définis dans le contexte d’une exigence de programme ou d’une solution technologique. Même si ces définitions et exigences conviennent dans leurs contextes particuliers, il peut être difficile de les appliquer horizontalement à de nombreux contextes différents, et le recours à une composante ou un service normalisé pourrait convenir davantage.
+
+En 2008, le gouvernement du Canada a lancé l’Initiative de renouvellement de l’authentification électronique pour énoncer une vision et élaborer une stratégie pour passer à une architecture fédérée fondée sur des normes qui permettrait l’utilisation d’autres justificatifs externes au gouvernement.
+
+En 2009, le document Fédérer la gestion de l’identité au gouvernement du Canada : Une mise en contexte a été mis au point. Ce document décrit la vision du gouvernement fédéral à l’égard de la fédération de la gestion de l’identité pour élaborer des services d’authentification en ligne de prochaine génération. Cette vision, de concert avec la Directive sur la gestion de l’identité du Secrétariat du Conseil du Trésor du Canada, donne l’orientation pour élaborer d’autres instruments de politique et mettre en œuvre des solutions technologiques.
+
+2.2 Harmonisation avec le Modèle d’assurance pancanadien
+
+La présente Ligne directrice est conçue pour mettre en pratique les concepts décrits dans le Pan-Canadian Assurance Model (Modèle d’assurance pancanadien), un modèle d’assurance généralisé qui peut être utilisé pour aider différents secteurs de compétence à élaborer des normes acceptées par tous pour assurer l’interopérabilité.
+
+Au moment de son achèvement au début de 2010, le Modèle d’assurance pancanadien représentait une compréhension commune, à l’échelle des administrations fédérales, provinciales, territoriales et municipales, des principaux termes, définitions et concepts pouvant être appliqués de concert avec les normes existantes ou pour élaborer de nouvelles normes. Le Modèle d’assurance pancanadien a été une ressource principale lors de l’élaboration de la Norme sur l’assurance de l’identité et des justificatifs et de la présente Ligne directrice.
+
+Les ministères doivent se familiariser avec le Modèle d’assurance pancanadien.
+
+2.3 Séparation du justificatif et de l’identité
+
+Un élément clé de l’Initiative de renouvellement de l’authentification électronique a été la séparation de l’identité du justificatif. Cette séparation a permis la réalisation de la première phase de la mise en œuvre des services de prochaine génération à l’appui de la fédération des justificatifs. La prochaine phase majeure que le gouvernement du Canada entreprend est la fédération de l’identité.
+
+Conformément au Modèle d’assurance pancanadien, la Norme fait une distinction entre « assurance du justificatif » et « assurance de l’identité ». La figure 1 illustre cette distinction.
+
+Figure 1 : Assurance du justificatif versus assurance de l’identité
+Figure 1 - Version textuelle
+
+L’assurance du justificatif se rapporte au processus consistant à lier un justificatif à une personne unique. Ce processus de liaison ne comprend pas nécessairement l’identité de la personne. Lorsqu’un justificatif est authentifié, le processus donne une assurance du justificatif qui permet d’assurer qu’il s’agit de la même personne qui a auparavant reçu le justificatif.
+
+L’assurance de l’identité se rapporte au processus consistant à établir l’identité réelle d’une personne. Lorsqu’une identité est authentifiée, le processus permet d’assurer que la personne est celle qu’elle prétend être.
+
+Les processus relatifs à l’assurance du justificatif et à l’assurance de l’identité peuvent être mis en œuvre au moyen de contrôles d’intensité croissante qui correspondent aux niveaux d’assurance accrue.
+
+En pratique, la plupart des processus liés à la fourniture et à l’utilisation d’assurances du justificatif et de l’identité ont été combinés. Cependant, dans le cadre de son Initiative de renouvellement de l’authentification électronique, le gouvernement du Canada a séparé ces processus afin de faciliter une approche échelonnée à la fédération.
+
+Cette séparation entre l’identité et le justificatif devient primordiale lorsque les ministères doivent réaliser l’intégration dans une fédération d’une manière qui respecte les exigences législatives des programmes et en matière de protection des renseignements personnels. La séparation permet la « confiance dans les justificatifs », ce qui signifie qu’un ministère peut avoir confiance qu’un justificatif émis à une personne par un autre ministère ou organisme est utilisé par la personne à qui il a été émis même si le ministère en question peut ne pas connaître l’identité de la personne. L’assurance de l’identité de la personne est la responsabilité du ministère qui émet le justificatif.
+
+Du point de vue de la personne, cette séparation comporte en outre d’importantes conséquences en matière de choix et de protection des renseignements personnels. Elle permet de plus à une personne d’utiliser des justificatifs de façon anonyme ou en utilisant un pseudonyme, d’utiliser le même justificatif pour différents services ou encore d’utiliser différents justificatifs pour différents services.
+
+Des renseignements plus détaillés sur la séparation de l’identité et du justificatif sont donnés dans le Modèle d’assurance pancanadien et dans le document Fédérer la gestion de l’identité au gouvernement du Canada : Une mise en contexte.
+
+2.4 Cadres des niveaux d’assurance et de confiance
+
+Les niveaux d’assurance définis dans la Norme sur l’assurance de l’identité et des justificatifs et utilisés dans la présente Ligne directrice sont conformes aux cadres de confiance émergeants de l’industrie et du secteur public (p. ex., Initiative Kantara, Open Identity Exchange, interopérabilité eID). Un cadre de confiance définit l’ensemble des exigences stratégiques, opérationnelles et techniques que les membres d’une fédération ont convenu de respecter. La reconnaissance que l’assurance est un ingrédient essentiel pour officialiser les arrangements fédérés et une composante nécessaire de la gestion collective des risques à l’échelle d’une fédération est au cœur de ces cadres.
+
+Au sens le plus générique, un niveau d’assurance traduit un degré de confiance requis ou un niveau de confiance entre deux parties ou plus, où une partie a convenu de se fier à une autre partie pour réaliser des activités ou des processus pour son compte.
+
+Une fédération est une entente multilatérale entre des parties, où des membres choisis de la fédération, assumant le rôle de parties ayant autorité, sont chargés de fournir des assurances. D’autres membres de la fédération, qui jouent le rôle de parties utilisatrices, se fient à ces assurances.
+
+L’avantage de définir un niveau d’assurance générique, normalisé et requis (appelé exigence relative au niveau d’assurance) est que cela appuie la fédération (et les ententes multilatérales) et facilite la sélection et la mise en œuvre des solutions et exigences normalisées qu’exigent les cadres de confiance émergents.
+
+La Norme sur l’assurance de l’identité et des justificatifs officialise les principaux concepts requis pour la fédération de l’identité. Le concept central est le niveau d’assurance. Le niveau d’assurance s’exprime selon un niveau générique normalisé allant de 1 à 4. Le tableau 1 décrit le cadre servant à évaluer les niveaux d’assurance de l’identité et du justificatif, tels que définis dans la Norme.
+
+Tableau 1 : Cadre de niveau d’assurance
+Niveau	Assurance de l’identité	Assurance du justificatif
+4	Un niveau de confiance très élevé est requis pour assurer qu’une personne est celle qu’elle prétend être. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice sérieux à catastrophique.	Un niveau de confiance très élevé est requis pour assurer qu’une personne a conservé le contrôle sur un justificatif qui lui a été émis et que le justificatif n’a pas été compromis. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice sérieux à catastrophique.
+3	Un niveau de confiance élevé est requis pour assurer qu’une personne est celle qu’elle prétend être. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice modéré à sérieux.	Un niveau de confiance élevé est requis pour assurer qu’une personne a conservé le contrôle sur un justificatif qui lui a été émis et que le justificatif n’a pas été compromis. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice modéré à sérieux.
+2	Un certain niveau de confiance est requis pour assurer qu’une personne est celle qu’elle prétend être. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice minime à modéré.	Un certain niveau de confiance est requis pour assurer qu’une personne a conservé le contrôle sur un justificatif qui lui a été émis et que le justificatif n’a pas été compromis. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice minime à modéré.
+1	Un faible niveau de confiance est requis pour assurer qu’une personne est celle qu’elle prétend être. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice minime à nul.	Un faible niveau de confiance est requis pour assurer qu’une personne a conservé le contrôle sur un justificatif qui lui a été émis et que le justificatif n’a pas été compromis. Une atteinte à l’intégrité risquerait vraisemblablement de causer un préjudice minime à nul.
+
+Une fois qu’une exigence relative au niveau d’assurance est établie, elle peut être utilisée pour déterminer les options d’authentification pour l’assurance de l’identité et l’assurance du justificatif et pour déterminer le processus d’authentification. L’exigence relative au niveau d’assurance est également utile lorsqu’il est nécessaire de se fédérer avec (c.-à-d. faire confiance à) d’autres parties. Selon la portée et la nature de la fédération, ces exigences peuvent renvoyer au fait de faire confiance aux justificatifs (fédération du justificatif) ou à l’identité (fédération de l’identité).
+
+2.5 Adoption de services fondés sur des normes
+
+Un principe clé de l’Initiative de renouvellement de l’authentification électronique du gouvernement du Canada est de permettre aux ministères d’adopter des services fondés sur des normes qui sont disponibles dans le commerce ou d’utiliser des cadres normalisés de l’industrie lorsque c’est possible. La première phase du renouvellement de l’authentification électronique a consisté en la fédération des justificatifs, ce qui a abouti à des composantes de services d’authentification que les ministères doivent adopter (voir la section 3.6, Recours obligatoire aux services d’authentification électronique).
+
+La prochaine phase majeure du renouvellement de l’authentification électronique est la fédération de l’identité. Cette phase sera beaucoup plus complexe, et des services commerciaux et composantes normalisées commencent tout juste à être disponibles. Les ministères doivent se familiariser avec les cadres émergents de manière à ce que, lorsque de nouveaux services et composantes seront disponibles, ils soient prêts à les adopter ou à harmoniser leurs pratiques avec eux.
+
+La présente Ligne directrice est conçue pour aider les ministères dans leur processus d’harmonisation ou d’adoption en fournissant un cadre normalisé pour évaluer l’assurance (l’échelle à quatre niveaux) et pour les encourager à utiliser les cadres de confiance, les normes, les technologies ou les services commerciaux émergents à mesure qu’ils deviennent disponibles.
+
+Le gouvernement du Canada participe activement à l’élaboration de cadres de fédération et de normes connexes. Les ministères peuvent obtenir des renseignements plus détaillés auprès de l’équipe du renouvellement de l’authentification électronique.
+
+Le gouvernement du Canada est déterminé à fournir aux Canadiens un accès sécurisé aux renseignements et services en ligne. La première génération de services d’authentification en ligne était fondée sur des technologies brevetées. Au fil du temps, ces services sont remplacés par des services fondés sur des normes.
+
+D’ici décembre 2012, le gouvernement du Canada aura acquis et mis en œuvre deux services d’authentification électronique basés sur des normes dont l’utilisation sera obligatoire pour les ministères :
+
+CléGC, un service géré d’authentification de justificatifs fourni aux termes d’un contrat au gouvernement du Canada;
+Service de courtier de justificatifs d’identité (SCJI), un service commercial fourni aux termes d’un contrat au gouvernement du Canada. Le SCJI permettra aux utilisateurs d’utiliser des justificatifs externes qu’ils ont déjà avec des institutions financières.
+
+Dans le cadre de l’Initiative de renouvellement de l’authentification électronique, l’Agence du revenu du Canada fournit également sa propre solution de gestion des justificatifs que les particuliers, les entreprises et les représentants peuvent utiliser lorsqu’ils accèdent à ses services en ligne.
+
+2.6 Méthodes connexes de gestion des risques
+
+En août 2010, le Secrétariat du Conseil du Trésor du Canada a publié le Cadre stratégique de gestion du risque. Ce cadre reconnaît que le défaut de gérer efficacement les risques peut faire augmenter le coût des programmes et faire rater des occasions, ce qui peut mettre en péril les résultats de programmes et, au bout du compte, miner la confiance du public. Étant donné l’émergence récente des cadres de confiance, on est de plus en plus conscient qu’en plus de la gestion du risque, l’officialisation de relations de confiance avec d’autres organismes (c.-à-d. la fédération) constitue un moyen de réduire les coûts de programmes et de rationaliser les processus. Autrement dit, la combinaison de la réduction des risques et de l’augmentation de la confiance peut accroître tant l’efficacité que l’efficience.
+
+L’évaluation des risques vise à répondre à deux questions : « Quel est le niveau de préjudice? » et « Quelle est la probabilité que ce préjudice se concrétise? ». Le but de l’évaluation des risques est de mieux comprendre les risques afin de les gérer. Un niveau de risque se caractérise généralement comme étant le produit du niveau de préjudice (faible, moyen ou élevé) et de la probabilité d’occurrence (faible, moyenne ou élevée). Le niveau de risque résultant est géré de différentes façons, y compris l’acceptation, l’évitement, la réduction et le partage.
+
+L’évaluation du niveau d’assurance vise à répondre à une question : « Quel est le niveau de confiance minimum requis pour atteindre un objectif opérationnel ou de programme? ». Le but de l’évaluation du niveau d’assurance est de comprendre le niveau de confiance (niveau d’assurance) qu’une partie peut attendre qu’une autre partie fournisse.
+
+L’évaluation du niveau d’assurance et l’évaluation des risques sont semblables en ce sens que les deux sont axées sur l’évaluation des préjudices. Cependant, l’évaluation du niveau d’assurance ne comprend pas le recours au concept de probabilité.
+
+L’évaluation du niveau d’assurance suit une approche « Et si? » qui oblige l’évaluateur à évaluer les préjudices potentiels, quelle que soit la probabilité qu’ils se concrétisent. Autrement dit, on présume que l’occurrence se concrétisera. Cette approche signifie qu’il peut y avoir des situations où un service est considéré comme présentant un risque faible en raison d’une très faible probabilité qu’un préjudice se concrétise mais qu’il exige néanmoins un niveau d’assurance plus élevé en raison de la nature de l’opération ou des renseignements auxquels on accède (p. ex., renseignements personnels).
+
+L’évaluation du niveau d’assurance est censée compléter l’évaluation des risques traditionnelle en officialisant le niveau d’assurance requis entre deux parties (c.-à-d. membres d’une fédération).
+
+2.7 Cadres connexes d’évaluation de la sécurité de la TI et de la protection de la vie privée
+
+Les modèles d’évaluation de la sécurité de la TI et de la protection de la vie privée comportent aussi des concepts de gestion des risques.
+
+Les modèles d’évaluation des risques liés à la sécurité de la TI mettent l’accent sur la perte potentielle de confidentialité, d’intégrité ou de disponibilité par rapport à la protection de biens de nature délicate et de grande valeur. Ces modèles définissent les vulnérabilités et la nature délicate des actifs de l’organisation, ainsi que les menaces qui les concernent et les niveaux de préjudice associés, pour en arriver à une évaluation des risques et à une recommandation sur les contrôles de sécurité qui doivent être mis en œuvre. Les modèles de sécurité englobent aussi le concept de robustesse – la combinaison de la solidité du contrôle et de l’assurance qu’il est mis en œuvre correctement.
+
+Les modèles d’évaluation des facteurs relatifs à la vie privée mettent l’accent sur l’atteinte potentielle à la vie privée par rapport à la protection des renseignements personnels des personnes. Ces modèles décrivent la nature et le caractère délicat des renseignements personnels et des activités liées à la collecte, à l’utilisation et à la communication de ces renseignements.
+
+À l’heure actuelle, il n’y a pas de vaste consensus quant à la façon dont les cadres de confiance (c.-à-d. niveau d’assurance) émergents et les cadres d’évaluation de la sécurité et de la protection de la vie privée doivent se rattacher l’un à l’autre. Par conséquent, leurs spécialistes doivent les appliquer de manière collaborative afin de fournir aux ministères la meilleure information possible sur laquelle fonder les décisions.
+
+2.8 Application à l’intégrité des opérations financières
+
+La présente Ligne directrice peut être appliquée aux systèmes qui comprennent des opérations financières. Ces systèmes sont assujettis à la Politique sur le contrôle interne, qui est émise par le Bureau du contrôleur général (BCG) et appuyée par la Directive sur l’authentification et l’autorisation électroniques des opérations financières.
+
+Cette Directive révisée remplace la politique précédente et l’exigence qu’une signature numérique soit utilisée pour autoriser les opérations commerciales électroniques. La nouvelle Directive indique que les dirigeants principaux des finances ont la responsabilité :
+
+d’obtenir un niveau d’assurance approprié que les risques à l’intégrité des opérations financières ont été adéquatement évalués et que les contrôles clés visant à atténuer ces risques sont documentés, en place comme prévu et fonctionnent efficacement de manière continue.
+
+Cette nouvelle exigence vise à donner davantage de souplesse aux ministères pour ce qui est d’élaborer des solutions d’authentification dans le contexte des systèmes financiers. Par conséquent, les ministères peuvent utiliser la présente Ligne directrice pour déterminer les solutions d’authentification qui conviennent le mieux aux systèmes financiers. Les ministères doivent communiquer avec le BCG pour obtenir des conseils détaillés sur l’application de la présente Ligne directrice."
+3.0. Processus d’évaluation du niveau d’assurance,"3.1 Aperçu du processus d’évaluation
+
+Le processus d’évaluation du niveau d’assurance aide les ministères à déterminer l’exigence relative au niveau d’assurance pour les justificatifs et l’identité et à concevoir des solutions d’authentification pour les programmes, les services et les opérations.
+
+Le processus d’évaluation du niveau d’assurance comporte deux étapes :
+
+Étape 1 : Déterminer l’exigence relative au niveau d’assurance
+
+Cette étape permet de répondre à la question suivante du point de vue du ministère : « Quel est le niveau d’assurance minimum dont nous avons besoin pour atteindre les objectifs du programme, fournir le service ou exécuter correctement l’opération? ».
+
+Cette étape est effectuée par le gestionnaire responsable, qui connaît la clientèle, la nature du programme ou du service et les résultats stratégiques à atteindre.
+
+Étape 2 : Déterminer les exigences en matière d’authentification
+
+Cette étape permet de répondre à la question suivante du point de vue du ministère : « Quelles méthodes, mesures de protection ou autres mesures avons-nous déjà, lesquels devons-nous mettre en place et auxquels devons-nous nous fier? ».
+
+Cette étape offre au ministère et aux différents spécialistes de la TI et de la sécurité un cadre pour travailler ensemble aux décisions clés requises pour déterminer les exigences en matière d’authentification. Ces décisions sont exprimées en termes de niveaux normalisés.
+
+3.2 Étape 1 : Déterminer l’exigence relative au niveau d’assurance
+
+L’étape 1 sert à déterminer le niveau d’assurance minimum nécessaire pour atteindre les objectifs du programme, fournir un service ou exécuter correctement une opération. Ce niveau d’assurance minimum est appelé « exigence relative au niveau d’assurance ».
+
+Une exigence normalisée relative au niveau d’assurance indique le niveau de confiance général requis pour effectuer une activité de programme, un service ou une opération. Les ministères peuvent utiliser l’exigence relative au niveau d’assurance, conjointement avec des cadres normalisés, pour déterminer les contrôles ou les mesures de protection approprié(e)s qui devaient être mis en œuvre dans leur organisme. Ils peuvent utiliser l’exigence relative au niveau d’assurance pour déterminer ce dont ils ont besoin à titre de partie utilisatrice ou de partie ayant autorité.
+
+Tel qu’indiqué plus tôt, la tâche de déterminer l’exigence relative au niveau d’assurance peut comprendre les mêmes intrants que ceux utilisés dans les évaluations des risques. Cependant, l’évaluation du niveau d’assurance suit une approche « Et si? », qui aboutit à un niveau de confiance plutôt qu’un niveau de risque. Dans cette approche, il est conseillé aux évaluateurs de prendre en considération les préjudices qui découleraient d’un compromis, peu importe si la probabilité d’occurrence est faible.
+
+L’évaluation est fondée sur la nature et le genre de programmes et d’activités. En répartissant les préjudices possibles selon différentes catégories de préjudices, la feuille de travail aide les évaluateurs à cerner et à comprendre les risques dans ces différentes catégories.
+
+L’étape 1 est menée au moyen de la feuille de travail qui se trouve à l’annexe A. Cette feuille de travail aide les ministères à évaluer les préjudices potentiels et à déterminer ainsi une exigence relative au niveau d’assurance.
+
+La feuille de travail de l’exigence relative au niveau d’assurance comprend les catégories de préjudices suivantes :
+
+Inconvénients, détresse, perte de situation sociale ou de réputation : Préjudices qui comprennent les retards, l’embarras, la perte de confiance ou l’atteinte à la réputation.
+Perte financière : Préjudices comportant une perte financière. Les montants en argent spécifiques dépendent de la partie touchée.
+Préjudice causé au programme ou à l’intérêt public : Préjudices qui comprennent la non-obtention des résultats escomptés, la perte de confiance de la population ou la baisse du bien-être social ou économique des Canadiens.
+Divulgation non autorisée de renseignements personnels ou commerciaux de nature délicate : Préjudices comportant la divulgation non autorisée de renseignements personnels ou commerciaux.
+Divulgation non autorisée de renseignements gouvernementaux de nature délicate : Préjudices comportant la divulgation non autorisée de renseignements classifiés et protégés ou de documents confidentiels du Conseil privé de la Reine (p. ex., documents confidentiels du Cabinet).
+Infractions civiles ou criminelles : Préjudices comportant la facilitation intentionnelle ou non d’une infraction civile ou criminelle, perpétrée intentionnellement ou non
+Santé ou sécurité personnelle : Préjudices comprenant une atteinte à l’intégrité physique ou psychologique d’une personne
+Intérêt national : Préjudices touchant l’intérêt national.
+Lignes directrices pour exécuter l’étape 1
+L’évaluation doit être effectuée par le gestionnaire responsable. Cette personne doit avoir une connaissance détaillée du programme, du service ou de l’opération. L’évaluation profite de cette connaissance et est fondée sur des facteurs liés aux activités ou au programme, dont les suivants :
+Les objectifs de programme, y compris les objectifs stratégiques de niveau plus élevé (ou résultats stratégiques) que les activités de programmes sont censées atteindre. L’examen des préjudices pourrait comprendre les conséquences de la non-réalisation de ces objectifs ou résultats.
+La nature et le type de programme, de service ou d’opération évalués. L’examen pourrait comprendre les conséquences des préjudices pour les responsables et les gestionnaires de programmes chargés d’exercer les activités de programmes, d’offrir les services et d’exécuter les opérations.
+Les clients, les intervenants et les autres parties intéressées susceptibles d’être touchés par les préjudices.
+Les facteurs intangibles ou globaux qui peuvent être pertinents, comme l’intérêt public ou la sécurité nationale.
+L’évaluation du niveau d’assurance doit être menée sans égard aux modes de prestation ou aux mesures de protection relatives au système ou processus opérationnels existants. L’évaluation est fondée uniquement sur la nature du programme, du service ou de l’opération et sur ses clients ou intervenants.
+L’exigence relative au niveau d’assurance est déterminée indépendamment de la catégorisation de l’information comme étant protégée ou classifiée, par exemple.
+Lorsqu’il effectue l’évaluation, le gestionnaire responsable doit définir le contexte opérationnel et axer l’évaluation sur ce contexte. Le contexte opérationnel pourrait comprendre ce qui suit :
+le fait que le programme, le service ou l’opération est destiné à un public externe (p. ex., axé sur les clients) ou un public interne (p. ex., axé sur les employés);
+le type et la nature des clients touchés par le programme, le service ou l’opération (particuliers, professionnels ou entreprises);
+les considérations liées aux lois et aux compétences.
+Les ministères pourraient décider que certaines catégories de préjudices ne s’appliquent pas à leur processus d’évaluation. Si cela est le cas, ils doivent fournir une justification de cette décision.
+L’évaluation ne doit prendre en considération que les préjudices qui peuvent être attribués directement à l’activité de programme, au service ou à l’opération particulière visée par l’évaluation. Autrement dit, elle doit mettre l’accent sur les préjudices qui pourraient découler directement et immédiatement de l’échec d’une activité de programme, d’un service ou d’une opération dans les cas où il s’agit du seul facteur contributif.
+Exemple : Une personne qui demande un document de voyage officiel (p. ex., un passeport) fournit des renseignements faux ou trompeurs.
+
+Le fait de fournir des renseignements faux ou trompeurs peut être un motif de poursuites criminelles et peut être directement attribué au demandeur. Ce préjudice serait considéré comme un préjudice direct et devrait être pris en considération dans l’évaluation du niveau d’assurance.
+
+Inversement, l’évaluation ne devrait pas prendre en considération les préjudices indirects (ou consécutifs) qui pourraient survenir dans le cas où l’échec d’une activité de programme, d’un service ou d’une opération pourrait être l’un de plusieurs facteurs contributifs d’un préjudice subséquent (et possiblement plus grave) à l’égard duquel le ministère a peu ou pas de contrôle .
+Note en bas de page
+6
+Exemple : Un fraudeur obtient l’accès à des renseignements personnels qui sont mis à la disposition du public par le biais du profil d’un utilisateur dans les médias sociaux. Le fraudeur utilise ensuite ces renseignements à des fins de fraude par carte de crédit.
+
+Le fait d’obtenir l’accès à des renseignements personnels accessibles au public pourrait ne pas être considéré comme un motif de poursuites criminelles; cependant, leur utilisation subséquente par un fraudeur pourrait l’être. En ce qui concerne le média social, le potentiel de fraude par carte de crédit est un préjudice indirect et ne doit pas être pris en considération dans l’évaluation du niveau d’assurance.
+
+Il se peut que des ministères aient défini séparément leurs services sur la base d’un mode de prestation ou d’un mécanisme de mise en œuvre particulier. Toutefois, lorsqu’ils sont considérés d’un point de vue opérationnel, ces services propres aux modes sont généralement un sous-ensemble d’un programme, d’un service ou d’une opération plus générique et peuvent donc faire l’objet d’une seule évaluation. Au moment d’évaluer les services propres aux modes, les évaluateurs doivent d’abord identifier le service opérationnel, et c’est ce service opérationnel (quel que soit le mode de prestation) qui doit être la cible de l’évaluation.
+Les ministères sont libres de décider du degré de précision de leurs évaluations. Des évaluations distinctes peuvent être menées au niveau du programme, du service (ou groupe de services) ou de l’opération. Plus l’évaluation est précise et plus d’efforts sont exigés.
+Les ministères doivent effectuer l’évaluation de l’étape 1 au niveau de l’opération pour veiller à tenir dûment compte de tous les préjudices potentiels dans un service ou programme.
+Les ministères doivent décider si l’évaluation est un processus informel ou un processus officiel qui est approuvé par le gestionnaire responsable.
+Les ministères doivent être prêts à fournir des preuves que le processus d’évaluation a été mené.
+Les niveaux d’assurance peuvent être étendus de manière à servir de mécanisme général pour lier des exigences connexes relatives aux activités ou aux programmes et des spécifications techniques qui emploient un cadre de niveau d’assurance. Cela est particulièrement utile lorsqu’on intègre d’autres cadres fondés sur des normes qui font intervenir des justificatifs, des identités, l’authentification, etc.
+Une fois terminée, l’exigence relative au niveau d’assurance doit être exprimée selon un des niveaux 1 à 4 distincts normalisés. Elle ne peut être exprimée selon une variante (p. ex., « Niveau 2+ »).
+L’évaluation de l’étape 1 doit être menée périodiquement (p. ex., annuellement) ou lorsqu’il y a un changement fondamental concernant un ou plusieurs des éléments suivants :
+la nature du programme, du service ou de l’opération;
+la nature des renseignements utilisés;
+le contexte ou la clientèle (p. ex., le service sera utilisé pour un nouveau profil démographique de la clientèle);
+des questions d’ordre systémique (p. ex., réorganisation ministérielle, nouvelles architectures de système, changements apportés aux lois).
+3.3 Étape 2 : Déterminer les exigences en matière d’authentification
+
+L’étape 2 a pour but de déterminer les options en matière d’authentification qui seront utilisées pour satisfaire à l’exigence relative au niveau d’assurance déterminée à l’étape 1.
+
+Avant de déterminer les options en matière d’authentification, un ministère doit prendre en considération de nombreux facteurs, comme l’utilisation de services obligatoires, les exigences techniques, le coût, les exigences en matière de protection de la vie privé et de sécurité et l’acceptation par les utilisateurs.
+
+Dans de nombreux cas, il se peut que les ministères ne puissent pas, ou ne veuillent pas, mettre en œuvre leur propre solution en matière d’authentification. Ils pourraient plutôt décider que d’autres organismes (c.-à-d. des fournisseurs) exécutent l’ensemble ou des composantes choisies de la solution pour leur compte. Les fournisseurs peuvent être des entités externes ou des entités commerciales fonctionnant en vertu d’un contrat ou d’un autre arrangement, comme une fédération.
+
+Dans certains cas, la décision de faire exécuter certaines composantes d’une solution en matière d’authentification en vertu d’un contrat ou dans le cadre d’une fédération a déjà été prise. Par exemple, le gouvernement du Canada a déjà décidé de fédérer les justificatifs en recourant à des services commerciaux (voir la section 3.6, Recours obligatoire aux services d’authentification électronique). De plus, les ministères sont tenus d’utiliser certains services et composantes normalisés.
+
+Les ministères doivent analyser leurs options en matière d’authentification et élaborer des recommandations pour les trois catégories d’exigences :
+
+Exigences relatives à l’assurance de l’identité : Les exigences minimales pour établir l’identité d’une personne selon un niveau d’assurance (niveau 1 à 4) donné. Ces exigences sont énoncées à l’annexe C de la Norme sur l’assurance de l’identité et des justificatifs. D’autres détails sur les exigences relatives à l’assurance de l’identité sont donnés dans la Ligne directrice sur l’assurance de l’identité (à être publiée en 2013).
+Exigences relatives à l’assurance du justificatif : Les exigences minimales pour assurer qu’une personne a conservé le contrôle sur un justificatif qui lui a été émis et que le justificatif n’a pas été compromis. Les exigences sont énoncées dans le guide pertinent, ITSG-31, publié par le CSTC.
+
+Exigences relatives à l’authentification : Les exigences minimales en matière de conception technique et de processus opérationnel qui sont nécessaires pour mener un processus d’authentification (électronique ou manuel). Les exigences relatives à l’authentification électronique sont énoncées dans les guides pertinents, ITSG-31 et ITSG-33, publiés par le CSTC.
+
+Dans le cas des modes manuels (p. ex., en personne, par téléphone et par correspondance ou courriel), les exigences « normalisées » doivent être harmonisées avec les pratiques exemplaires du ministère ou de l’industrie. À l’heure actuelle, il existe peu de normes ou de lignes directrices portant sur ces autres modes.
+
+Lignes directrices pour exécuter l’étape 2
+
+L’exigence relative au niveau d’assurance déterminée à l’étape 1 correspond au niveau d’assurance minimum qu’une solution en matière d’authentification générale doit atteindre. Une solution en matière d’authentification idéale satisferait à l’exigence minimale dans les trois catégories : identité, justificatif et authentification.
+
+Par exemple, une solution en matière d’authentification de niveau 3 idéale mettrait en œuvre les exigences de niveau 3 normalisées relatives à l’assurance de l’identité, à l’assurance du justificatif et à l’authentification.
+
+Cependant, il peut ne pas être possible ou rentable pour un ministère de mettre en œuvre une solution en matière d’authentification en utilisant les exigences normalisées précisées pour l’exigence relative au niveau d’assurance déterminée à l’étape 1. Si c’est le cas, le ministère pourrait envisager de mettre en œuvre des exigences normalisées pour un niveau d’assurance moins élevé et atténuer le risque résiduel au moyen de méthodes de rechange comme des facteurs de compensation et d’autres mesures de protection (voir la section 3.4, Atténuation des risques résiduels). Le ministère pourrait également envisager d’accepter les risques résiduels (voir la section 3.5, Acceptation des risques).
+
+Les risques résiduels que les ministères doivent prendre en considération correspondent aux trois catégories d’exigences :
+
+Risque lié à l’identité : Le risque qu’une personne, un organisme ou un appareil ne soit pas la personne, l’organisme ou l’appareil qu’il prétend être. Les exemples des risques liés à l’identité comprennent les personnes qui s’inscrivent frauduleusement à un service, en utilisant des documents falsifiés ou contrefaits, et en se faisant passer pour une autre personne ou une personne fictive.
+Risque lié au justificatif : Le risque qu’une personne ait perdu le contrôle sur le justificatif qui lui a été confié (c.-à-d. que sans qu’elle le sache ou qu’elle y consente, le justificatif est utilisé par une autre personne). Les exemples des risques liés au justificatif comprennent les personnes qui utilisent frauduleusement des mots de passe, des jetons ou des appareils perdus ou volés.
+Risque lié à l’authentification : Le risque que le processus d’authentification ait été compromis. Ce risque est étroitement lié à la sécurité générale d’un système ou processus (électronique ou manuel). Les exemples des risques liés à l’authentification dans un environnement électronique comprennent les attaques de l’intercepteur et l’enregistrement de frappes. Les exemples des risques liés à l’authentification dans un environnement manuel comprennent les risques qui découlent de la contrefaçon, de l’erreur humaine ou de méfaits.
+
+Ces trois risques ne sont pas indépendants (p. ex., un risque accru lié au justificatif peut mener à un risque accru lié à l’identité et inversement). En analysant les risques séparément, cependant, les ministères peuvent en apprendre davantage sur les vulnérabilités et les menaces.
+
+Pour chaque catégorie d’exigences (identité, justificatif et authentification), les ministères doivent se reporter au tableau 2 pour obtenir des renseignements lorsqu’ils décident d’utiliser les options suivantes en matière d’authentification :
+
+Mise en œuvre au sein du ministère : Il s’agit de la situation où un ministère décide de ne pas être une partie utilisatrice ou un membre d’une fédération. Il peut aussi s’agir de la situation où un ministère est la partie ayant autorité et a donc la responsabilité de mettre en œuvre les exigences.
+Dépendre d’une autre partie : Il s’agit de la situation où un ministère décide de se fier à une autre partie pour mettre en œuvre les exigences pour son compte. Ceci peut être fait des façons suivantes :
+accords bilatéraux ou multilatéraux formels ou informels (p. ex., protocoles d’entente);
+contrats avec des fournisseurs de services commerciaux; ou
+participation à une fédération.
+
+Le tableau 2 décrit ce que les ministères doivent faire lorsqu’une option d’authentification choisie est égale à l’exigence relative au niveau d’assurance déterminée à l’étape 1 et lorsque l’option choisie est inférieure à l’exigence relative au niveau d’assurance déterminée à l’étape 1.
+
+Tableau 2 : Considérations liées aux options en matière d’authentification
+Option d’authentification	Option de mise en œuvre
+Au sein du ministère	Dépendre d’une autre partie
+
+Égale à l’exigence relative au niveau d’assurance
+	
+Veiller à ce que le ministère se conforme aux exigences pour l’exigence relative au niveau d’assurance déterminée à l’étape 1.
+	
+Veiller à ce que le fournisseur se conforme aux exigences pour l’exigence relative au niveau d’assurance déterminée à l’étape 1.
+
+Dans le cas d’un participant à une fédération :
+
+Veiller à ce que le membre (ou fournisseur de services) satisfasse aux critères établis par la fédération pour fournir le niveau d’assurance
+Note en bas de page
+7 déterminé à l’étape 1.
+
+
+Inférieure à l’exigence relative au niveau d’assurance
+	
+Fournir une justification pour le choix de la mise en œuvre en utilisant un niveau d’assurance inférieur (p. ex., coût, utilisabilité, service obligatoire, faisabilité technique).
+Décrire les menaces et vulnérabilités potentielles qui pourraient être exploitées, y compris les violations.
+Décrire les mesures d’atténuation des risques liés à l’identité, au justificatif et à l’authentification.
+Inclure les descriptions des éléments suivants :
+Facteurs de compensation
+Autres mesures de protection
+Acceptation des risques
+Veiller à ce que le ministère se conforme aux exigences pour l’exigence inférieure relative au niveau d’assurance déterminée à l’étape 1.
+	
+Fournir une justification pour le choix du fournisseur au niveau d’assurance inférieur (p. ex., coût, utilisabilité, service obligatoire, faisabilité technique).
+Décrire les menaces et vulnérabilités potentielles qui pourraient être exploitées, y compris les violations avec le ministère ou le fournisseur.
+Décrire les mesures d’atténuation des risques, y compris les conditions précisées dans les contrats ou accords avec le fournisseur ou les membres de la fédération.
+Inclure les descriptions des éléments suivants :
+Facteurs de compensation
+Autres mesures de protection
+Acceptation des risques
+
+Dans le cas d’un participant à une fédération :
+
+Veiller à ce que le membre (ou fournisseur de services) satisfasse aux critères établis par la fédération pour fournir le niveau d’assurance déterminé à l’étape 1.
+Veiller à ce que le ministère comprenne ses responsabilités quant à la gestion des risques résiduels.
+3.4 Atténuation des risques résiduels
+
+Selon le Cadre stratégique de gestion du risque, le risque résiduel « est le niveau de risque qui demeure après avoir pris en compte les mesures d’atténuation du risque et les contrôles en place ».
+
+Pour chaque catégorie d’exigences (risque lié à l’identité, risque lié au justificatif et risque lié à l’authentification), les ministères doivent pouvoir décrire comment les risques résiduels sont atténués ou pourquoi ils sont acceptés.
+
+Facteurs de compensation
+Note en bas de page
+8 : Mesures supplémentaires utilisées au cours du processus d’authentification pour réduire un risque. Un facteur de compensation peut être utilisé lorsqu’une partie du processus d’authentification ne satisfait pas à une exigence relative au niveau d’assurance. Un facteur de compensation est censé atténuer les risques résiduels ou contrer les nouvelles possibilités de menace (anticipées ou non). L’utilisation de facteurs de compensation permet d’atténuer les risques résiduels; elle n’augmente pas le niveau d’assurance.
+Autres mesures de protection : Mesures supplémentaires utilisées en plus du processus d’authentification pour réduire les risques. Les autres mesures de protection peuvent être les mécanismes de contrôle de la sécurité utilisés en aval ou les « signaux » qui sont émis pour initier des exceptions ou des interventions.
+Lignes directrices pour les facteurs de compensation
+
+Les facteurs de compensation doivent :
+
+convenir au contexte du programme, du service ou de l’opération;
+être de nature dynamique et pouvoir s’adapter facilement, surtout dans un environnement de la menace très fluide (p. ex., service Internet destiné au public).
+
+Les facteurs de compensation ne doivent pas :
+
+imposer un fardeau inutile au client visé par l’authentification (sinon, le client pourrait abandonner le service);
+utiliser des renseignements personnels ou propres au programme qui pourraient soulever des préoccupations en matière de protection de la vie privée. Si de tels renseignements sont utilisés, leur utilisation doit être limitée strictement à un programme, un service ou une opération en particulier. L’utilisation de ces renseignements peut donner lieu à des vulnérabilités imprévues ou ouvrir un nouveau vecteur de menaces et donc être contreproductive;
+être utilisés pour hausser le niveau d’assurance d’un justificatif pour utilisation ailleurs (p. ex., permettre que l’on se fie à un justificatif de niveau 2 comme s’il s’agissait d’un justificatif de niveau 3).
+
+Les exemples de facteurs de compensation comprennent les suivants :
+
+des secrets partagés;
+la validation de l’identité (la validation des renseignements sur l’identité recueillis dans le cadre d’un processus d’assurance de l’identité);
+la validation du programme (la validation des renseignements sur le programme recueillis dans le cadre d’un processus administratif de programme ou de service);
+des questions sur les jetons et sur les cartes grilles;
+le test de Turing inversé (pour déterminer si un utilisateur est humain);
+une confirmation hors bande.
+
+L’avantage principal d’un facteur de compensation est qu’il intègre de la souplesse dans la conception d’une solution en matière d’authentification. Cette souplesse est nécessaire si le processus d’authentification est soumis à des contraintes liées aux opérations ou à l’utilisabilité ou s’il doit s’adapter à l’évolution de l’environnement de la menace (c.-à-d. nouveaux agents de menace ou nouvelles vulnérabilités).
+
+Les facteurs de compensation comportent également des inconvénients. Parce qu’ils sont personnalisés, ils accroissent les coûts généraux et la complexité du processus. La complexité accrue peut mener à une expérience de l’utilisateur plus frustrante et à une maintenance supplémentaire. Ainsi, bien qu’ils soient intéressants à court terme, les facteurs de compensation peuvent poser des problèmes à plus long terme. Les facteurs utilisés peuvent devenir inefficaces à mesure que les agents de menace s’adaptent, ou ils peuvent entraîner des risques en matière de protection de la vie privée et imposer des contraintes de sécurité supplémentaires s’ils utilisent des renseignements personnels ou propres au programme. Si les facteurs de compensation doivent entrer en ligne de compte dans une solution en matière d’authentification, il faut soigneusement soupeser les avantages par rapport aux inconvénients.
+
+Les technologies d’authentification électronique évoluent rapidement en raison de l’évolution rapide de la technologie et du paysage en changement constant des cybermenaces. Les ministères doivent être au courant des pratiques exemplaires et normes les plus récentes élaborées pour faire face à ces menaces.
+
+Lignes directrices pour les autres mesures de protection
+
+Le processus d’authentification peut exister dans un contexte élargi de mécanismes de contrôle de la sécurité qui atténuent les risques. Même si une opération peut exiger un niveau d’assurance plus élevé, le risque supplémentaire peut être atténué par d’autres contrôles de sécurité qui ne sont pas liés à l’authentification mais font partie du système ou sont en aval du processus d’authentification.
+
+D’autres mesures de protection doivent être conçues pour saisir et contenir les effets en aval d’une erreur d’authentification. Par exemple, si une erreur d’authentification donne lieu à un accès non autorisé, l’accès doit être compartimenté selon un sous-ensemble d’opérations à faible risque ou de renseignements qui ne sont pas de nature délicate.
+
+3.5 Acceptation des risques
+
+Aux fins du présent document d’orientation, le niveau de risque résiduel dépend des facteurs de compensation et des autres mesures de protection qui fonctionnent en parallèle avec le processus d’authentification.
+
+Lignes directrices pour l’acceptation des risques
+
+Le gestionnaire responsable doit être bien informé pour pouvoir établir si le niveau de risque résiduel est acceptable pour le ministère et pour veiller à ce que les conséquences possibles soient gérées en conséquence.
+
+L’acceptation des risques doit être :
+
+documentée et approuvée par l’autorité concernée en matière de gestion des risques, c.-à-d. le niveau d’autorité de gestion requis pour l’approbation doit correspondre au niveau d’assurance ou à l’ampleur relative du risque accepté (p. ex., le niveau 4 pourrait exiger l’approbation de l’administrateur général);
+répartie proportionnellement entre les parties participantes en ce qui a trait aux responsabilités et aux conséquences possibles;
+communiquée clairement à toutes les parties concernées, y compris les clients.
+
+Les ministères doivent aussi être prêts à décrire comment les conséquences seront gérées pour le compte de clients pour lesquels les préjudices potentiels pourraient se réaliser.
+
+3.6 Recours obligatoire aux services d’authentification électronique
+
+Le recours obligatoire aux services d’authentification électronique permet aux ministères de réaliser des économies de coûts et des gains d’efficacité technique en veillant à ce que le gouvernement du Canada n’élabore ou n’achète qu’une seule fois et mette ensuite à profit l’infrastructure commerciale en vue d’une utilisation commune. Il permet aussi au gouvernement d’optimiser et de consolider les modes de prestation de services à l’appui des services électroniques sécurisés et de préserver de façon uniforme la confidentialité et le caractère privé des renseignements sur les clients.
+
+Le recours obligatoire aux services d’authentification électronique est assujetti à la Politique sur les services communs du Secrétariat du Conseil du Trésor du Canada et à la décision subséquente prise par le Conseil du Trésor en 2006 concernant les services obligatoires de la Voie de communication protégée. En ce qui concerne la présente Ligne directrice, deux services d’authentification électronique sont considérés obligatoires : gestion des justificatifs externes et gestion des justificatifs internes.
+
+Service de gestion des justificatifs externes (GJE) : Un service de gestion des justificatifs pour les utilisateurs externes (particuliers et entreprises). La mise en œuvre précédente de la GJE, appelée epass, a été remplacée par les services suivants :
+Service de courtier de justificatifs d’identité (SCJI) : Un service commercial fourni au gouvernement du Canada aux termes d’un contrat qui permet aux utilisateurs d’utiliser des justificatifs externes qu’ils ont déjà avec des institutions financières pour s’authentifier en toute sécurité afin d’accéder aux services du gouvernement.
+CléGC : Un justificatif portant la marque du gouvernement du Canada et destiné à être utilisé par des clients qui n’ont pas de justificatif auprès d’une institution financière ou qui choisissent de ne pas utiliser un tel justificatif.
+Service de gestion des justificatifs internes (GJI) : Un service de gestion des justificatifs qui fournit au gouvernement un ensemble normalisé de processus d’inscription pour émettre un justificatif numérique unique qui permet d’avoir accès à des services en ligne internes. Ce service se compose d’un ensemble de services qui appuie l’inscription et l’authentification des employés. La mise en œuvre actuelle de la GJI repose sur une composante :
+maCLÉ : Un justificatif basé sur l’identité destiné aux employés à plein temps du gouvernement du Canada. maCLÉ était auparavant appelée clé ICP, certificat basé sur l’identité, profil Entrust ou certificat d’ICP. maCLÉ est utilisée pour accéder à des applications comme les applications Web de la rémunération et à des renseignements personnels, p. ex., au sujet de la paye.
+
+Dans le cadre de l’Initiative de renouvellement de l’authentification électronique, l’Agence du revenu du Canada fournit également sa propre solution de gestion des justificatifs que les particuliers, les entreprises et les représentants peuvent utiliser pour accéder aux services d’ouverture de session de l’Agence.
+
+Exemptions de la politique et approbation du Conseil du Trésor
+
+Dans des cas exceptionnels, ni la GJE, ni la GJI ne sont une solution en matière d’authentification appropriée. Dans de tels cas, une exemption de la politique est nécessaire. Une demande d’exemption fait habituellement partie du processus de présentation au Conseil du Trésor et d’approbation. Lorsqu’ils demandent une exemption, les ministères doivent convaincre les centres décisionnels concernés du Conseil du Trésor que la demande d’exemption est valide; leur présentation au Conseil du Trésor doit aussi être accompagnée d’une analyse de rentabilité qui présente les avantages prévus de l’octroi d’une exemption.
+
+3.7 Fédération
+
+La « fédération » désigne les arrangements qui permettent à des parties de fournir des assurances ou de s’y fier. La fédération comprend des parties ayant autorité qui fournissent des assurances et des parties utilisatrice qui utilisent ces assurances à l’appui de leurs processus opérationnels ou activités de programmes. La fédération est établie au moyen d’arrangements qui reposent sur un cadre commun étayé par des normes, des accords officiels et des critères établis.
+
+Le Secrétariat du Conseil du Trésor du Canada entreprend actuellement des initiatives concernant la fédération de l’identité. Les ministères doivent communiquer avec les responsables de l’Initiative de renouvellement de l’authentification électronique pour obtenir d’autres renseignements."
+4.0. Documents et outils connexes,"Cette section donne un aperçu des lignes directrices qui doivent être utilisées conjointement avec la présente Ligne directrice.
+
+4.1 Ligne directrice sur l’assurance de l’identité
+
+La Ligne directrice sur l’assurance de l’identité est une ligne directrice connexe. Elle donne des directives sur la mise en œuvre des exigences énoncées à l’annexe C de la Norme sur l’assurance de l’identité et des justificatifs.
+
+4.2 Évaluations des facteurs relatifs à la vie privée
+
+La Directive sur l’évaluation des facteurs relatifs à la vie privée du Secrétariat du Conseil du Trésor du Canada exige que les ministères mènent une évaluation des facteurs relatifs à la vie privée pour les activités ou programmes nouveaux ou ayant subi des modifications importantes qui nécessitent la création, la collecte ou le traitement de renseignements personnels.
+
+L’annexe C de la Directive prévoit une identification et une catégorisation uniformisées des secteurs de risque liés à la vie privée qui doivent être incluses dans chaque évaluation des facteurs relatifs à la vie privée. Les catégories sont les suivantes :
+
+Type de programme ou d’activité
+Type de renseignements personnels recueillis et contexte
+Participation des partenaires et du secteur privé au programme ou à l’activité
+Durée du programme ou de l’activité
+Personnes concernées par le programme
+Technologie et vie privée
+Transmission des renseignements personnels
+
+L’évaluation des facteurs relatifs à la vie privée doit également comprendre une évaluation du niveau de risque potentiel, sur une échelle de 1 (le plus bas) à 4 (le plus élevé).
+
+Même si ces catégories de risques peuvent être considérées comme étant à peu près équivalentes aux niveaux d’assurance énoncées dans la présente Ligne directrice, l’évaluation des facteurs relatifs à la vie privée doit être menée indépendamment de l’évaluation du niveau d’assurance. À l’heure actuelle, il n’y a pas de lien spécifique entre ces deux évaluations; les ministères peuvent toutefois comparer les résultats des évaluations pour veiller à ce qu’elles contribuent à une compréhension plus exhaustive et uniforme des risques généraux en question.
+
+4.3 Évaluations des menaces et des risques
+
+Les ministères peuvent vouloir mener des évaluations plus généralisées des risques en matière de sécurité en utilisant la Méthodologie harmonisée d’évaluation des menaces et des risques, qui est publiée conjointement par la Gendarmerie royale du Canada et le CSTC.
+
+La Méthodologie harmonisée d’évaluation des menaces et des risques est conçue pour tous les employés, les biens et les services menacés. L’évaluation peut être effectuée à n’importe quel niveau de granularité, des vastes profils de risque ministériels aux examens très ciblés de problèmes particuliers.
+
+Les ministères peuvent vouloir utiliser l’analyse harmonisée d’évaluation des menaces et des risques à titre d’intrants de l’évaluation du niveau d’assurance (étape 1), ou ils pourraient vouloir adapter la méthodologie pour élaborer une évaluation des menaces et des risques ciblée et exhaustive qu’ils utiliseront conjointement avec l’évaluation du niveau d’assurance. Cette dernière approche peut être utile pour cibler les agents de menace très spécialisés associés à l’environnement en ligne évoluant rapidement et les vulnérabilités possibles qui découlent des technologies plus récentes (p. ex., tablettes, téléphones mobiles).
+
+4.4 Lignes directrices en matière de sécurité des TI
+
+Pour obtenir des directives sur l’authentification liée aux systèmes de TI et la prestation de services électroniques, les ministères doivent consulter les lignes directrices ITSG-31 et ITSG-33 publiées par le CSTC.
+
+Voici un aperçu de ces deux documents d’orientation et une application suggérée de concert avec la présente Ligne directrice.
+
+ITSG-31 Guide sur l’authentification des utilisateurs pour les systèmes TI
+
+Cette ligne directrice donne des directives concernant la conception et la sélection de solutions d’authentification des utilisateurs.
+
+La sélection d’une solution en matière d’authentification est fondée sur le respect des exigences pour les catégories de conception de solutions d’authentification suivantes :
+
+Facteurs d’authentification : Stipule le nombre de facteurs d’authentification requis pendant le processus d’authentification.
+Jetons d’authentification : Stipule quels jetons doivent être utilisés pour effectuer le processus d’authentification.
+Validation des modules cryptographiques : Stipule le niveau de validation nécessaire pour un jeton articulé sur un module cryptographique.
+Atténuation des menaces : Stipule les menaces contre lesquelles le processus d’authentification doit assurer une protection.
+Journalisation des événements : Stipule les propriétés de la journalisation des événements requise durant le processus d’authentification en vue de préserver la continuité de la preuve.
+
+Les ministères doivent veiller à ce que la conception et la sélection d’une solution en matière d’authentification correspondent aux exigences relatives au niveau d’assurance énoncées par ce document d’orientation.
+
+ITSG-33 La gestion des risques liés à la sécurité des TI : Une méthode axée sur cycle de vie
+
+La ligne directrice ITSG-33 présente le cadre pour les activités de gestion des risques de la sécurité des TI qui doivent être entreprises tant au niveau ministériel qu’au niveau des systèmes d’information dans les ministères. Ce document et ses annexes donnent des directives dans les domaines suivants :
+
+activités de gestion des risques de la sécurité des TI des ministères;
+activités de gestion des risques de la sécurité des systèmes d’information;
+catalogue de contrôle de sécurité;
+profils de contrôle de sécurité.
+
+Les ministères doivent veiller à ce que la conception et la sélection d’une solution en matière d’authentification soient conformes à l’évaluation de sécurité générale et aux contrôles de sécurité énoncés dans ce document d’orientation. Les ministères pourraient également vouloir utiliser ce document d’orientation pour les aider à déterminer les facteurs de compensation ou autres mesures de protection approprié(e)s auxquel(le)s ils peuvent recourir pour atténuer les risques découlant des options choisies en matière d’authentification.
+
+4.5 Protocoles fondés sur des normes et de fédération
+Architecture et spécification de l’interface des Solutions technologiques d’authentification électronique, version 2.0 (ASI STAE 2)
+
+L’ASI STAE 2 décrit et définit le profil de mise en place aux fins de la participation à l’environnement de l’authentification électronique du gouvernement du Canada. Elle décrit le profil de mise en place et l’interface de messagerie requis pour les services d’authentification des justificatifs. Le profil de mise en place est fondé sur le Profil du gouvernement électronique publié par l’Initiative Kantara et décrit les exigences et contraintes supplémentaires propres au gouvernement du Canada.
+
+Les ministères doivent veiller à bien connaître l’ASI STAE 2 parce qu’elle précise les exigences qui ont été approuvées pour la mise en place dans le contexte du gouvernement du Canada.
+
+Protocole pour la fédération de l’identité
+
+Le Secrétariat du Conseil du Trésor travaille actuellement à l’élaboration du Protocole pour la fédération de l’identité. Ce document appuiera la Norme sur l’assurance de l’identité et des justificatifs et fournira des critères détaillés pour participer officiellement à la fédération du gouvernement du Canada."
+5.0. Renseignements supplémentaires,"5.1 Date de la prochaine révision
+
+Ce document sera examiné et mis à jour au besoin.
+
+5.2 Demandes de renseignements et commentaires
+
+Pour toute demande de renseignements au sujet du présent instrument de politique, veuillez communiquer avec la Division de la sécurité et gestion de l’identité."
+6.0. Références,"Références du gouvernement du Canada
+Cadre stratégique de gestion du risque
+Directive sur l’authentification et l’autorisation électroniques des opérations financières
+Directive sur l’évaluation des facteurs relatifs à la vie privée
+Directive sur la gestion de l’identité
+Fédérer la gestion de l’identité au gouvernement du Canada : Une mise en contexte
+ITSG-33 – Gestion des risques liés à la sécurité des TI : Une méthode axée sur le cycle de vie
+Lignes directrices en matière de sécurité des technologies de l’information (ITSG-31) - Guide sur l’authentification des utilisateurs pour les systèmes TI
+Loi sur la preuve au Canada
+Loi sur la protection des renseignements personnels et les documents électroniques
+Méthodologie harmonisée d’évaluation des menaces et des risques
+Politique sur la sécurité du gouvernement
+Politique sur la protection de la vie privée
+Politique sur les services communs
+Règlement sur les signatures électroniques sécurisées
+Références du secteur public, de l’industrie et d’organismes internationaux
+L’Institut des services axés sur les citoyens, Pan-Canadian Assurance Model, 3 mars 2010
+National Institute of Standards and Technology, SP 800-63-1, Electronic Authentication Guideline, décembre 2011
+Office of Management and Budget, M-04-04. E-Authentication Guidance for Federal Agencies, 16 décembre 2003
+Organisation de coopération et de développement économiques, Recommandation de l’OCDE sur l’authentification électronique et Orientations pour l’authentification électronique, juin 2007"

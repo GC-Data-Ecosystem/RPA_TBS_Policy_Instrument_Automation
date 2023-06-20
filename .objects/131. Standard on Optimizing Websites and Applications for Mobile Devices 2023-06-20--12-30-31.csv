@@ -1,0 +1,247 @@
+﻿New column 0,New column 1
+1. Effective Date,"This standard takes effect April 1, 2013 except for section 6 which takes effect according to the roll-out schedule provided in Appendix G."
+2. Application,"2.1 This standard applies to ""departments"" as defined in section 2 of the Financial Administration Act, with the exception of paragraphs (b) and (c), and unless excluded by specific acts, regulations or Orders-in-Council.
+
+2.2 Section 6.1 applies to all websites, Web applications and device-based mobile applications that:
+
+Are public-facing (i.e., available to individuals and businesses outside of the Government of Canada); and
+Are those for which the department is accountable.
+
+2.3 Section 6.1 does not apply to the following:
+
+Content for which the department is not accountable;
+Web pages that are archived on the Web; or
+Device-based mobile applications that are retired from the main corporate store for each mobile operating system.
+
+2.4 Sections 6.2 and 6.3 apply to all device-based mobile applications that:
+
+Are public-facing (i.e., available to individuals and businesses outside of the Government of Canada); and
+Are those for which Government of Canada is accountable.
+
+2.5 Sections 6.2 and 6.3 do not apply to the following:
+
+Device-based mobile applications that are retired from the main corporate store for each mobile operating system.
+
+2.6 Sections 7.2 and 8.2, which relate to the role of the Treasury Board of Canada Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance."
+3. Context,"3.1 Canadians are increasingly using mobile devices, such as smartphones and tablets, to access Government of Canada information and services. To keep pace with this demand and to better serve Canadians, the Government of Canada is focused on optimizing its online information and services for mobile devices.
+
+3.2 Canadians access Government of Canada information and services from their mobile devices through websites, Web applications and device-based mobile applications.
+
+3.3 Websites and Web applications are the Government of Canada’s primary means of delivering information and services online. This standard is designed to ensure that websites and Web applications are optimized for mobile devices to ensure that information and services reach the widest possible audience. Device-based mobile applications are provided only where user or business needs for device-specific features cannot be supported through websites or Web applications that are optimized for mobile devices.
+
+3.4 This standard introduces an efficient model for building and maintaining device-based mobile applications by reducing duplication through re-use of components, standardization of processes and collaboration on common solutions. This model consists of the following:
+
+Departments continue to commission, fund and define requirements as well as develop and maintain content for device-based mobile applications.
+Departments identified as Government of Canada Centres of Expertise on Mobile or external service providers design, develop, test and maintain device-based mobile applications, with the exception of device-based mobile applications that use secure logins.
+The department that is mandated as the Government of Canada publishing entity independently tests, publishes and retires device-based mobile applications.
+
+3.5 The layout and design prescribed in the Technical specifications for the Web and Mobile Presence help users recognize Government of Canada information and services.
+
+3.6 This standard supports the Policy on Management of Information Technology.
+
+3.7 This standard is issued under the authority of section 7 of the Financial Administration Act by the Secretary of the Treasury Board pursuant to subsection 6(4) of the Financial Administration Act and section 3.5 of the Policy on Management of Information Technology.
+
+3.8 This standard is to be read in conjunction with the Standard on Web Accessibility, the Standard on Web Usability and the Standard on Web Interoperability."
+4. Definitions,4.1 Definitions to be used in the interpretation of this standard appear in Appendix A.
+5. Standard Statement,"5.1 Objective
+
+5.1.1 Government of Canada online information and services reach the widest possible audience.
+
+5.1.2 Government of Canada websites, Web applications and device-based mobile applications achieve a high level of accessibility and usability.
+
+5.1.3 Government of Canada device-based mobile applications are easy to find and recognize.
+
+5.2 Expected results
+
+5.2.1 Government of Canada online information and services are optimized for mobile devices.
+
+5.2.2 Government of Canada provides device-based mobile applications only where user and business needs cannot be met by websites or Web applications optimized for mobile devices.
+
+5.2.3 Government of Canada websites, Web applications and device-based mobile applications respect internationally accepted guidelines for accessibility and respect usability principles and approaches.
+
+5.2.4 Government of Canada device-based mobile applications are published through the department that has been mandated as the Government of Canada publishing entity."
+6. Policy Requirements,"In addition to the requirements contained in this section, websites and Web applications must comply with the Standard on Web Accessibility, the Standard on Web Usability and the Standard on Web Interoperability.
+
+6.1 Departments
+6.1.1 Departmental managers, functional specialists and equivalents who are responsible for websites, Web applications and device-based mobile applications are responsible for the following:
+6.1.1.1 Websites and Web applications
+
+6.1.1.1.1 Ensuring that websites and Web applications are optimized for mobile devices according to the requirements described in the Technical Specifications for the Web and Mobile Presence.
+
+6.1.1.1.2 Ensuring that websites and Web applications meet the requirements described in the Technical Specifications for the Web and Mobile Presence.
+
+6.1.1.2 Device-based mobile applications
+
+6.1.1.2.1 Ensuring that device-based mobile applications are not the sole means of providing information or service. Device-based mobile applications must be provided only to enhance information and services available through Government of Canada websites and Web applications.
+
+6.1.1.2.2 Ensuring that device-based mobile application projects meet the project requirements described in Appendix B.
+
+6.1.1.2.3 Ensuring that device-based mobile applications meet the accessibility requirements described in Appendix C.
+
+6.1.1.2.4 Ensuring that device-based mobile applications meet the usability requirements described in Appendix D.
+
+6.1.1.2.5 Ensuring that device-based mobile applications meet the interoperability requirements described in Appendix E.
+
+6.1.1.2.6 Ensuring that the publication of device-based mobile applications meets the publishing requirements described in Appendix F.
+
+6.1.1.2.7 Ensuring that device-based mobile applications meet the requirements described in the Technical Specifications for the Web and Mobile Presence.
+
+6.1.2 The senior departmental official, designated by the deputy head, is responsible for the following:
+
+6.1.2.1 Approving device-based mobile application projects before they are commissioned or funded, based on the project requirements described in Appendix B.
+
+6.1.2.2 Providing relevant information about each approved device-based mobile application project to the department that has been mandated as the Government of Canada publishing entity, including the title, a brief description, the anticipated testing and publishing dates as well as any other required information.
+
+6.1.2.3 Approving publication of each device-based mobile application.
+
+6.1.2.4 Outsourcing the publication and retirement of device-based mobile applications to the Government of Canada publishing entity.
+
+6.1.2.5 Providing written approval for publication to the department mandated as the Government of Canada publishing entity. Written approval must include confirmation of the following:
+
+Compliance with this standard;
+Compliance with all the required legal agreements for each supported mobile operating system and associated main corporate store, including applicable legal agreements; and
+Approval of the life cycle.
+
+6.1.2.6 Ensuring that for device-based mobile applications:
+
+The departmental mandate and priorities are supported;
+The key performance indicators are defined; and
+Metrics are collected to measure effectiveness.
+
+6.1.2.7 Outsourcing the design, development and maintenance of device-based mobile applications to the departments identified as Government of Canada Centres of Expertise on Mobile or external service providers, with the exception of device-based mobile applications with secure logins.
+
+6.1.2.8 Encouraging departmental managers, functional specialists, and equivalents responsible for websites, Web applications and device-based mobile applications to collaborate, share expertise, and build reusable components and tools, both departmentally and interdepartmentally.
+
+6.1.3 The departmental Chief Information Officer or equivalent is responsible for the following:
+
+6.1.3.1 Ensuring that software and systems acquired or developed by the department can enable websites, Web applications and device-based mobile applications to meet the requirements of this standard.
+
+6.1.3.2 Encouraging personnel to collaborate, share expertise and build reusable components and tools, both departmentally and interdepartmentally.
+
+6.1.3.3 Provide support and guidance to the senior departmental official regarding implementation of this standard.
+
+6.1.4 The head of communications is responsible for the following:
+
+6.1.4.1 Ensuring that goals, content owners and target audiences are identified for each of the department’s device-based mobile applications.
+
+6.1.4.2 Encouraging personnel to collaborate, share expertise and build reusable components and tools, both departmentally and interdepartmentally.
+
+6.1.5 Departmental Centres of Expertise, designated by the senior departmental official, are responsible for the following:
+
+6.1.5.1 Serving as the primary point of contact between Treasury Board of Canada Secretariat's Chief Information Officer Branch and their department for questions and communications related to interpretation and implementation of this standard and related guidelines and tools.
+
+6.1.5.2 Participating in and contributing to the interdepartmental Centres of Expertise forum, chaired by the Treasury Board of Canada Secretariat's Chief Information Officer Branch, to stay current with evolving Web and mobile standards, guidelines and tools.
+
+6.2 Departments identified as Government of Canada Centres of Expertise on Mobile
+6.2.1 The senior departmental official, designated by the deputy head, or delegate is responsible for the following:
+
+6.2.1.1 Facilitating design, development, testing and maintenance of device-based mobile applications on behalf of departments.
+
+6.2.1.2 Collaborating, sharing expertise, and building reusable components and tools interdepartmentally.
+
+6.2.1.3 Developing and providing to departments a Service Agreement for the responsibilities identified in this section.
+
+6.3 Department mandated as the Government of Canada publishing entity
+6.3.1 The senior departmental official, designated by the deputy head, or delegate is responsible for the following:
+
+6.3.1.1 Managing the process for publishing and retiring Government of Canada device-based mobile applications through the centralized Government of Canada account for the main corporate store of each supported mobile operating system, including entering into applicable legal agreements.
+
+6.3.1.2 Independent testing of Government of Canada device-based mobile applications.
+
+6.3.1.3 Maintaining an inventory of active device-based mobile application projects approved by senior departmental officials, including the title, brief description and anticipated testing and publishing dates.
+
+6.3.1.4 Maintaining an inventory of published Government of Canada device-based mobile applications, including confirmations of compliance with this standard, compliance with applicable legal agreements, and the information required to publish to the main corporate store of each supported mobile operating system.
+
+6.3.1.5 Publishing the inventory of active device-based mobile application projects on the Government of Canada Publiservice site.
+
+6.3.1.6 Publishing on the Government of Canada website a list of links to public facing Government of Canada:
+
+Websites and Web applications optimized for mobile devices; and
+Device-based mobile applications.
+
+6.3.1.7 Publishing on the Government of Canada website a list of mobile operating systems that can be supported at a maximum as per Appendix B requirement 1.
+
+6.3.1.8 Reviewing and communicating, in consultation with legal services, any updates to applicable legal agreements for each supported mobile operating system and the associated main corporate stores.
+
+6.3.1.9 Being the conduit for addressing issues or questions between departments and the main corporate store for each supported mobile operating system.
+
+6.3.1.10 Providing departments with or facilitating access to analytics regarding their device-based mobile applications, based on data from the main corporate store of each supported mobile operating system.
+
+6.3.1.11 Collaborating, sharing expertise, and building reusable components and tools interdepartmentally.
+
+6.3.1.12 Developing and providing to departments a Service Agreement for the responsibilities identified in this section."
+7. Monitoring and Reporting Requirements,"Senior departmental official
+
+7.1 The senior departmental official, designated by the deputy head, is responsible for supporting his or her deputy head by overseeing the implementation and monitoring of this standard in his or her department, bringing to the deputy head's attention any significant difficulties, gaps in performance or compliance issues and developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.
+
+Government-wide
+
+7.2 The Treasury Board of Canada Secretariat will monitor compliance with this standard in a variety of ways, including but not limited to, the following:
+
+Assessments under the Management Accountability Framework;
+Examinations of Treasury Board submissions, Departmental Performance Reports, results of audits, evaluations and studies; and
+Work performed in collaboration with departments.
+
+7.3 The Treasury Board of Canada Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted)."
+8. Consequences,"8.1 In instances of non-compliance, deputy heads are responsible for taking corrective measures, within their organization with those responsible for implementing the requirements of this standard.
+
+8.2 Consequences of non-compliance with this standard can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances.
+
+8.3 Senior departmental officials are to ensure that corrective actions are taken to address instances of non-compliance with the requirements of this standard. Corrective actions can include requiring additional training, changes to procedures and systems, disciplinary action, and other measures as appropriate.
+
+8.4 For a range of consequences of non-compliance, refer to Appendix C and Appendix D of the Framework for the Management of Compliance.
+"
+9. Roles and Responsibilities of Government Organizations,"9.1 Responsibilities of the Treasury Board of Canada Secretariat (Chief Information Officer Branch), in consultation with other departments
+
+9.1.1 Developing standards, guidelines, and tools, and providing interpretive advice and guidance on these instruments.
+
+9.1.2 Communicating, engaging and supporting the government-wide Web and mobile communities, including the Chief Information Officer Council and other committees and working groups, on the plans, progress, risks and challenges associated with implementing this standard and its supporting instruments in the federal government.
+
+9.1.3 Identifying the departments that will serve as the Government of Canada Centres of Expertise on Mobile.
+
+9.1.4 Amending the Technical Specifications for the Web and Mobile Presence as required, in consultation with Strategic Communications and Ministerial Affairs.
+
+9.2 Government of Canada departments are responsible for the following
+
+9.2.1 Commissioning, funding, defining requirements, and developing and maintaining content for device-based mobile applications."
+10. References,"10.1 Relevant legislation
+Canadian Charter of Rights and Freedoms
+Canadian Human Rights Act
+Financial Administration Act
+Official Languages Act
+Privacy Act
+10.2 Related policy instruments and publications
+Common Services Policy
+Communications Policy of the Government of Canada
+Directive on Official Languages for Communications and Services
+Directive on the Management of Information Technology
+Federal Identity Program Policy
+Foundation Framework for Treasury Board Policies
+Framework for the Management of Compliance
+Guideline on Service Agreements: An Overview
+Guideline on Service Agreements: Essential Elements
+Operational Security Standard: Management of Information Technology Security (MITS)
+Policy Framework for Service Improvement in the Government of Canada
+Policy on Evaluation
+Policy on Government Security
+Policy on Information Management
+Policy on Internal Audit
+Policy on Management of Information Technology
+Policy on Official Languages
+Policy on Privacy Protection
+Standard on Privacy and Web Analytics
+Standard on Social Media Account Management
+Standard on Web Accessibility
+Standard on Web Usability
+Standard on Web Interoperability
+10.3 Related External Standards and Specifications
+HTML5
+UTF-8 [RFC 3629]
+Web Content Accessibility Guidelines (WCAG) 2.0"
+11. Enquiries,"Please direct enquiries about this standard to your departmental Centre of Expertise. For interpretation of this standard, departmental Centres of Expertise should contact:
+
+Digital Policy
+Office of the Chief Information Officer
+Treasury Board of Canada Secretariat
+Ottawa ON K1A 0R5
+E-mail: DPPN@tbs-sct.gc.ca"

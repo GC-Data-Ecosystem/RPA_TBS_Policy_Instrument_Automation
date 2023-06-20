@@ -1,0 +1,90 @@
+﻿New column 0,New column 1
+1. Reference,"1.1 Name
+Business Number
+1.2 Identifier
+TBITS -30
+1.3 Category
+Standard
+1.4 Effective date
+June 1996
+1.5 Approving authority
+Treasury Board of Canada
+1.6 Maintenance agency
+Systems and Technology
+Treasury Board Secretariat in conjunction with Materiel and Risk Management, Bureau of Real Property and Materiel, Treasury Board Secretariat
+1.7 Cross index
+TBITS-11, Codes for the Representation Names of Countries
+CAN/CSA Z243.177-6:1991 (ISO/IEC 9594-6:1990) Information Technology B Open Systems Interconnection B The Directory: Selected Attribute Types
+CAN/CSA Z243.177-7:1991 (ISO/IEC 9594-7:1990) Information Technology B Open Systems Interconnection B The Directory: Selected Object Classes
+1.8 Related documents
+RC2(E) Rev. 94 B The Business Number and your Revenue Canada Accounts
+RC5(E) Rev. 94 B Converting to the Business Number"
+2. Purpose,"2.1 Subject to any statutory limitations, this Treasury Board Information Technology Standard endorses the use of a Business Number (BN) to uniquely identify private and public sector entities (i.e. registrants), government programs, and operating entity(ies).
+
+2.2 To support BN implementation, this standard designates Revenue Canada as the Issuing Organization and describes the procedures and identifying information which is required to support BN assignment and service delivery.
+
+2.3 This standard requires that the BN be used in applicable transactions and provides opportunities to reduce costs while streamlining and expediting government services."
+3. Application,"3.1 This standard applies to all transactions, between private and public sector entities, as prescribed by policy or regulations issued persuant to applicable legislation, and Government of Canada organizations defined as departments in Schedules 1 & 2 of the Financial Administration Act.
+
+3.2 A BN must be used in all transactions with the Government of Canada that are undertaken to meet the obligations associated with the programs identified in section 5.3 below.
+
+3.3 This standard applies to all the systems which create and transmit transactions related to the programs identified in section 5.3 below."
+4. Specification,"4.1 The BN includes a nine digit registration number and a six character account identifier as specified in Appendix A. The account identifier uses two letters to uniquely identify a program and four digits to uniquely identify an operating entity(ies) for that program.
+
+4.2 Appendix B defines the registrant identifying information that is needed to support registration and communications between the Government of Canada and the registrant or its operating entity(ies).
+
+4.3 To acquire a BN, all applicants must follow assignment and maintenance procedures established by the Issuing Organization or Issuing Agent."
+5. Qualifications,"5.1 Further information on applicable private and public sector entities, legal obligations and reporting criteria is given in documents provided by the Issuing Organization or Issuing Agent for each program.
+
+5.2 Information used to identify a registrant must be accurate and current to ensure timely service delivery. All BN registrants must notify the Issuing Organization or applicable Issuing Agent of changes in the registrant's identifying information or program participation. (See Appendix A for BN maintenance and Appendix B for identifying information).
+
+5.3 The initial implementation of this standard is limited to the following programs: Goods and Services Tax (GST); import/export; corporate income tax, and; payroll source deductions. Other programs will be added as requirements evolve and resources permit. Appendix A.1.2.1 identifies candidate programs for addition to this list in accordance with an implementation strategy being developed by the Issuing Organization for the propagation of the BN to other transactions."
+6. Implementation,"6.1 Commencing January 1995, a phased in implementation will occur. All existing registrants who have an ""old style"" account number will be invited to convert to the BN. Beginning January 1, 1997, the BN will be mandatory for all transactions covered by the four programs specified in section 5.3.
+
+6.2 All systems under development or modification, as of the date of adoption of this standard, must be capable of providing the BN in transactions with the Government of Canada.
+
+6.3 All information technology plans prepared after the date of adoption of this standard must reflect a suitable BN migration and/or implementation strategy.
+
+6.4 The Issuing Organization has the exclusive responsibility for all facets of BN assignment, promotion, administration, dissemination, extension to new programs and safeguarding the integrity of the BN information, including the registration, promulgation and maintenance of program identifiers that have been assigned.
+
+6.5 The Issuing Organization may designate other organizations as Issuing Agents to assist it in discharging the responsibilities under 6.4"
+7. Government standards working group,"Graham Chambers (Chairperson), TBS
+Des Beckstead, SC
+Ed Buchinski (secretary), TBS
+Paul Drolet, NatResources
+Ronald Fauvel, TBS
+Robert Graham, EC
+John Horsley, PWGSC
+Douglas Kirk, EC
+Mark Lalonde, RC
+Audrey Nicholson, RC
+William Penner, SC
+Robert Porteous, PWGSC
+Rod Quiney, RC
+Pierre Raby, INAC
+Major Yves Rioux, DND
+Bruce Shepley, PWGSC
+Wayne Stanton, HRDC
+Jo Ellen Welsford, IC"
+8. Where to obtain copies,"Information documents may be obtained from the Issuing Organization and from the applicable Issuing Agents. Initially the information will be be available only from:
+
+Business Number
+Revenue Canada
+7th Floor, Tower C
+Place Vanier
+25 McArthur Avenue
+Ottawa, Ontario>
+K1A 0L5
+
+For service in English, call 1-800-959-5525
+For service in French, call 1-800-959-7775
+
+Copies of CAN/CSA Z243.177:1991 (ISO/IEC 9594:1990) may be obtained from:
+
+Canadian Standards Association
+178 Rexdale Blvd
+Rexdale (Toronto), Ontario
+M9W 1R3
+
+Telephone: 1 (416) 747-4000
+Facsimile: 1 (416) 747-4149"

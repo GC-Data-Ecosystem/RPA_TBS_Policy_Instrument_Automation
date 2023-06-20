@@ -1,0 +1,247 @@
+﻿New column 0,New column 1
+1. Date d’entrée en vigueur,"La présente Norme entrera en vigueur le 1er avril 2013, à l’exception de la section 6, qui entrera en vigueur en fonction du calendrier de déploiement fourni à l’annexe G."
+2. Application,"2.1 La présente Norme s'applique aux ministères mentionnés à l’article 2 de la Loi sur la gestion des finances publiques, à l’exception des alinéas b) et c), à moins qu'ils ne soient exclus par une loi, un règlement ou un décret.
+
+2.2 La section 6.1 s’applique à tous les sites Web, toutes les applications Web et toutes les applications mobiles axées sur l’appareil :
+
+accessibles au public (personnes et entreprises de l’extérieur du gouvernement du Canada);
+à l’égard desquels le ministère doit rendre compte.
+
+2.3 La section 6.1 ne s’applique pas :
+
+au contenu dont le ministère n’a pas la responsabilité;
+aux pages Web archivées par l’entremise du Web;
+aux applications mobiles axées sur l’appareil retirées du dépôt organisationnel principal de chaque système d’exploitation mobile.
+
+2.4 Les sections 6.2 et 6.3 s’appliquent à toutes les applications mobiles axées sur l’appareil :
+
+accessibles au public (personnes et entreprises de l’extérieur du gouvernement du Canada);
+à l’égard desquelles le gouvernement du Canada doit rendre compte.
+
+2.5 Les sections 6.2 et 6.3 ne s’appliquent pas :
+
+aux applications mobiles axées sur l’appareil retirées du dépôt organisationnel principal  de chaque système d’exploitation mobile.
+
+2.6 Les sections 7.2 et 8.2 sur le rôle du Secrétariat du Conseil du Trésor du Canada dans la surveillance de la conformité et l’imposition des conséquences en cas de non-conformité ne s’appliquent pas au Bureau du vérificateur général du Canada, au Commissariat à la protection de la vie privée du Canada, au Commissariat à l’information du Canada, au Bureau du directeur général des élections du Canada, au Commissariat au lobbying du Canada, au Commissariat aux langues officielles et au Commissariat à l’intégrité du secteur public. Il revient aux administrateurs généraux de ces entités de surveiller et de garantir la conformité à la présente Norme, de même que de répondre des cas de non-conformité suivant les principes et les lignes directrices du Conseil du Trésor sur la gestion de la conformité."
+3. Contexte,"3.1 Les Canadiens utilisent de plus en plus les appareils mobiles, comme les téléphones intelligents et les tablettes, pour accéder aux renseignements et services du gouvernement du Canada. Afin de suivre cette tendance et de mieux servir les Canadiens, le gouvernement du Canada s’attache à optimiser l’information et les services en ligne accessibles grâce aux appareils mobiles.
+
+3.2 Les Canadiens accèdent aux renseignements et services du gouvernement du Canada à partir de leurs appareils mobiles par l’entremise des sites Web, des applications Web et des applications mobiles axées sur l’appareil.
+
+3.3 Les sites Web et applications Web sont les principaux moyens employés par le gouvernement du Canada pour fournir des renseignements et des services en ligne. La présente Norme vise à s’assurer que les applications et sites Web sont optimisés pour les appareils mobiles et veille ainsi à ce que l’information et les services soient accessibles au plus grand nombre. Les applications mobiles axées sur l’appareil ne sont fournies que lorsque les besoins des utilisateurs ou des entreprises à l’égard de certaines fonctions propres à l’appareil ne peuvent être comblés par les applications ou les sites Web optimisés pour les appareils mobiles.
+
+3.4 La présente Norme propose un modèle efficace pour élaborer et gérer des applications mobiles axées sur l’appareil en réduisant le double emploi grâce à la réutilisation des composantes, à la normalisation des processus et au partage de solutions communes. Ce modèle prévoit ce qui suit :
+
+les ministères continuent de commander, de financer, d’élaborer et de gérer le contenu pour les applications mobiles axées sur l’appareil, et de définir leurs besoins à cet égard;
+les ministères qualifiés de centres d’expertise sur les mobiles du gouvernement du Canada ou les fournisseurs de services externes élaborent, testent et gèrent les applications mobiles axées sur l’appareil, à l’exception des applications mobiles axées sur l’appareil qui requièrent une connexion sécurisée;
+le ministère mandaté comme organe de publication du gouvernement du Canada teste, diffuse et retire, de façon indépendante, les applications mobiles axées sur l’appareil.
+
+3.5 Les éléments de mise en page et de conception prescrits dans les Spécifications techniques relatives au Web et à la présence mobile permettent aux utilisateurs de reconnaître les renseignements et services du gouvernement du Canada.
+
+3.6 La présente Norme est conforme à la Politique sur la gestion des technologies de l’information.
+
+3.7 La présente Norme est publiée en vertu de l’article 7 de la Loi sur la gestion des finances publiques par la secrétaire du Secrétariat du Conseil du Trésor, conformément au paragraphe 6(4) de la Loi sur la gestion des finances publiques, et l’article 3.5 de la Politique sur la gestion des technologies de l'information.
+
+3.8 La présente Norme doit être lue conjointement avec la Norme sur l’accessibilité des sites Web, laNorme sur la facilité d’emploi des sites Web et la Norme sur l’interopérabilité du Web."
+4. Définitions,4.1 Les définitions qui servent à l’interprétation de la présente Norme se trouvent à l’annexe A.
+5. Énoncé,"5.1 Objectif
+
+5.1.1 Les renseignements et services du gouvernement du Canada sont accessibles au plus grand nombre.
+
+5.1.2 Les applications et sites Web et les applications mobiles axées sur l’appareil du gouvernement du Canada atteignent un niveau d’accessibilité et de facilité d’emploi élevé.
+
+5.1.3 Les applications mobiles axées sur l’appareil du gouvernement du Canada sont faciles à trouver et à reconnaître.
+
+5.2 Résultats escomptés
+
+5.2.1 Les renseignements et services en ligne du gouvernement du Canada sont optimisés pour les appareils mobiles.
+
+5.2.2 Le gouvernement ne fournit des applications mobiles axées sur l’appareil que lorsque les besoins des utilisateurs et des entreprises ne peuvent être comblés par les applications ou les sites Web optimisés pour les appareils mobiles.
+
+5.2.3 Les sites Web, les applications Web et les applications mobiles axées sur l’appareil du gouvernement du Canada respectent les lignes directrices acceptées internationalement quant à l’accessibilité et respectent les principes et approches en matière de facilité d’emploi.
+
+5.2.4 Les applications mobiles axées sur l’appareil du gouvernement du Canada sont mises en service par le ministère mandaté comme organe de publication pour le gouvernement du Canada."
+6. Policy Exigences,"En plus des exigences contenues dans la présente section, les sites et les applications Web doivent respecter la Norme sur l’accessibilité des sites Web, la Norme sur la facilité d’emploi des sites Web et la Norme sur l’interopérabilité du Web.
+
+6.1 Ministères
+6.1.1 Responsabilités des gestionnaires ministériels, des spécialistes fonctionnels et des équivalents chargés des sites Web, des applications Web et des applications mobiles axées sur l’appareil :
+6.1.1.1 Sites et applications Web
+
+6.1.1.1.1 S’assurer que les sites et applications Web sont optimisés pour les appareils mobiles, conformément aux exigences décrites dans les Spécifications techniques relatives au Web et à la présence mobile.
+
+6.1.1.1.2 S’assurer que les sites et applications Web satisfont aux exigences décrites dans les Spécifications techniques relatives au Web et à la présence mobile.
+
+6.1.1.2 Applications mobiles axées sur l’appareil
+
+6.1.1.2.1 Veiller à ce que les applications mobiles axées sur l’appareil ne soient pas le seul moyen de fournir des renseignements et des services. Les applications mobiles axées sur l’appareil doivent seulement constituer une amélioration des renseignements et des services déjà offerts dans le cadre des sites et applications Web du gouvernement du Canada.
+
+6.1.1.2.2 Veiller à ce que les projets sur les applications mobiles axées sur l’appareil respectent les exigences de projet indiquées à l’annexe B.
+
+6.1.1.2.3 Veiller à ce que les applications mobiles axées sur l’appareil respectent les exigences en matière d’accessibilité indiquées à l’annexe C.
+
+6.1.1.2.4 Veiller à ce que les applications mobiles axées sur l’appareil respectent les exigences en matière de facilité d’emploi indiquées à l’annexe D.
+
+6.1.1.2.5 Veiller à ce que les applications mobiles axées sur l’appareil respectent les exigences en matière d’interopérabilité indiquées à l’annexe E.
+
+6.1.1.2.6 Veiller à ce que le lancement des applications mobiles axées sur l’appareil respecte les exigences en matière de publication indiquées à l’annexe F.
+
+6.1.1.2.7 S’assurer que les applications mobiles Web axées sur l’appareil satisfont aux exigences décrites dans les Spécifications techniques relatives au Web et à la présence mobile.
+
+6.1.2 Responsabilités du cadre supérieur du ministère désigné par le sous-ministre
+
+6.1.2.1 Approuver les projets sur les applications mobiles axées sur l’appareil, avant qu’ils soient commandés ou financés, en fonction des exigences du projet décrites à l’annexe B.
+
+6.1.2.2 Fournir les renseignements pertinents sur tous les projets d’application mobile axée sur l’appareil approuvés au ministère responsable servant d’organe de publication du gouvernement du Canada, notamment le titre, une courte description, les dates d’essais et de publication anticipées, ainsi que tout autre renseignement requis.
+
+6.1.2.3 Approuver la publication de chaque application mobile axée sur l’appareil.
+
+6.1.2.4 Impartir la publication et le retrait des applications mobiles axées sur l’appareil à l’organe de publication du gouvernement fédéral.
+
+6.1.2.5 Fournir une approbation écrite de la publication au ministère mandaté comme organe de publication du gouvernement fédéral. L’approbation écrite comprend les confirmations suivantes :
+
+le respect de la présente Norme;
+le respect de toutes les ententes juridiques requises pour les systèmes d’exploitation mobiles pris en charge et pour les principaux dépôts organisationnels connexes, y compris les ententes juridiques applicables;
+l’approbation du cycle de vie.
+
+6.1.2.6 Pour chaque application mobile axée sur l’appareil, s’assurer que :
+
+le mandat et les priorités du ministère sont appuyés;
+les indicateurs de rendement clés sont définis;
+les données sont recueillies pour mesurer l’efficacité.
+
+6.1.2.7 Impartir la conception, le développement et la maintenance des applications mobiles axée sur l’appareil aux ministères du gouvernement fédéral qui sont des centres d’expertise sur les mobiles ou aux fournisseurs de services externes, à l’exception des applications mobiles axées sur l’appareil qui requièrent une connexion sécurisée.
+
+6.1.2.8 Inciter les gestionnaires ministériels, les spécialistes fonctionnels et leurs équivalents chargés des sites et des applications Web et des applications mobiles axées sur l’appareil à collaborer, mettre en commun leur expertise et créer des éléments et des outils qui peuvent être réutilisés aux plans ministériel et interministériel.
+
+6.1.3 Responsabilités du dirigeant principal de l’information (DPI) du ministère ou son équivalent
+
+6.1.3.1 Veiller à ce que les logiciels et les systèmes achetés ou créés par le ministère permettent aux sites et aux applications Web et aux applications mobiles axées sur l’appareil de respecter les exigences de la présente Norme.
+
+6.1.3.2 Inciter les membres du personnel à collaborer, mettre en commun leur expertise et créer des éléments et des outils qui peuvent être réutilisés aux plans ministériel et interministériel.
+
+6.1.3.3 Offrir aide et conseils aux cadres supérieurs ministériels sur la mise en œuvre de la présente Norme.
+
+6.1.4 Responsabilités du chef des Communications
+
+6.1.4.1 Veiller à ce que les buts, les propriétaires de contenu et les publics cibles soient identifiés pour chaque application mobile axée sur l’appareil du ministère.
+
+6.1.4.2 Inciter les membres du personnel à collaborer, mettre en commun leur expertise et créer des éléments et des outils qui peuvent être réutilisés aux plans ministériel et interministériel.
+
+6.1.5 Responsabilités des centres d’expertise ministériels, désignés par le cadre supérieur
+
+6.1.5.1 Faire fonction de premier point de contact entre la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor et le ministère pour les questions et les communications liées à l’interprétation et à la mise en œuvre de la présente Norme et des lignes directrices et des outils connexes.
+
+6.1.5.2 Participer et contribuer au forum interministériel des centres d’expertise, présidé par la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor du Canada, pour se tenir au courant de l’évolution des normes Web et mobiles, des lignes directrices et des outils.
+
+6.2 Ministères désignés comme centres d’expertise sur les mobiles du gouvernement fédéral
+6.2.1 Responsabilités de la personne responsable, désignée par le sous-ministre
+
+6.2.1.1 Concevoir, tester et maintenir les applications mobiles axées sur l’appareil au nom des ministères selon le principe du recouvrement des coûts.
+
+6.2.1.2 Collaborer, mettre en commun l’expertise et créer des éléments et des outils qui peuvent être réutilisés au plan interministériel.
+
+6.2.1.3 Élaborer un accord de service en fonction des responsabilités décrites dans la présente section et le fournir aux ministères.
+
+6.3 Ministère désigné comme organe de publication du gouvernement fédéral
+6.3.1 Responsabilités de la personne responsable, désignée par le sous-ministre
+
+6.3.1.1 Gérer le processus de publication et de retrait des applications mobiles axées sur l’appareil du gouvernement fédéral à partir du compte centralisé du gouvernement du Canada, pour le principal « dépôt » organisationnel de chaque système d’exploitation mobile pris en charge, y compris conclure des ententes juridiques.
+
+6.3.1.2 Effectuer des tests indépendants des applications mobiles axées sur l’appareil du gouvernement du Canada.
+
+6.3.1.3 Tenir un inventaire des projets d’application mobile axée sur l’appareil actifs approuvés par les cadres supérieurs ministériels : titre, courte description, dates des essais et du lancement anticipées, etc.
+
+6.3.1.4 Assurer la tenue de l’inventaire des applications mobiles axées sur l’appareil du gouvernement du Canada qui ont été lancées, notamment les confirmations de conformité avec la présente Norme et les ententes juridiques, ainsi qu’avec l’information nécessaire pour publier le principal « dépôt » organisationnel de chaque système d’exploitation mobile pris en charge.
+
+6.3.1.5 Publier l’inventaire des projets d’application mobile axée sur l’appareil à partir du site Publiservice du gouvernement du Canada.
+
+6.3.1.6 Publier, à partir du site Web du gouvernement du Canada, une liste des liens qui sont accessibles au public :
+
+sites et applications Web adaptés aux appareils mobiles;
+applications mobiles axées sur l’appareil.
+
+6.3.1.7 Publier, à partir du site Web du gouvernement du Canada, une liste des systèmes d’exploitation mobiles pris en charge, conformément à la première exigence indiquée à l’annexe B.
+
+6.3.1.8 Examiner et communiquer, en consultation avec les services juridiques, toute mise à jour aux ententes juridiques applicables pour chaque système d’exploitation mobile pris en charge et les principaux « dépôts » organisationnels connexes.
+
+6.3.1.9 Assurer la liaison entre les ministères et le principal « dépôt » organisationnel de chaque système d’exploitation mobile pris en charge en ce qui concerne les questions et les problèmes soulevés.
+
+6.3.1.10 Donner accès aux ministères (ou leur faciliter l’accès) à l’analyse de leurs applications mobiles axées sur l’appareil, en fonction des données provenant du principal « dépôt » organisationnel de chaque système d’exploitation mobile pris en charge.
+
+6.3.1.11 Collaborer, mettre en commun l’expertise et créer des éléments et des outils qui peuvent être réutilisés au plan interministériel.
+
+6.3.1.12 Élaborer un accord de service en fonction des responsabilités décrites dans la présente section et le fournir aux ministères."
+7. Exigences en matière de surveillance et d’établissement de rapports,"Cadre supérieur du ministère
+
+7.1 Le cadre supérieur du ministère désigné par le sous-ministre a la responsabilité d’appuyer son sous-ministre dans la supervision de la mise en œuvre et la surveillance de la présente Norme au sein de son ministère, en portant à l’attention du sous-ministre toute difficulté ou lacune importante en matière de rendement ou de conformité, en élaborant des propositions pour les régler et en rendant compte de tout problème important en matière de rendement ou de conformité à la Direction du dirigeant principal de l’information du Secrétariat du Conseil du Trésor du Canada.
+
+L’ensemble du gouvernement
+
+7.2 Le Secrétariat du Conseil du Trésor du Canada surveillera le respect de la présente Norme de différentes façons, notamment, mais sans s’y limiter, les suivantes :
+
+évaluations en vertu du Cadre de responsabilisation de gestion;
+examens des présentations au Conseil du Trésor, des rapports ministériels sur le rendement, des résultats des vérifications, des évaluations et des études;
+travail effectué en collaboration avec les ministères.
+
+7.3 Le Secrétariat du Conseil du Trésor du Canada examinera la présente Norme et son efficacité cinq ans après sa date d’entrée en vigueur (ou plus tôt si nécessaire)."
+8. Conséquences,"8.1 En cas de non-conformité, les sous-ministres ont la responsabilité de prendre des mesures correctives au sein de leur organisation en collaboration avec les responsables de la mise en œuvre de la présente Norme.
+
+8.2 Les conséquences de la non-conformité à la présente Norme peuvent comprendre toute mesure prévue par la Loi sur la gestion des finances publiques que le Conseil du Trésor juge appropriée et acceptable dans les circonstances.
+
+8.3 Les cadres supérieurs du ministère doivent s’assurer que des mesures correctives sont prises pour régler les cas de non-conformité aux exigences contenues dans la présente Norme. Les mesures correctives peuvent comprendre de la formation supplémentaire, des modifications des procédures et des systèmes, des mesures disciplinaires et d’autres mesures, au besoin.
+
+8.4 Pour connaître l’ensemble des conséquences possibles découlant du fait de ne pas se conformer, consulter l’annexe C : Tableau des conséquences pour les institutions et l’annexe D : Tableau des conséquences pour les personnes dans le Cadre stratégique sur la gestion de la conformité.
+"
+9. Rôles et responsabilités des organismes gouvernementaux,"9.1 Responsabilités du Secrétariat du Conseil du Trésor du Canada (Direction du dirigeant principal de l’information), en consultation avec d’autres ministères
+
+9.1.1 Élaborer des normes, des lignes directrices et des outils, et donner des conseils et des consignes pour les interpréter.
+
+9.1.2 Communiquer et établir des relations avec les communautés Web et mobiles à l’échelle du gouvernement, y compris le Conseil des dirigeants principaux de l’information et d’autres comités et groupes de travail, et leur offrir du soutien en matière de plans, de progrès, de risques et de défis associés à la mise en œuvre de la présente Norme et de ses instruments de soutien au sein du gouvernement fédéral.
+
+9.1.3 Déterminer les ministères qui serviront de centres d’expertise sur les mobiles du gouvernement fédéral.
+
+9.1.4 La modification du document Spécifications techniques relatives au Web et à la présence mobile au besoin, avec la consultation des Communications stratégiques et des Affaires ministérielles.
+
+9.2 Responsabilités des ministères fédéraux
+
+9.2.1 Commander et financer des applications mobiles axées sur l’appareil, définir les exigences connexes et élaborer et gérer du contenu connexe."
+10. Références,"10.1 Lois pertinentes
+Charte canadienne des droits et libertés
+Loi canadienne sur les droits de la personne
+Loi sur la gestion des finances publiques
+Loi sur les langues officielles
+Loi sur la protection des renseignements personnels
+10.2 Instruments de politique connexes et publications
+Cadre principal des politiques du Conseil du Trésor
+Cadre stratégique pour l’amélioration de la prestation des services au gouvernement du Canada
+Cadre stratégique sur la gestion de la conformité
+Directive sur la gestion des technologies de l’information
+Directive sur les langues officielles pour les communications et services
+Ligne directrice sur les ententes de services – Éléments essentiels
+Ligne directrice sur les ententes de services – Synthèse
+Norme opérationnelle de sécurité : Gestion de la sécurité des technologies de l’information (GSTI)
+Norme sur l’accessibilité des sites Web
+Norme sur l’interopérabilité du Web
+Norme sur la facilité d’emploi des sites Web
+Norme sur la gestion des comptes de médias sociaux
+Norme sur la protection de la vie privée et le web analytique
+Politique de communication du gouvernement du Canada
+Politique sur l’évaluation
+Politique sur la gestion de l’information
+Politique sur la protection de la vie privée
+Politique sur la sécurité du gouvernement
+Politique sur la vérification interne
+Politique sur la gestion des technologies de l’information
+Politique sur les langues officielles
+Politique sur le Programme de coordination de l’image de marque du gouvernement du Canada
+Politique sur les services communs
+10.3 Normes et spécifications connexes de l’extérieur
+HTML5 (en anglais seulement)
+UTF-8 [RFC 3629]
+Lignes directrices sur l’accessibilité des contenus Web (WCAG) 2.0"
+11. Demandes de renseignements,"Veuillez faire part de toute question au sujet de la présente Norme au centre d’expertise de votre ministère. Les centres d’expertise ministériels devraient acheminer les questions d’interprétation de la présente Norme à l’adresse suivante :
+
+Politique numérique
+Bureau du dirigeant principal de l’information
+Secrétariat du Conseil du Trésor du Canada
+Ottawa (Ontario) K1A 0R5
+Courriel : DPPN@tbs-sct.gc.ca"

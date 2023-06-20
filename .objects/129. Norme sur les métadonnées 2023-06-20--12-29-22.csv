@@ -1,0 +1,176 @@
+﻿New column 0,New column 1
+1. Date d'entrée en vigueur,"1.1 La présente Norme entre en vigueur le 1er juillet 2010.
+
+1.2 Elle remplace les instruments de politique du Conseil du Trésor suivants : la Norme des métadonnées du Gouvernement en direct (NCTTI 39, partie 1) et la Norme du vocabulaire contrôlé (NCTTI 39, partie 2)."
+2. Champ d'application,"2.1 La présente Norme s'applique aux ministères au sens de l'article 2 de la Loi sur la gestion des finances publiques, sauf si des lois, des règlements ou des décrets en conseil les en excluent.
+
+2.2 Dans la présente Norme, tout renvoi à la totalité ou à une partie d'une norme ou d'une spécification nationale ou internationale doit être interprété comme un renvoi à la plus récente version de ladite Norme ou spécification, ainsi qu'à tout correctif publié officiellement. Toute modification apportée aux normes ou spécifications nationales ou internationales auxquelles la présente Norme renvoie, et ayant une incidence sur la présente Norme, doit être mise en œuvre au plus tard un an après la date d'entrée en vigueur de la modification.
+
+2.3 Les dispositions des sections 6.5.1, 6.5.2 et 7.1 sur le rôle du Secrétariat du Conseil du Trésor en matière de surveillance de la conformité et de l'établissement des conséquences de la non-conformité ne s'appliquent pas au Bureau du vérificateur général du Canada, au Commissariat à la protection de la vie privée du Canada, au Commissariat à l'information du Canada, au Bureau du directeur général des élections du Canada, au Commissariat au lobbying du Canada, au Commissariat aux langues officielles et au Commissariat à l'intégrité du secteur public. L'administrateur général de chacun de ces organismes est l'unique responsable de la surveillance de la conformité à la Norme dans son organisme et de la réponse aux cas de non-conformité, conformément aux instruments du Conseil du Trésor qui concernent la gestion de la conformité."
+3. Contexte,"3.1 La présente Norme appuie la Politique sur la gestion de l'information et la Politique sur la gestion des technologies de l'information en exposant les exigences relatives à la gestion de l'information (GI) et à la technologie de l'information (TI) à l'intention des cadres supérieurs ministériels chargés de la gestion de l'information, des dirigeants principaux de l'information ou leurs équivalents, des spécialistes fonctionnels de la gestion de l'information et des employés.
+
+3.2 Les métadonnées définissent et décrivent la structure et la signification des ressources documentaires, de même que le contexte et les systèmes qui les hébergent. Elles assurent la gestion efficiente et efficace de ces ressources au fil du temps.
+
+3.3 L'uniformité dans la création, la saisie et l'utilisation des métadonnées satisfait à l'objectif de la Politique sur la gestion de l'information et la Directive sur la tenue de documents de traiter l'information comme étant un actif stratégique en permettant la saisie, la description, l'extraction, l'utilisation, la réutilisation, l'accès, le partage, l'authenticité, la fiabilité, l'intégrité et la tenue de ressources documentaires de manière à faciliter la prise de décisions, l'obligation de rendre compte et la prestation efficiente de programmes et de services.
+
+3.4 L'utilisation de métadonnées normalisées dans la conception, la documentation et la mise en œuvre des systèmes et des composants permet l'interopérabilité à l'intérieur des systèmes ou entre eux, de même que la réutilisation des ressources documentaires à l'intérieur des ministères et à l'échelle du gouvernement du Canada (GC), dans les limites permises par les lois et politiques gouvernementales.
+
+3.5 L'utilisation uniforme de domaines de valeurs, jumelés aux métadonnées normalisées, permet l'échange des ressources documentaires à l'intérieur des systèmes et entre eux. Exemples de domaines de valeurs : vocabulaires contrôlés, taxonomies, ontologies, thésaurus, données de référence, listes d'autorité, conventions d'appellation et instructions de chaînes de valeurs.
+
+3.6 Les exigences de la présente Norme s'appliquent aux domaines suivants :
+
+3.6.1 Les métadonnées pour la tenue de documents : Les métadonnées pour la tenue de documents appuient la fonction de gestion de tenue de documents grâce à laquelle les ressources documentaires ayant une valeur opérationnelle sont crées, acquises, saisies, gérées dans des dépôts ministériels au fil du temps, et utilisées à titre d'actif stratégique essentiel pour appuyer la prise de décisions efficaces et faciliter des activités continues, exécuter des programmes et offrir des services.
+
+3.6.2 Les métadonnées pour la découverte des ressources Web : Les métadonnées pour la découverte des ressources Web appuient la navigation, la recherche, l'affichage et le partage des ressources documentaires dans le Web.
+
+3.6.3 Les métadonnées des systèmes de gestion du contenu Web (« WCMS ») : Les métadonnées des systèmes de gestion du contenu Web appuient les processus administratifs et techniques de création, de gestion et de publication du contenu Web dans le cadre de systèmes de gestion du contenu Web.
+
+3.7 Une norme connexe, la Norme sur les données géospatiales, établit les exigences en matière de métadonnées géospatiales.
+
+3.8 La présente Norme est émise aux termes de l'article 7 de la Loi sur la gestion des finances publiques.
+
+3.9 La présente Norme doit être lue de concert avec la Politique sur la gestion de l'information, la Politique sur la gestion des technologies de l'information et la Directive sur la tenue de documents."
+4. Définitions,4.1 Les définitions servant à l'interprétation de la présente Norme figurent à l'annexe A.
+5. Énoncé de la Norme,"5.1 Objectif
+
+L'objectif de la présente Norme est d'accroître l'utilisation de métadonnées et de domaines de valeurs normalisés afin d'appuyer la gestion des ressources documentaires.
+
+5.2 Résultats escomptés
+
+Les résultats escomptés de la présente Norme sont les suivants :
+
+5.2.1 L'amélioration de l'accessibilité, du partage, de l'authenticité, de la fiabilité, de l'intégrité par l'uniformisation dans la saisie, la description, l'extraction, l'utilisation, la réutilisation et la tenue des ressources documentaires, quels que soient les systèmes qui les hébergent et d'un ministère à l'autre.
+
+5.2.2 La capacité des programmes et services de partager l'information de façon efficace et efficiente entre les systèmes et d'un ministère à l'autre."
+6. Exigences,"6.1 Le cadre supérieur ministériel chargé de la gestion de l'information par l'administrateur général répond de ce qui suit :
+
+6.1.1 Garantir que la responsabilité pour le développement et la gestion des métadonnées et domaines de valeurs soit assignée.
+
+6.1.2 Garantir que les métadonnées ministérielles sont utilisées et tenues dans un registre de métadonnées et de domaines de valeurs normalisés.
+
+6.1.3 Garantir que les métadonnées et les domaines de valeurs normalisés du GC soient incorporés dans la conception et la mise en œuvre des systèmes ministériels de gestion des ressources documentaires.
+
+6.1.4 Garantir que les exigences en matière de métadonnées et de domaines de valeurs soient prises en considération à l'étape de la planification des systèmes d'information à l'appui des programmes et services ministériels.
+
+6.2 Le dirigeant principal de l'information ministériel ou son équivalent répond de ce qui suit :
+
+6.2.1 Garantir que les logiciels et les systèmes acquis par les ministères pour créer, modifier, générer, tenir, enregistrer, analyser, recueillir, extraire, indexer, rechercher, explorer ou afficher les métadonnées se conforment aux exigences de la présente Norme ou sinon peuvent être modifiés en conséquence.
+
+6.3 Les spécialistes fonctionnels de la gestion de l'information répondent de ce qui suit :
+
+6.3.1 Fournir des conseils directement aux employées relativement à l'application des métadonnées pour la tenue de documents, la découverte des ressources Web et les systèmes de gestion du contenu Web, conformément aux annexes B, C et D.
+
+6.3.2 Documenter et tenir des métadonnées décrivant les exigences opérationnelles, les exigences de la conception des systèmes et les exigences des éléments de données afin de permettre l'interprétation et l'échange de ressources d'information à l'intérieur des systèmes ou entre eux.
+
+6.3.3 Incorporer les métadonnées et les domaines de valeurs normalisés du GC dans les phases de planification, conception et mise en œuvre des systèmes qui appuient les programmes et services ministériels.
+
+6.3.4 Participer à la création de métadonnées et domaines de valeurs du GC et ministériels.
+
+6.4 Les employés répondent de ce qui suit :
+
+6.4.1 Appliquer les métadonnées pour la tenue de documents aux ressources documentaires à valeur opérationnelle, selon les conditions énoncées à l'annexe B.
+
+6.4.2 Appliquer les métadonnées pour la découverte des ressources Web aux ressources documentaires mises à la disposition du public dans le World Wide Web, selon les conditions énoncées à l'annexe C.
+
+6.4.3 Appliquer les métadonnées pour les systèmes de gestion du contenu Web aux ressources documentaires gérées par ces systèmes, selon les conditions énoncées à l'annexe D.
+
+6.5 Exigences de suivi et d'établissement de rapports
+
+6.5.1 Le cadre supérieur ministériel chargé de la GI et le dirigeant principal de l'information ministériel, ou son équivalent, doivent appuyer l'administrateur général en supervisant la mise en œuvre et le suivi de la présente Norme au sein du ministère, en signalant à l'administrateur général les problèmes de taille, les lacunes de rendement et les questions de conformité, en élaborant des propositions visant à les corriger, et en signalant les problèmes sérieux de rendement ou de conformité à la Direction du dirigeant principal de l'information du Secrétariat du Conseil du Trésor.
+
+6.5.2 Le Secrétariat du Conseil du Trésor utilisera différents moyens pour surveiller l'observation de tous les éléments de la présente Norme, ainsi que l'atteinte des résultats escomptés. Il procédera notamment à des évaluations fondées sur le Cadre de responsabilisation de gestion ainsi qu'à l'examen des présentations au Conseil du Trésor, des rapports sur les plans et les priorités, des rapports ministériels sur le rendement, des stratégies et plans de GI/TI, des résultats de vérification, des évaluations et des études.
+
+6.5.3 Le Secrétariat du Conseil du Trésor examinera la présente Norme et son degré d'efficacité cinq ans après sa mise en œuvre (ou avant cette date, si nécessaire)."
+7. Conséquences,"7.1 L'inobservation pourrait avoir comme conséquence, entre autres, des suivis informels et des demandes officieuses de la part du Secrétariat du Conseil du Trésor, par voie de vérifications externes ou de directives formelles sur les mesures correctives qui s'imposent.
+
+7.2 Les conséquences d'une non-conformité à la présente Norme peuvent comprendre toute mesure prescrite en vertu de la Loi sur la gestion des finances publiques que le Conseil du Trésor pourrait déterminer comme étant appropriée et acceptable, selon les circonstances."
+8. Rôles et responsabilités des organismes gouvernementaux,"Nota : Cette section énumère d'autres ministères et organismes qui ont un rôle à remplir dans l'application de la présente Norme. Elle ne confère aucun pouvoir en elle-même.
+
+8.1 Le Secrétariat du Conseil du Trésor :
+
+8.1.1 Offre des conseils et des lignes directrices sur l'interprétation de la présente Norme.
+
+8.1.2 Définit les exigences relatives aux registres et dépôts de métadonnées.
+
+8.2 Bibliothèque et Archives Canada :
+
+8.2.1 Maintient le Thésaurus des sujets de base du gouvernement du Canada et le tient à la disposition du public.
+
+8.2.2 Voit à l'enregistrement des vocabulaires contrôlés utilisés au gouvernement du Canada ou qui ont été approuvés par les organismes interministériels ou de réglementation désignés par le Secrétariat du Conseil du Trésor, et qui respectent les exigences énoncées à l'annexe B.
+
+8.3 Travaux publics et Services gouvernementaux Canada :
+
+8.3.1 Est chargé de proposer des solutions pangouvernementales communes pour satisfaire aux exigences de GI des ministères et organismes aux fins de la prestation de services, telles la gestion de documents, la gestion du contenu Web, les portails et la collaboration, et la gestion de la recherche intégrée.
+
+8.4 Service Canada
+
+8.4.1 Configure et optimise le moteur de recherche du site du Canada afin qu'il utilise les métadonnées pour la découverte des ressources Web, telles que décrites à l'annexe C."
+9. Références,"9.1 Lois applicables
+Loi sur l'accès à l'information
+Loi sur la Bibliothèque et les Archives du Canada
+Loi sur la preuve au Canada
+Loi sur la protection civile
+Loi sur la protection de l'information
+Loi sur la protection des renseignements personnels
+Loi sur la protection des renseignements personnels et les documents électroniques (partie 2)
+Loi sur la statistique
+Loi sur le casier judiciaire
+Loi sur le droit d'auteur
+Loi sur les langues officielles
+Règlement sur le dépôt légal de publications (DORS/2006-337)
+9.2. Instruments de politique et publications connexes du Conseil du Trésor
+Cadre stratégique pour l'information et la technologie
+Cadre stratégique sur la gestion de la conformité
+Directive sur la tenue de documents
+Directive sur les rôles et responsabilités en matière de gestion de l'information
+Directive sur l'utilisation des langues officielles sur les sites Web
+Ligne directrice à l'intention des employés fédéraux : Rudiments de la gestion de l'information (GI)
+Normalisation des sites Internet 2.0
+Norme sur les données géospatiales
+Politique sur la gestion de l'information
+Politique sur la gestion des technologies de l'information
+Politique sur la langue de travail
+Politique sur la protection de la vie privée
+Politique sur la sécurité du gouvernement
+Politique sur la vérification interne
+Politique sur l'accès à l'information
+Politique sur l'autorisation et l'authentification électroniques
+Politique sur les services communs
+Politique sur l'évaluation
+Politique sur l'obligation de prendre des mesures d'adaptation pour les personnes handicapées dans la fonction publique fédérale
+Politique sur l'utilisation des langues officielles pour les communications avec le public et la prestation des services
+9.3 Outils et lignes directrices connexes du GC sur les métadonnées
+
+9.3.1 Métadonnées pour la tenue de documents
+
+Ensemble d'éléments de métadonnées pour la tenue de documents du gouvernement du Canada
+Profil d'application de métadonnées pour la tenue de documents du gouvernement du Canada
+Ligne directrice relative à la mise en œuvre des métadonnées pour la tenue de documents du gouvernement du Canada
+
+9.3.2 Métadonnées pour la découverte des ressources Web
+
+Profil d'application du Dublin Core du gouvernement du Canada
+Ligne directrice relative à la mise en œuvre des métadonnées pour la découverte des ressources Web du gouvernement du Canada, 6e édition
+Thésaurus des sujets de base du gouvernement du Canada
+
+9.3.3 Métadonnées pour les systèmes de gestion du contenu Web
+
+Ensemble d'éléments de métadonnées pour les systèmes de gestion du contenu Web du gouvernement du Canada
+Profil d'application des métadonnées pour les systèmes de gestion du contenu Web du gouvernement du Canada
+Ligne directrice relative à la mise en œuvre des métadonnées pour les systèmes de gestion du contenu Web du gouvernement du Canada
+9.4 Normes et spécifications de l'extérieur requises
+Codes de représentation des noms de langue – Partie 2 : Codes Alpha-3 (ISO 639-2)
+Nota : Les noms de langue sont disponibles en anglais et en français.
+Documentation – Principes directeurs pour l'établissement et le développement de thésaurus monolingues (ISO 2788)
+Documentation – Principes directeurs pour l'établissement et le développement de thesaurus multilingues (ISO 5964)
+Éléments de données et formats d'échange – Échange d'information – Représentation de la date et de l'heure (ISO 8601)
+Information et documentation – L'ensemble des éléments de métadonnées Dublin Core (ISO 15836)
+Information et documentation – Processus de gestion des enregistrements – Métadonnées pour les enregistrements – Partie 1 : Principes (ISO 23081-1)
+Information et documentation – Processus de gestion des enregistrements – Métadonnées pour les enregistrements – Partie 2 : Concepts et mise en œuvre (ISO 23081-2)
+Règles d'encodages W3C pour les dates et heures (W3CDTF)
+Nota : Les instructions sont disponibles en anglais seulement."
+10. Demandes de renseignements,"Veuillez adresser vos questions au sujet de la présente Norme à l'administration centrale de votre ministère. Aux fins de l'interprétation de la Norme, l'administration centrale du ministère devrait communiquer avec la division suivante :
+
+Bureau du dirigeant principal de l'information
+Secrétariat du Conseil du Trésor du Canada
+Courriel : dppn@tbs-sct.gc.ca"

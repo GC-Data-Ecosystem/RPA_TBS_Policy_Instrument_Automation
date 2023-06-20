@@ -1,0 +1,156 @@
+﻿New column 0,New column 1
+1. Date d'entrée en vigueur,1.1 La présente Norme est entrée en vigueur le 1er août 2011 et elle a été révisée le 31 mars 2013. Elle remplace la partie 2 de la Normalisation des sites Internet 2.0
+2. Application,"2.1 La présente Norme s'applique aux ministères énumérés aux annexes I, I.1 et II de la Loi sur la gestion des finances publiques, à l'exception des alinéas b) et c), à moins qu'ils ne soient exclus par une loi, un règlement ou un décret.
+
+2.2 La section 6 s'applique à tous les pages Web :
+
+qui s'adressent au public (c.-à-d., accessibles aux particuliers et aux entreprises de l'extérieur du gouvernement du Canada);
+dont le ministère est responsable;
+publiées dans les sites et applications Web du gouvernement du Canada.
+
+2.3 La section 6 ne s'applique pas à ce qui suit :
+
+le contenu Web pour lequel le ministère n'a pas à rendre compte;
+les pages Web qui sont archivées dans le Web.
+le contenu vidéo fourni exclusivement pour être réutilisé et diffusé par les médias.
+
+2.4 La section 6.1.1 est mise en œuvre par étapes et s'applique comme suit :
+
+Étape I (1er août 2011 – 29 février 2012)
+Toutes les pages d'accueil des sites Web et les pages auxquelles on fait référence à partir des pages d'accueil des sites Web et applications Web.
+Le nombre important de pages Web qui fournissent aux particuliers et aux entreprises les renseignements et services les plus importants, y compris les droits et avantages.
+Le nombre important de pages Web qui servent le plus fréquemment.
+Toutes les nouvelles pages Web parues après le 1er octobre 2011 doivent être conformes sans délai.
+Étape II (1er mars 2012 – 31 juillet 2012)
+Les autres pages Web qui fournissent aux particuliers et aux entreprises les renseignements et services les plus importants, y compris les droits et avantages.
+Les autres pages Web qui servent le plus fréquemment.
+Étape III (1er août 2012 – 31 juillet 2013)
+Les pages Web restantes.
+
+2.5 Les exigences particulières à la section 6.1.1 ne s'appliquent pas à ce qui suit :
+
+le contenu Web dont l'exclusion pendant un certain temps peut être justifiée au moyen d'une attestation;
+le contenu Web qui est exclu au titre des Règles pour l'accessibilité des contenus Web (WCAG) 2.0, comme les images essentielles d'un texte/.
+
+La liste des exclusions figure à l'annexe B.
+
+2.6 Les sections 7.2, 7.3 et 8.2 concernant le rôle du Secrétariat du Conseil du Trésor en matière de surveillance de la conformité et de détermination des conséquences de la non-conformité ne s'appliquent pas au Bureau du vérificateur général, au Commissariat à la vie privée, au Commissariat à l'information, au Bureau du directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l'intégrité du secteur public. L'administrateur général de chacun de ces organismes est l'unique responsable de la surveillance de la conformité à la Norme dans son organisme et de la réponse aux cas de non-conformité, conformément aux instruments du Conseil du Trésor qui servent de principes et d'orientation en matière de gestion de la conformité."
+3. Contexte,"3.1 Le canal Web est un élément important de l'engagement du gouvernement du Canada visant la prestation de services multimodes. Le gouvernement du Canada veille à ce qu'un haut niveau d'accessibilité des sites Web soit appliqué uniformément à l'ensemble de ses sites Web et applications Web.
+
+Les normes et les technologies du Web évoluent constamment et l'accessibilité des sites Web contribue grandement à l'efficacité et à l'efficience du canal Web au sein du gouvernement du Canada. Afin de respecter son engagement en matière d'accessibilité des sites Web, le gouvernement du Canada a adopté les WCAG 2.0. Il y est précisé ce qui suit (traduction) : « L'observation des présentes lignes directrices rendra le contenu accessible à un plus vaste éventail de personnes handicapées, y compris les personnes aveugles et à vision réduite, les personnes sourdes et ayant une perte de l'ouïe, les personnes ayant des troubles d'apprentissage, ayant des limitations cognitives, une mobilité réduite, un trouble de la parole, ou des problèmes de photosensibilité, ou une combinaison de ceux-ci. L'observation des présentes lignes directrices rendra aussi votre contenu Web plus accessible aux utilisateurs en général ».
+
+3.2 La présente Norme appuie la Politique sur la gestion des technologies de l'information et la gestion de la présence du GC dans le Web en précisant aux dirigeants principaux de l'information (DPI) des ministères ou à leur équivalent de même qu'aux chefs des communications, ou à d'autres fonctionnaires appuyant la gestion de la TI, les exigences additionnelles qui permettent d'assurer la cohérence des processus de gestion de la TI.
+
+3.3 La présente Norme est émise conformément à l'article 7 de la Loi sur la gestion des finances publiques par la secrétaire du Secrétariat du Conseil du Trésor, conformément au paragraphe 6(4) de la Loi sur la gestion des finances publiques, et l'article 3.5 de la Politique sur la gestion des technologies de l'information.
+
+3.4 Il faut lire la présente Norme de concert avec la Norme sur la facilité d'emploi des sites Web, la Norme sur l'interopérabilité du Web et la Norme sur l’optimisation des sites Web et des applications pour appareils mobiles."
+4. Définitions,4.1 Les définitions servant à l'interprétation de la présente Norme figurent à l'annexe A.
+5. Énoncé de la Norme,"5.1 Objectif
+
+5.1.1 La présente Norme vise à ce qu'un haut niveau d'accessibilité des sites Web et applications Web soit appliqué uniformément à l'ensemble des sites Web du gouvernement du Canada.
+
+5.2 Résultats escomptés
+
+5.2.1 Les sites Web du gouvernement du Canada respectent les lignes directrices acceptées à l'échelle internationale en matière d'accessibilité des sites Web et applications Web et sont mesurés avec cohérence."
+6. Exigences,"6.1 Il incombe aux gestionnaires, aux spécialistes fonctionnels et aux titulaires de postes équivalents chargés du contenu Web ou de pages Web de :
+
+6.1.1 Veiller à ce que chaque page Web satisfasse aux cinq exigences de conformité à WCAG 2.0, selon les conditions suivantes :
+
+La première exigence de conformité (niveau de conformité) définit les niveaux de conformité. Elle ne peut être remplie que si ce qui suit est vrai :
+un niveau de conformité AA est entièrement atteint;
+les échecs fréquents sont évités pour tous les critères de succès applicables;
+des techniques suffisantes sont utilisées de manière à observer tous les critères de succès applicables;
+des techniques suffisantes propres à chaque technologie (dont on dépend) sont adoptées, le cas échéant.
+La deuxième exigence de conformité (pages complètes) définit ce qui doit être évalué dans une page Web.
+La troisième exigence de conformité (processus complets) définit ce qui doit être évalué dans une page Web qui fait partie d'un processus.
+La quatrième exigence de conformité (l'usage des technologies des méthodes exclusivement compatibles avec l'accessibilité) définit les usages des technologies sur lesquels on peut dépendre pour répondre aux critères de succès. Elle ne peut être remplie qu'au moyen de l'utilisation des technologies suivantes :
+XHTML 1.0 ou version plus récente, à l'exception des éléments et attributs dépréciés;
+HTML 4.01 ou version plus récente, à l'exception des éléments et attributs dépréciés;
+HTML 5 ou version plus récente, à l'exception des attributs obsolètes;
+Technologies assorties de techniques suffisantes (propres à chaque technologie) pour observer tous les critères de succès applicables.
+La cinquième exigence de conformité (non-interférence) définit les exigences pour les usages des technologies sur lesquelles on ne peut pas dépendre pour répondre aux critères de succès.
+
+La liste des exclusions figure à l'annexe B.
+
+6.2 Le dirigeant principal de l'information ministériel ou son équivalent répond de ce qui suit :
+
+6.2.1 S'assurer que les logiciels et les systèmes achetés par les ministères permettent aux sites Web et applications Web de se conformer aux exigences des sections 6.1.1 ou de les modifier afin qu'ils s'y conforment.
+
+6.3 Le cadre supérieur ministériel désigné par l'administrateur général répond de ce qui suit :
+
+6.3.1 Surveiller la mise en œuvre de la présente Norme dans son ministère et réaliser les activités mentionnées à la rubrique 7.2."
+7. Les exigences de suivi et d'établissement de rapports sont les suivantes :,"Les administrateurs généraux
+
+7.1 Les administrateurs généraux sont chargés de veiller à ce que la présente Norme soit respectée au sein de leur ministère respectif en suivant les consignes de la Politique sur l'évaluation et la Politique sur la vérification du Conseil du Trésor. De plus, ils doivent apporter les mesures correctives qui s'imposent pour combler toute lacune au sein de leur ministère.
+
+Le cadre supérieur ministériel
+
+7.2 Le cadre supérieur ministériel désigné par l'administrateur général doit appuyer ce dernier en supervisant la mise en œuvre et le suivi de la présente Norme au sein du ministère, en signalant à l'administrateur général les problèmes de taille, les lacunes de rendement et les questions de conformité, en élaborant des propositions visant à les corriger, et en signalant les problèmes sérieux de rendement ou de conformité à la Direction du dirigeant principal de l'information du Secrétariat du Conseil du Trésor du Canada.
+
+Dans l'ensemble de l'administration fédérale
+
+7.3 Le Secrétariat du Conseil du Trésor du Canada surveillera la conformité à la présente Politique de diverses manières grâce, entre autres :
+
+aux évaluations menées aux termes du Cadre de responsabilisation de gestion;
+aux examens des présentations au Conseil du Trésor, aux rapports ministériels sur le rendement, aux résultats des vérifications, aux évaluations et aux études;
+au travail effectué en collaboration avec les ministères.
+
+7.4 Le Secrétariat du Conseil du Trésor du Canada examinera la présente Norme et son degré d'efficacité cinq ans après sa mise en œuvre (ou avant cette date, au besoin)."
+8. Conséquences,"8.1 En cas de non-conformité, l'administrateur général a la responsabilité de prendre des mesures correctives dans son organisation, de concert avec les personnes responsables de la mise en œuvre des exigences de la présente Norme.
+
+8.2 Les conséquences de l'inobservation de la présente Norme peuvent comprendre toute mesure qui est permise en vertu de la Loi sur la gestion des finances publiques que le Conseil du Trésor pourrait déterminer comme étant appropriée ou acceptable, selon les circonstances.
+
+8.3 Les mesures correctives possibles, y compris les conséquences, sont comprises dans l'annexe C et sont décrites dans le Cadre stratégique sur la gestion de la conformité."
+9. Rôles et responsabilités des organisations gouvernementales,"9.1 La Direction du dirigeant principal de l'information, Secrétariat du Conseil du Trésor du Canada, en consultation avec d'autres ministères, est responsable des fonctions suivantes :
+
+9.1.1 L'élaboration de normes, de lignes directrices et d'outils ainsi que la prestation de services de conseil et d'interprétation en regard de ces instruments.
+
+9.1.2 La communication avec la collectivité Web dans l'ensemble du gouvernement et la mobilisation de cette collectivité relativement aux plans, progrès, risques et enjeux liés à la mise en œuvre de la présente Norme et des instruments à l'appui au gouvernement fédéral.
+
+9.1.3 La prestation de soutien au Conseil des dirigeants principaux de l'information (DPI) et à d'autres comités et groupes de travail, au besoin, afin d'examiner les enjeux et les possibilités du gouvernement relativement à la mise en œuvre de la présente Norme et des instruments à l'appui.
+
+9.1.4 La publication et la mise à jour de la liste des exclusions provenant des exigences particulières de la section 6.1.1."
+10. Ouvrages de référence,"10.1 Lois applicables
+Charte canadienne des droits et libertés
+Loi canadienne sur les droits de la personne
+Loi sur la gestion des finances publiques
+10.2 Instruments de politiques connexes et publications
+Cadre principal des politiques du Conseil du Trésor
+Cadre stratégique pour l'amélioration de la prestation des services au gouvernement du Canada
+Cadre stratégique sur la gestion de la conformité
+Directive sur la gestion des technologies de l'information
+Directive sur les langues officielles pour les communications et les services
+Directive sur les pratiques relatives à la protection de la vie privée
+Guide de mise en œuvre de la Norme sur l'accessibilité des sites Web
+Norme sur l’optimisation des sites Web et des applications pour appareils mobiles
+Norme sur la gestion des comptes de médias sociaux
+Norme sur la protection de la vie privée et le Web analytique
+Norme sur la facilité d'emploi des sites Web
+Norme sur l'interopérabilité du Web
+Politique de communication du gouvernement du Canada
+Politique sur la gestion de l'information
+Politique sur la gestion des technologies de l'information
+Politique sur la protection de la vie privée
+Politique sur la sécurité du gouvernement
+Politique sur la vérification interne
+Politique sur le programme de coordination de l'image de marque
+Norme sur les données géospatiales
+Politique sur les langues officielles
+Norme sur les métadonnées
+Politique sur les services communs
+Politique sur l'obligation de prendre des mesures d'adaptation pour les personnes handicapées dans la fonction publique fédérale
+Politique sur l'évaluation
+10.3 Normes externes et dispositions connexes
+Accessible Rich Internet Applications (WAI-ARIA) 1.0 (en anglais seulement)
+Authoring Tool Accessibility Guidelines (ATAG) 2.0 (en anglais seulement)
+HTML5 (en anglais seulement)
+User Agent Accessibility Guidelines (UAAG) 2.0 (en anglais seulement)
+Règles pour l'accessibilité des contenus Web (WCAG) 2.0
+XHTML 1.0 The Extensible HyperText Markup Language (en anglais seulement)"
+11. Demandes de renseignements,"Veuillez transmettre toute question au sujet de la présente Norme au Centre d'expertise des normes Web de votre ministère. Les Centres d'expertise des normes Web peuvent obtenir des interprétations de la présente Norme en communiquant avec :
+
+Politique numérique
+Bureau du dirigeant principal de l’information
+Secrétariat du Conseil du Trésor du Canada
+Ottawa (Ontario) K1A 0R5
+Courriel : DPPN@tbs-sct.gc.ca"

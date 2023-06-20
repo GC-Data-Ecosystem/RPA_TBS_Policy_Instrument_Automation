@@ -1,0 +1,195 @@
+﻿New column 0,New column 1
+Introduction,"Future asset restoration costs are associated with certain obligations that arise when a capital asset is acquired, constructed, developed or already in operation; however, these costs are not settled until the capital asset is retired at the end of its useful life or at the end of the contractual term. Incurring future asset restoration costs must be the result of a contractual or legal obligation. Examples of such obligations include the need to restore the condition of a leased asset at the end of a lease agreement, the need to dispose of certain types of fuel storage tanks by regulation, the need to decontaminate certain waste materials before they are released or the need to decommission a nuclear facility.
+
+Please note that this guidance provides further explanation for the application of Sections 22, 23, 24 and 25 of the Treasury Board Accounting Standard (TBAS) 3.1 – Capital Assets, which has been in effect since March 29, 2001."
+Recognition and measurement,"Only a legal or contractual obligation associated with the retirement of a capital asset that establishes a duty or responsibility to restore it justifies recognition of a liability. These liabilities may encompass costs for dismantling, abandoning, cleaning up or restoring a capital asset. When such costs can be reasonably estimated:
+
+They shall be added to the carrying value of the capital asset and amortized over the remainder of its useful life; and,
+An allowance for the estimated costs for future asset restoration shall be recorded as a liability.
+
+If future asset restoration costs are expected to be significant but cannot be reasonably estimated, this factshall be disclosed in the notes to the departmental financial statements in accordance with TBAS 3.6 – Contingencies.
+
+The rationale behind this accounting treatment is that the future asset restoration costs are linked to the use of the capital asset and shall therefore be recognized over the years of use rather than at the time the restoration work is performed.
+
+A department shall recognize the liability for future asset restoration costs in the period in which the capital asset is placed in service and when a reasonable estimate of the costs can be made. The initial estimated restoration cost shall be the fair value based on the best information available when the capital asset is initially placed in service, such as quoted current market prices in active markets or prices for similar work. If an estimated future cash requirement is provided for the future restoration cost, the estimated future cash flow shall be discounted at the Government of Canada lending rate to approximate the total fair value of the capital asset when the capital asset is placed in service as shown in Appendix A.
+
+In subsequent years, a present value technique, inflated by the Consumer Price Index (CPI), shall be applied to the opening liability balance in order to estimate the fair value of the closing liability at March 31 of each year (see Appendix B). While estimates shall be re-examined whenever circumstances that would likely affect the estimates occur or every few years, departments must ensure that at least a present value adjustment is done annually in the absence of any reassessment. In other words, departments are to factor in inflation to keep the estimates current.
+
+For future restoration costs with estimated future cash flows spanning more than 25 years, the 25-year Government of Canada lending rate shall be used.
+
+Please note that the future asset restoration costs to be capitalized exclude costs related to remediation liabilities for contaminated sites and solid waste landfills. Please see guidance onRemediation Liability for Contaminated Sites.
+
+Upon transition to this guidance, the fair value of the estimated restoration cost of an asset at the time of the adoption of this guidance shall be added to the carrying value of the asset already in service and amortized over the remainder of its useful life."
+Disclosures,"The following information regarding future asset restoration costs shall be disclosed:
+
+A general description of the future asset restoration costs and the associated long-lived capital assets; and
+A reconciliation of the beginning and ending aggregate carrying amount of future asset restoration costs as follows:
+Reconciliation Schedule:
+Opening Balance (Financial Reporting Account (FRA) 24112)
+[plus] Revisions in Estimated Cash Flows (FRA 24112, Authority F419)
+[plus] Accretion Expense1 (FRA 51729, Authority F120)
+[minus] Liabilities Settled in the Current Period (FRA 24112, Authority Axxx or Bxxx)
+[equals] Ending Balance (FRA 24112)
+
+Note:
+
+Accretion expense is the increase in the carrying amount of an asset retirement obligation due to the passage of time."
+References,"TBAS 3.1 – Capital Assets
+TBAS 3.6 – Contingencies
+Canadian Institute of Chartered Accountants (CICA) Handbook Section 3110 – Asset Retirement Obligations"
+Accounting entries,"Note: For simplicity, the accounting entries presented below do not reflect the goods and services tax / harmonized sales tax (GST / HST).
+
+1. Initial recognition – See Appendix B for annual calculations related to figures used in accounting entries below.
+A department constructs an observation tower on leased land, on the condition that it restores the site to its original condition at the end of the lease term.
+
+The tower cost $1,000,000 to construct and it is estimated that the initial discounted cost to dismantle and remove the tower at the end of the 10-year term is $150,000 (current market quote). At end of Year 2, an additional present value amount of $10,000 is estimated to be required to clean up the site.
+
+(a) To record cost of tower and future asset restoration costs at Year 1
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Works and Infrastructure	1,000,000	16113	B14A(*)	1339
+Debit: Works and Infrastructure	150,000	16113	F359	7099
+Credit: Future Asset Restoration Liability	150,000	24112	F419	7029
+Credit: Accounts Payable Ongoing	1,000,000	21111	R300	6299
+(b) To record the change in the restoration cost estimate at the end of Year 2
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Works and Infrastructure	10,000	16113	F359	7099
+Credit: Future Asset Restoration Liability	10,000	24112	F419	7029
+FRA coding rationale:
+
+The $1,000,000 cost to construct the tower and the $150,000 in future asset restoration costs are capitalized as part of the asset balance using 16113. The $150,000 credit is to liability account 24112, which will remain until the restoration work is performed 10 years later. Since the department has not yet paid for the tower, a payable must be recorded for the amount owing using 21111. At the end of Year 2, the additional $10,000 in site clean-up costs is estimated and added to the asset using 16113 and to the liability using 24112.
+
+Authority coding rationale:
+
+In this example, it is assumed that the cost of the observation tower would be charged to B14A. However, depending on the department and the asset involved, other authority codes could be used, such as B11A/B12A""or A131. As the costs associated with the future asset restoration will only be disbursed in the future, F359 is used for the asset and F419 is used for the liability. As usual, R300 is used for the accounts payable.
+
+B14A: Capital Vote
+B11A/B12A: Program Expenditures or Operating Expenditures Vote
+A131: Spending of Amounts Equivalent to Proceeds from Disposal of Surplus Moveable Crown Assets.
+F359:Other Non-Appropriated Amounts Added to or Deducted from Asset Balances
+F419: Charges to Other Accruals and Allowances
+R300: Total (or Net, as applicable) Amounts of All Other Assets and of All Other Liabilities
+
+Note: For further details related to A131, please see Sections 13–15 of the Surplus Crown Assets Act.
+
+Object coding rationale:
+
+Object code 1339 is used to record the cost of the observation tower. Object code 7099 is used for the increase in asset value due to future asset restoration costs and 7029 is used for the corresponding liability. Object code 6299 is used to establish the accounts payable.
+
+1339: Other Engineering Works
+7099: Net Increase or Decrease in Other Transactions
+7029: Other Allowances
+6299: Net Increase or Decrease to Other Liability
+2. Year-end entries – See Appendix B for annual calculations related to figures used in accounting entries below.
+(a) To record amortization of the observation tower (end of Year 1 and 2)
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Amortization Expenses – Works and Infrastructure	115,000	51413	F111	3451
+Credit: Accumulated Amortization on Works and Infrastructure	115,000	16213	F311	7061
+(b) To record amortization of the observation tower (starting end of Year 3)
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Amortization Expenses – Works and Infrastructure	116,250	51413	F111	3451
+Credit: Accumulated Amortization on Works and Infrastructure	116,250	16213	F311	7061
+FRA coding rationale:
+
+Using straight-line amortization of 10 years, the cost of the asset and future asset restoration costs are allocated over the useful life of the asset. Amortization Expense at end of Year 1 and 2 would be $115,000 ($1,150,000 [divided by] 10 years). Starting end of Year 3, Amortization Expense would be $116,250 [($1,150,000 [minus] $230,000 [plus] $10,000) [divided by] 8 years].
+
+If there is a salvage value of $20,000 discounted, that is expected from selling the dismantled structure at the end of the term, the amount to be amortized would be $980,000 ($1,000,000 [minus] $20,000) and Amortization Expense at end of Year 1 and 2 would be $113,000 [($980,000 [plus] $150,000) [divided by] 10 years]. Starting end of Year 3, Amortization Expense would be $114,250 [($980,000 [plus] $150,000 [minus] $226,000 [plus] $10,000) [divided by] 8 years].
+
+Authority coding rationale:
+
+F111 and F-311 are used because expenditures for the construction of the tower were charged to an appropriation in the previous journal entry. Accordingly, the appropriation is not affected when the amortization expense of the constructed tower is recorded.
+
+F111: Amortization Expenses for Capital Assets
+F311: Increases (Decreases) to Accumulated Amortization of Capital Assets
+Object coding rationale:
+
+3451 and 7061 are used as these are non-cash (non-expenditure) items that they have no effect on economic objects.
+
+3451: Amortization Expenses for Capital Assets
+7061: Accumulated Amortization on Capital Assets
+(c) To update liability balance with present value adjustments – See Appendix B for annual calculations related to figures used in accounting entries below.
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Other Miscellaneous Expenses	3,000	51729	F120	3469
+Credit: Future Asset Restoration Liability 	3,000	24112	F419	7029
+FRA coding rationale:
+
+The present value adjustment is calculated by multiplying the closing balance of the previous fiscal year's future asset restoration liability by the CPI factor. See ""Other Misc Expenses"" column in Appendix B. The present value adjustment is debited to a miscellaneous expense account 51729 and credited to the future asset restoration liability account 24112.
+
+Authority coding rationale:
+
+F120 and F419 are used because the costs associated with the future asset restoration will only be incurred in the future.
+
+F120: Expenses Related to the Increase in the carrying amount of an asset restoration liability due to the passage of time
+F419: Charges to Other Accruals and Allowances
+Object coding rationale:
+
+Object code 3469 is used for operating expenses relating to the inflation adjustment and 7029 is used for the corresponding liability. The resulting liability balance is the estimated fair value of the future asset restoration liability at year-end.
+
+3469: Charges to Other Liability Accounts
+7029: Other Allowances
+3. End of the lease term – See Appendix B for annual calculations related to figures used in the accounting entries below.
+Scenario A - Ten years have passed and the lease period has ended.  The tower is dismantled and removed and the site is restored to its original condition.
+
+The balance of the future asset restoration liability is $194,566 ($150,000 [plus] $10,000 [plus] present value adjustments of $34,566). However, the actual demolition of the tower and clean-up costs amount to $175,000 (a) or $210,000 (b).
+
+(a) To record the actual restoration cost when it is less than the liability balance
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Future Asset Restoration Liability	175,000	24112	B14A(*)	0819/
+0499
+Debit: Future Asset Restoration Liability	19,566	24112	F419	7029
+Credit: Other Miscellaneous Expenses	19,566	51729	F120	3469
+Credit: Accounts Payable Ongoing	175,000	21111	R300	6299
+ (b) To record the actual restoration cost when it is more than the liability balance
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Future Asset Restoration Liability	194,566	24112	B14A(*)	0819/ 0499
+Debit: Other Miscellaneous Expenses	15,434	51729	B14A(*)	0819/ 0499
+Credit: Accounts Payable Ongoing	210,000	21111	R300	6299
+FRA coding rationale:
+
+Debit 24112 to settle the liability of $194,566 ($150,000 [plus] $10,000 [plus] present value adjustments of $34,566) that was originally recorded as the estimated future asset restoration costs. A credit to 21111 for the actual restoration cost and to set-up the accounts payable is recorded. The difference between the liability balance and the actual accounts payable is credited or debited to 51729.
+
+Authority coding rationale:
+
+Given this is a legitimate charge against an appropriation, the actual restoration costs are charged to the capital vote, B14A, or to other appropriate authorities, such as B11A/B12A or A131. The excess in the liability balance over the actual restoration cost in (a) shall be reversed against F419, the original authority code used. As Accounts Payable does not have an impact on authorities, R300 is used.
+
+B14A: Capital Vote
+B11A/B12A: Program Expenditures or Operating Expenditures Vote
+A131: Spending of Amounts Equivalent to Proceeds from Disposal of Surplus Moveable Crown Assets
+F419:Charges to Other Accruals and Allowances
+R300: Total (or Net, as applicable) Amounts of All Other Assets and of All Other Liabilities
+Object coding rationale:
+
+Object codes 0819, 0499 or other professional service codes can be used for the restoration costs, depending on the nature of the services. 6299 is used to establish the accounts payable.
+
+0819: Non-Professional Personal Service Contracts Not Elsewhere Specified
+0499: Other Professional Services Not Elsewhere Specified
+3469: Charges to Other Liability Accounts
+6299: Net Increase or Decrease in Other Liability
+
+(c) To record the sale of the capital asset and related gain
+
+Scenario B - Five years have now passed, and the department chooses to sell the capital asset to an outside buyer for $600,000.
+
+Please follow Treasury Board Directive on the Sale or Transfer of Surplus Real Property for sale procedures and access to the sale proceeds.
+
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Future Asset Restoration Liability	176,224	24112	D321	4843
+Debit: Cash in Hands of Departments Awaiting Deposit to the Receiver General	600,000	11125	R300	5299
+Debit: Accumulated Amortization on Works and Infrastructure	578,750	16213	D321	4843
+Credit: Works and Infrastructure	1,160,000	16113	D321	4843
+Credit: Gain on Disposal of Capital Assets to Outside Parties	194,974	42411	D321	4843
+FRA coding rationale:
+
+The liability of $176,224 ($150,000 [plus] $10,000 [plus] present value adjustments of $16,224) that was recorded as the estimated future asset restoration costs is debited. The asset is credited by its historical cost and the related accumulated amortization is debited, which removes them from the system. The difference between the proceeds less the net book value of the capital asset and the future asset restoration costs is credited as a gain (or debited as a loss as is appropriate).
+
+Authority coding rationale:
+
+Because the cash received has no impact on authority, R300 is used. D321, which is a restricted spending authority code for the disposal of surplus Crown assets, is used for the remaining debits and credits.
+
+R300: Total (or Net, as applicable) Amounts of All Other Assets and of All Other Liabilities
+D321: Proceeds from Disposal of Moveable Surplus Crown Assets
+Object coding rationale:
+
+As economic objects are recorded on an expenditure basis, 5299 is used to record the net impact on the cash account and 4843 is used to record the proceeds from the sale
+
+4843: Sales of Surplus Crown Assets
+5299: Net Increase or Decrease in Cash Account"

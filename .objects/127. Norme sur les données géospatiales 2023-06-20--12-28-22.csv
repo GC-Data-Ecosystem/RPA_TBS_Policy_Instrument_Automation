@@ -1,0 +1,122 @@
+﻿New column 0,New column 1
+1. Entrée en vigueur,"1.1 La présente norme entrera en vigueur le 1er juin 2009. Les ministères auront jusqu'au 31 mai 2014 pour se conformer totalement à la section 6.1 de la norme.
+
+1.2 La version de la présente norme comprend les mises à jour qui ont été apportées en date du 1er avril 2012."
+2. Application,"2.1 La présente norme s'applique aux ministères au sens de l'article 2 de la Loi sur la gestion des finances publiques, à moins qu'ils ne fassent l'objet d'une exclusion en vertu d'une loi, d'un règlement ou d'un décret.
+
+2.2 Dans la présente norme, tout renvoi à la totalité ou à une partie d'une norme ou d'une spécification nationale ou internationale doit être interprété comme un renvoi à la plus récente version de ladite norme ou spécification ainsi qu'à tout correctif publié officiellement. Toute modification apportée aux normes ou spécifications nationales ou internationales auxquelles la présente norme renvoie et ayant une incidence sur la présente norme doit être mise en œuvre au plus tard un an après la date d'entrée en vigueur de la modification.
+
+2.3 La section 7.1 et les dispositions de la section 6.3.1 et 6.3.2 qui ont trait au rôle du Secrétariat du Conseil du Trésor en matière de surveillance de la conformité et de l'établissement des conséquences de la non-conformité ne s'appliquent pas au Bureau du vérificateur général, au Commissariat à la protection de la vie privée, au Commissariat à l'information, au Bureau du directeur général des élections, au Commissariat au lobbying, au Commissariat aux langues officielles et au Commissariat à l'intégrité du secteur public. L'administrateur général de chacun de ces organismes est l'unique responsable de la surveillance de la conformité à la norme dans son organisme et des mesures à prendre à l'égard des cas d'inobservation, conformément aux instruments du Conseil du Trésor énonçant les principes et les directives en matière de gestion de la conformité."
+3. Contexte,"3.1 Les données géospatiales sont définies comme des données qui font référence implicitement ou explicitement à un lieu par rapport à la surface de la Terre. La présente norme établit l'infrastructure d'information qui facilitera la recherche et l'utilisation de données géospatiales et permettra l'échange de données entre les ministères, avec d'autres administrations et avec le secteur privé.
+
+3.2 Les ministères fédéraux, les provinces, les territoires et d'autres produisent ou utilisent des données géospatiales importantes au bien-être social, économique et culturel. Cela comprend des produits cartographiques à l'appui de différentes activités - opérations de recherche et de sauvetage, renseignement géospatial, lutte contre les incendies, etc. La normalisation est essentielle dans ce contexte. Elle permet aux données provenant d'une source d'être facilement utilisées avec celles d'autres sources afin de créer un produit plus riche et plus utile. La Norme des données géospatiales adopte des mesures qui ont été avalisées par les ministères fédéraux, les gouvernements provinciaux et territoriaux ainsi que les participants du milieu universitaire et du secteur privé à l'Infrastructure canadienne de données géospatiales.
+
+3.3 La présente norme permettra aux ministères d'échanger des données et de maximiser l'utilisation des produits cartographiques existants et des produits connexes. Les ministères seront aussi en mesure de tirer parti des outils et des logiciels d'utilisation courante dans le monde disponibles sur le marché pour rechercher, accéder à et utiliser des données géospatiales. Il en découlera des gains d'efficacité importants dans l'échange et l'utilisation des produits cartographiques du secteur public. De façon plus générale, un soutien sera assuré aux programmes et services s'inscrivant dans les mandats des ministères, qui ainsi seront mieux en mesure de relever des défis économiques, environnementaux et sociétaux.  
+
+3.4 La présente norme est publiée par le Secrétaire du Conseil du Trésor aux termes de l'article 7 de la Loi sur la gestion des finances publiques, conformément à l'article 3.4 de la Politique sur la gestion de l'information et à l'article 3.5 de la Politique sur la gestion des technologies de l'information.
+
+3.5 La présente norme doit être lue de concert avec la Politique sur la gestion de l'information et la Politique sur la gestion des technologies de l'information."
+4. Définitions,4.1 Les définitions servant à l'interprétation de la présente norme figurent à l'annexe A.
+5. Énoncé de la norme,"5.1 Objectif
+
+5.1.1 L'objectif de la présente norme est de soutenir la gérance et l'interopérabilité des données en veillant à ce que les ministères puissent accéder à utiliser et échanger des données géospatiales de façon efficace et efficiente à l'appui de l'exécution des programmes et de la prestation des services.
+
+5.2 Résultats escomptés
+
+5.2.1 Les ministères échangent les données géospatiales aux niveaux intraministériel et interministériel dans toute la mesure du possible.
+
+5.2.2 Les responsables des programmes et des services sont en mesure d'accéder à et d'utiliser des données géospatiales de façon efficace et efficiente."
+6. Exigences,"6.1 Les gestionnaires et les spécialistes fonctionnels chargés de créer ou d'utiliser des données géospatiales ou des systèmes qui utilisent des données géospatiales sont investis des responsabilités suivantes :
+
+6.1.1 Appliquer la norme ISO 19115 Information géographique – Métadonnées conformément aux conditions énoncées à l'annexe B;
+
+6.1.2 Appliquer tous les éléments de la norme ISO 19128 Information géographique – Interface de carte du serveur Web conformément aux conditions énoncées à l'annexe C.
+
+6.1.3 Appliquer le profil nord-américain de la norme ISO 19115 Information géographique - Métadonnées (PNA - Métadonnées) conformément aux conditions énoncées à l'annexe D.
+
+6.2 Le DPI ministériel ou le titulaire d'un poste équivalent est investi de la responsabilité suivante :
+
+6.2.1 S'assurer que les logiciels et les systèmes achetés par les ministères pour créer, modifier, générer, analyser, exploiter, extraire, indexer, parcourir ou afficher et visualiser des métadonnées, des cartes ou des formats images de données géospatiales sont conformes aux exigences des sections 6.1.1, 6.1.2 et 6.1.3 ou peuvent être modifiés pour s'y conformer.
+
+6.3 Les exigences de suivi et de rapport sont les suivantes :
+
+6.3.1 Le cadre supérieur ministériel chargé de la GI doit appuyer l'administrateur général en supervisant la mise en œuvre et le suivi de la présente directive au sein du ministère, en signalant à l'administrateur général les problèmes de taille, les lacunes de rendement et les question de conformité, en développant des propositions visant à les corriger, et en signalant les problèmes sérieux de rendement ou de conformité à la Direction du dirigeant principal de l'information, du Secrétariat du Conseil du Trésor.
+
+6.3.2 Le Secrétariat du Conseil du Trésor utilisera différents moyens pour surveiller l'observation de tous les éléments de la présente directive ainsi que l'atteinte des résultats escomptés; il procédera notamment à des évaluations fondées sur le Cadre de responsabilisation de gestion ainsi qu'à l'examen des présentations au Conseil du Trésor, des rapports ministériels sur le rendement et des résultats des vérifications, des évaluations et des études.
+
+6.3.3 Le Secrétariat du Conseil du Trésor examinera la présente directive et son degré d'efficacité cinq ans après sa mise en œuvre (ou avant cette date, si nécessaire)."
+7. Conséquences,"7.1 L'inobservation pourrait avoir comme conséquences, entre autres, des suivis et des demandes de renseignements de la part du Secrétariat du Conseil du Trésor, des vérifications externes ou des directives officielles sur les correctifs à apporter."
+8. Rôles et responsabilités des organismes gouvernementaux,"Nota : Cette section énumère d'autres ministères et organismes qui ont un rôle à remplir dans l'application de la norme. Elle ne confère aucun pouvoir en elle-même.
+
+8.1 Secrétariat du Conseil du Trésor
+
+8.1.1 Le Secrétariat du Conseil du Trésor fournit des conseils sur l'interprétation de la présente norme.
+
+8.2 Ressources naturelles Canada
+
+À titre de ministère ayant l'expertise dans le domaine des normes géospatiales, Ressources naturelles Canada :
+
+8.2.1 peut fournir une expertise en la matière et des conseils sur l'application de la présente norme, de concert avec le Comité mixte des organismes intéressés à la géomatique ou d'autres ministères, s'il y a lieu;
+
+8.2.2 peut fournir une expertise en la matière et des conseils dans le cadre de l'examen de la présente norme et des questions de conformité, de concert avec le Comité mixte des organismes intéressés à la géomatique ou d'autres ministères, s'il y a lieu."
+9.  Documents de référence,"9.1 Lois pertinentes
+Loi sur l'accès à l'information
+Loi sur la preuve au Canada
+Loi sur le droit d'auteur
+Loi sur la Bibliothèque et les Archives du Canada
+Loi sur les langues officielles
+ Loi sur la protection des renseignements personnels et les documents électroniques (partie 2)
+Loi sur la protection des renseignements personnels
+Loi sur la protection de l'information
+Loi sur la statistique
+9.2 Instruments stratégiques et publications connexes
+Politique sur l'accès à l'information
+Politique sur les services communs
+Politique de communication
+Directive sur les rôles et responsabilités en matière de gestion de l'information
+Directive sur la gestion des technologies de l'information
+Directive sur la tenue des documents
+Politique d'évaluation
+Politique sur la sécurité
+Politique sur l'obligation de prendre des mesures d'adaptation pour les personnes handicapées dans la fonction publique fédérale
+Politique sur la vérification interne
+Politique sur la langue de travail
+Politique sur les services (pas encore approuvée)
+Politique sur l'utilisation des langues officielles pour les communications avec le public et la prestation des services
+Politique sur la protection de la vie privée
+9.3 Normes et spécifications externes connexes
+Profil nord-américain d'ISO 19115 – Information géographique – Métadonnées (PNA – Métadonnées). Comité sur la géomatique de l'Office des normes générales du Canada.
+ISO 639-2, Codes pour la représentation des noms de langue – Partie 2 : Code alpha-3 (Organisation internationale de normalisation).
+ISO 3166-1, Codes pour la représentation des noms de pays et de leurs subdivisions – Partie 1 : Codes de pays (Organisation internationale de normalisation).
+ISO/TS 19101 Information géographique – Modèle de référence (Organisation internationale de normalisation).
+ISO/TS 19103 Information géographique – Schéma de langage conceptuel (Organisation internationale de normalisation).
+ISO 19106, Information géographique – Profils (Organisation internationale de normalisation).
+ISO/FDIS 19111 Information géographique – Système de références spatiales par coordonnées (Organisation internationale de normalisation).
+ISO 19118 Information géographique – Codage (Organisation internationale de normalisation).
+ISO 19119 Information géographique – Services (Organisation internationale de normalisation).
+ISO 19119 DAM 1 Information géographique – Services (Organisation internationale de normalisation).
+ISO/TS 19127 Information géographique – Codes et paramètres géodésiques (Organisation internationale de normalisation).
+ISO/DIS 19132 Information géographique – Services basés sur la localisation – Modèle de référence (Organisation internationale de normalisation).
+ISO 19135 Information géographique – Procédures pour l'enregistrement d'éléments (Organisation internationale de normalisation).
+ISO/DIS 19136 Information géographique – Langage de balisage en géographie (GML) (Organisation internationale de normalisation).
+ISO/TS19139 Information géographique – Métadonnées – Implémentation de schémas XML (Organisation internationale de normalisation).
+Open geospatial Consortium. OpenGIS® Web Services Common Specification, OGC 05-008."
+10.  Demandes de renseignements,"Veuillez adresser vos questions au sujet de la présente norme à l'administration centrale de votre ministère. Aux fins de l'interprétation de la norme, l'administration centrale du ministère devrait communiquer avec la division suivante :
+
+Bureau du dirigeant principal de l'information
+Secrétariat du Conseil du Trésor du Canada
+Ottawa (Ontario)  K1A 0R5
+Courriel : dppn@tbs-sct.gc.ca
+
+Il est possible d'obtenir des copies des normes, des spécifications ou de documents connexes auprès des sources suivantes :
+
+Conseil canadien des normes
+270, rue Albert, bureau 200
+Ottawa (Ontario)  K1P 6N7
+Téléphone : 613-238-3222
+Télécopieur : 613-569-7808
+Web : http://www.scc.ca/fr/home
+https://int.scc.ca/forums/gc/dispatch.cgi (l'accès à ce site est limité aux employés du gouvernement du Canada)
+
+Organisation internationale de normalisation :
+http://www.iso.org/iso/fr/home.htm"

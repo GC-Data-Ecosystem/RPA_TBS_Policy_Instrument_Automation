@@ -1,2 +1,292 @@
-﻿1. Values and Ethics Code for the Public Sector 2023-06-12--11-32-11.csv
-1. Code de valeurs et d'éthique du secteur public 2023-06-12--11-32-19.csv
+﻿1. Values and Ethics Code for the Public Sector 2023-06-20--11-14-15.csv
+1. Code de valeurs et d'éthique du secteur public 2023-06-20--11-14-30.csv
+2. Foundation Framework for Treasury Board Policies 2023-06-20--11-14-47.csv
+2. Cadre principal des politiques du Conseil du Trésor 2023-06-20--11-15-03.csv
+3. Common Services Policy 2023-06-20--11-15-28.csv
+3. Politique sur les services communs 2023-06-20--11-15-44.csv
+4. Policy on Communications and Federal Identity 2023-06-20--11-16-01.csv
+4. Politique sur les communications et l'image de marque 2023-06-20--11-16-17.csv
+5. Directive on the Management of Communications 2023-06-20--11-16-34.csv
+5. Directive sur la gestion des communications 2023-06-20--11-16-49.csv
+6. Guidelines on Making Communications Products and Activities Accessible 2023-06-20--11-17-06.csv
+6. Lignes directrices sur laccessibilité des produits et des activités de communication 2023-06-20--11-17-22.csv
+7. Procedures for Publishing 2023-06-20--11-17-39.csv
+7. Procédures sur l'édition 2023-06-20--11-17-55.csv
+8. Policy Framework for the Management of Compensation 2023-06-20--11-18-12.csv
+8. Cadre des politiques de gestion de la rémunération 2023-06-20--11-18-28.csv
+9. Defence Scientific Service Group - Pay Plan 2023-06-20--11-18-45.csv
+9. Groupe des services scientifiques de la défense - Régime de rémunération 2023-06-20--11-19-01.csv
+10. Policy on Educational Assistance for Children of Employees - Chapter 7-3 2023-06-20--11-19-18.csv
+10. Politique sur l'assistance scolaire pour les enfants d'employés - Chapitre 7-3 2023-06-20--11-19-34.csv
+11. Flying Accidents Compensation 2023-06-20--11-19-51.csv
+11. L'indemnisation en cas d'accidents d'aviation 2023-06-20--11-20-07.csv
+12. Injury-on-Duty Leave 2023-06-20--11-20-24.csv
+12. Congé pour accident du travail 2023-06-20--11-20-40.csv
+13. Long-Term Disability Insurance - Chapter 3-4 2023-06-20--11-20-57.csv
+13. Assurance-invalidité de longue durée - Chapitre 3-4 2023-06-20--11-21-13.csv
+14. Directive on Performance Pay Administration for Certain Senior Excluded and Unrepresented Groups and Levels 2023-06-20--11-21-30.csv
+14. Directive sur l'administration de la rémunération au rendement de certains groupes et niveaux supérieurs exclus et non représentés 2023-06-20--11-21-46.csv
+15. Performance pay for represented employees in the Administrative and Foreign Service Category 2023-06-20--11-22-03.csv
+15. Rémunération au rendement pour les employés représentés de la catégorie de l'administration et du service extérieur 2023-06-20--11-22-20.csv
+16. Public Service Income Benefit Plan for Survivors of Employees Slain on Duty 2023-06-20--11-22-37.csv
+16. Régime de prestations de revenu versées aux survivants des employés de la fonction publique tués dans l'exercice de leurs fonctions 2023-06-20--11-22-52.csv
+17. Self-Funded Leave Policy 2023-06-20--11-23-10.csv
+17. Politique sur le congé auto-financé 2023-06-20--11-23-28.csv
+18. Service outside Canada 2023-06-20--11-23-45.csv
+18. Politique sur le service à l'extérieur du Canada 2023-06-20--11-24-01.csv
+19. Staff engaged locally outside Canada 2023-06-20--11-24-19.csv
+19. Personnel recruté sur place à l'étranger 2023-06-20--11-24-35.csv
+20. Policy on Terms and Conditions of Employment 2023-06-20--11-24-53.csv
+20. Politique sur les conditions d'emploi 2023-06-20--11-25-09.csv
+21. Guidelines for Two-Tier Bargaining 2023-06-20--11-25-27.csv
+21. Lignes directrices sur la négociation à deux niveaux 2023-06-20--11-25-42.csv
+22. Workers' Compensation 2023-06-20--11-26-00.csv
+22. L'indemnisation pour accident du travail 2023-06-20--11-26-16.csv
+23. Framework for the Management of Compliance 2023-06-20--11-26-33.csv
+23. Cadre stratégique sur la gestion de la conformité 2023-06-20--11-26-49.csv
+24. Policy on Financial Management 2023-06-20--11-27-06.csv
+24. Politique sur la gestion financière 2023-06-20--11-27-22.csv
+25. Directive on Accounting Standards 2023-06-20--11-27-40.csv
+25. Directive sur les normes comptables 2023-06-20--11-27-56.csv
+26. Interdepartmental Transfers - Capital Assets 2023-06-20--11-28-13.csv
+26. Transferts interministériels - Immobilisations - Un supplément au manuel de comptabilité selon la Stratégie d'information financière 2023-06-20--11-28-29.csv
+27. Financial Information Strategy Accounting Manual 2023-06-20--11-28-48.csv
+27. Manuel de comptabilité selon la SIF 2023-06-20--11-29-05.csv
+28. Guide to Advance Payments 2023-06-20--11-29-22.csv
+28. Guide sur les paiements anticipés 2023-06-20--11-29-38.csv
+29. Directive on Accounting Standards GC 4400 Guideline 2023-06-20--11-29-56.csv
+29. Directive sur les normes comptables Lignes directrice GC 4400 Rapport financier trimestriel - Exemple à titre d'illustration 2023-06-20--11-30-12.csv
+30. Directive on Accounting Standards GC 4500 Guideline 2023-06-20--11-30-29.csv
+30. Directive sur les normes comptables Lignes directrice GC 4500 Exemple à titre d'illustration - États financiers ministériels 2023-06-20--11-30-45.csv
+31. Directive on Accounting Standards GC 5200 Guideline 2023-06-20--11-31-03.csv
+31. Directive sur les normes comptables Lignes directrice GC 5200 Rapport financier trimestriel des sociétés d'État 2023-06-20--11-31-19.csv
+32. Remediation Liabilities Related to Contaminated Sites 2023-06-20--11-31-37.csv
+32. Passif relatif à l'assainissement des sites contaminés -supplément au manuel de comptabilité selon Stratégie d'information financière 2023-06-20--11-31-53.csv
+33. Future Asset Restoration Liability 2023-06-20--11-32-10.csv
+33. Passif pour la restauration future d'une immobilisation Un supplément au manuel de comptabilité selon la Stratégie d'information financière 2023-06-20--11-32-26.csv
+34. Directive on Charging and Special Financial Authorities 2023-06-20--11-32-44.csv
+34. Directive sur l'imputation et les autorisations financières spéciales 2023-06-20--11-33-00.csv
+35. Guide to Advance Payments 2023-06-20--11-33-18.csv
+35. Guide sur les paiements anticipés 2023-06-20--11-33-34.csv
+36. Guide to Internal Charging and Special Financial Authorities 2023-06-20--11-33-51.csv
+36. Guide sur l'imputation interne et les autorisations financières spéciales 2023-06-20--11-34-07.csv
+37. Guideline on Departmental Chart of Accounts Line Object Codes 2023-06-20--11-34-25.csv
+37. Ligne directrice sur les codes des articles d'exécution du plan comptable ministériel 2023-06-20--11-34-41.csv
+38. Guideline on Chief Financial Officer Attestation for Cabinet Submissions 2023-06-20--11-34-59.csv
+38. Ligne directrice sur l'attestation du dirigeant principal des finances pour les présentations au Cabinet 2023-06-20--11-35-15.csv
+39. Data Standard on Classification of Procurement Items 2023-06-20--11-35-33.csv
+39. Norme de données de classification des articles d'approvisionnement 2023-06-20--11-35-49.csv
+40. Standard on Customer Record 2023-06-20--11-36-11.csv
+40. Norme relative au fichier client 2023-06-20--11-36-27.csv
+41. Directive on Delegation of Spending and Financial Authorities 2023-06-20--11-36-45.csv
+41. Directive sur la délégation des pouvoirs de dépenser et des pouvoirs financiers 2023-06-20--11-37-01.csv
+42. Directive on the Stewardship of Financial Management Systems 2023-06-20--11-37-19.csv
+42. Directive sur la gérance des systèmes de gestion financière 2023-06-20--11-37-35.csv
+43. Directive on Payments 2023-06-20--11-37-53.csv
+43. Directive sur les paiements 2023-06-20--11-38-09.csv
+44. Guide to Administering Low-Value Amounts 2023-06-20--11-38-27.csv
+44. Guide sur l'application des sommes de peu de valeur 2023-06-20--11-38-47.csv
+45. Guide to Managing Receivables 2023-06-20--11-39-05.csv
+45. Guide de gestion des comptes débiteurs 2023-06-20--11-39-21.csv
+46. Guide to Advance Payments 2023-06-20--11-39-39.csv
+46. Guide sur les paiements anticipés 2023-06-20--11-39-55.csv
+47. Guide to Claims 2023-06-20--11-40-13.csv
+47. Guide sur les réclamations 2023-06-20--11-40-29.csv
+48. Guide to Debt Deletion 2023-06-20--11-40-50.csv
+48. Guide sur la suppression de dettes 2023-06-20--11-41-06.csv
+49. Guide to Ex Gratia Payments and Honorariums 2023-06-20--11-41-24.csv
+49. Guide sur les paiements à titre gracieux et des versements à titre gratuit 2023-06-20--11-41-40.csv
+50. Guideline on Financial Management of Pay Administration 2023-06-20--11-41-58.csv
+50. Ligne directrice sur la gestion financière de l'administration de la paye 2023-06-20--11-42-15.csv
+51. Guidelines for the Processing of Garnishments 2023-06-20--11-42-32.csv
+51. Lignes directrices sur le traitement des saisies-arrêts 2023-06-20--11-42-49.csv
+52. Directive on Public Money and Receivables 2023-06-20--11-43-07.csv
+52. Directive sur la gestion des fonds publics et des comptes débiteurs 2023-06-20--11-43-23.csv
+53. Guideline on Accountable Advances 2023-06-20--11-43-41.csv
+53. Ligne directrice sur les avances comptables 2023-06-20--11-43-58.csv
+54. Guide to Interest and Administrative Charges 2023-06-20--11-44-16.csv
+54. Guide sur les intérêts et les frais administratifs 2023-06-20--11-44-32.csv
+55. Guide to Managing Receivables 2023-06-20--11-44-50.csv
+55. Guide de gestion des comptes débiteurs 2023-06-20--11-45-06.csv
+56. Guideline on Security for Debts 2023-06-20--11-45-24.csv
+56. Ligne directrice sur la garantie à l'égard des dettes 2023-06-20--11-45-41.csv
+57. Directive on Travel Hospitality Conference and Event Expenditures 2023-06-20--11-45-59.csv
+57. Directive sur les dépenses de voyages d'accueil de conférences et d'événements 2023-06-20--11-46-15.csv
+58. Guide to the Proactive Publication of Travel and Hospitality Expenses 2023-06-20--11-46-34.csv
+58. Guide de publication proactive des frais de voyage et d'accueil 2023-06-20--11-46-50.csv
+59. Standard on Vendor Record 2023-06-20--11-47-08.csv
+59. Norme relative au fichier fournisseur 2023-06-20--11-47-25.csv
+60. Governance and Expenditure Management Policy Area 2023-06-20--11-47-43.csv
+60. Domaine politique de gouvernance et de gestion des dépenses 2023-06-20--11-47-59.csv
+61. Guidelines on Streamlining - Statutory Reports to Parliament 2023-06-20--11-48-17.csv
+61. Lignes directrices sur la rationalisation des rapports prévus par la loi et déposés devant le Parlement 2023-06-20--11-48-34.csv
+62. Policy on Government Security 2023-06-20--11-48-52.csv
+62. Politique sur la sécurité du gouvernement 2023-06-20--11-49-09.csv
+63. Directive on Identity Management 2023-06-20--11-49-27.csv
+63. Directive sur la gestion de l'identité 2023-06-20--11-49-44.csv
+64. Guideline on Defining Authentication Requirements 2023-06-20--11-50-03.csv
+64. Ligne directrice sur la définition des exigences en matière d'authentification 2023-06-20--11-50-19.csv
+65. Directive on Identity Management - Appendix A Standard on Identity and Credential Assurance 2023-06-20--11-50-37.csv
+65. Directive sur la gestion de l'identité - Annexe A - Norme sur l'assurance de l'identité et des justificatifs 2023-06-20--11-50-54.csv
+66. Guideline on Identity Assurance 2023-06-20--11-51-12.csv
+66. Ligne directrice sur l'assurance de l'identité 2023-06-20--11-51-29.csv
+67. Guideline on Defining Authentication Requirements 2023-06-20--11-51-47.csv
+67. Ligne directrice sur la définition des exigences en matière d'authentification 2023-06-20--11-52-04.csv
+68. Directive on Identity Management - Appendix A Standard on Identity and Credential Assurance 2023-06-20--11-52-22.csv
+68. Directive sur la gestion de l'identité - Annexe A Norme sur l'assurance de l'identité et des justificatifs 2023-06-20--11-52-39.csv
+69. Directive on Identity Management - Appendix A Standard on Identity and Credential Assurance 2023-06-20--11-52-57.csv
+69. Directive sur la gestion de l'identité - Annexe A Norme sur l'assurance de l'identité et des justificatifs 2023-06-20--11-53-14.csv
+70. Directive on Identity Management - Appendix A Standard on Identity and Credential Assurance 2023-06-20--11-53-32.csv
+70. Directive sur la gestion de l'identité - Annexe A Norme sur l'assurance de l'identité et des justificatifs 2023-06-20--11-53-51.csv
+71. Directive on Security Management 2023-06-20--11-54-14.csv
+71. Directive sur la gestion de la sécurité 2023-06-20--11-54-35.csv
+72. Policy on Green Procurement 2023-06-20--11-54-57.csv
+72. Politique d'achats écologiques 2023-06-20--11-55-18.csv
+73. Standard on the Disclosure of Greenhouse Gas Emissions and the Setting of Reduction Targets 2023-06-20--11-55-36.csv
+73. Norme sur la divulgation des renseignements liés aux émissions de gaz à effet de serre et l'établissement des cibles de réduction 2023-06-20--11-55-53.csv
+74. Standard on Embodied Carbon in Construction 2023-06-20--11-56-11.csv
+74. Norme sur le carbone intrinsèque en construction 2023-06-20--11-56-28.csv
+75. Policy on Internal Audit 2023-06-20--11-56-46.csv
+75. Politique sur l'audit interne 2023-06-20--11-57-03.csv
+76. Directive on Internal Audit 2023-06-20--11-57-21.csv
+76. Directive sur l'audit interne 2023-06-20--11-57-38.csv
+77. Policy on the Management of Executives 2023-06-20--11-57-56.csv
+77. Politique de gestion des cadres supérieurs 2023-06-20--11-58-13.csv
+78. Directive on Performance and Talent Management for Executives 2023-06-20--11-58-32.csv
+78. Directive sur la gestion du rendement et des talents des cadres supérieurs 2023-06-20--11-58-49.csv
+79. Policy on Official Languages 2023-06-20--11-59-07.csv
+79. Politique sur les langues officielles 2023-06-20--11-59-24.csv
+80. Directive on the Implementation of the Official Languages-Communications with and Services to the Public-Regulations 2023-06-20--11-59-42.csv
+80. Directive sur l'application du Règlement sur les langues officielles - communications avec le public et prestation des services 2023-06-20--12-00-06.csv
+81. Directive on Official Languages for Communications and Services 2023-06-20--12-00-26.csv
+81. Directive sur les langues officielles pour les communications et services 2023-06-20--12-00-49.csv
+82. Directive on Official Languages for People Management 2023-06-20--12-01-08.csv
+82. Directive sur les langues officielles pour la gestion des personnes 2023-06-20--12-01-29.csv
+83. Policy on People Management 2023-06-20--12-01-48.csv
+83. Politique sur la gestion des personnes 2023-06-20--12-02-05.csv
+84. Directive on Building Emergency and Evacuation Teams 2023-06-20--12-02-23.csv
+84. Directive sur les équipes d'urgence et d'évacuation des immeubles 2023-06-20--12-02-40.csv
+85. Directive on Classification Grievances 2023-06-20--12-02-59.csv
+85. Directive sur les griefs de classification 2023-06-20--12-03-16.csv
+86. Directive on Classification Oversight 2023-06-20--12-03-34.csv
+86. Directive sur la surveillance de la classification 2023-06-20--12-03-52.csv
+87. Directive on Classification 2023-06-20--12-04-10.csv
+87. Directive sur la classification 2023-06-20--12-04-27.csv
+88. Directive on Conflict of Interest 2023-06-20--12-04-46.csv
+88. Directive sur les conflits d'intérêts 2023-06-20--12-05-03.csv
+89. Guidelines for Discipline 2023-06-20--12-05-21.csv
+89. Lignes directrices concernant la discipline 2023-06-20--12-05-38.csv
+90. Directive on the Duty to Accommodate 2023-06-20--12-05-57.csv
+90. Directive sur l'obligation de prendre des mesures d'adaptation 2023-06-20--12-06-14.csv
+91. Directive on Employee Assistance Programs 2023-06-20--12-06-33.csv
+91. Directive sur le Programme d'aide aux employés 2023-06-20--12-06-50.csv
+92. Directive on Employment Equity- Diversity and Inclusion 2023-06-20--12-07-09.csv
+92. Directive sur l'équité en matière d'emploi- la diversité et l'inclusion 2023-06-20--12-07-26.csv
+93. Directive on Interchange Canada 2023-06-20--12-07-44.csv
+93. Directive sur Échanges Canada 2023-06-20--12-08-01.csv
+94. Policy on Legal Assistance and Indemnification 2023-06-20--12-08-20.csv
+94. Politique sur les services juridiques et l'indemnisation 2023-06-20--12-08-38.csv
+95. Policy on the Management of Executives 2023-06-20--12-08-56.csv
+95. Politique de gestion des cadres supérieurs 2023-06-20--12-09-13.csv
+96. Directive on Performance and Talent Management for Executives 2023-06-20--12-09-32.csv
+96. Directive sur la gestion du rendement et des talents des cadres supérieurs 2023-06-20--12-09-49.csv
+97. Directive on Mandatory Training 2023-06-20--12-10-08.csv
+97. Directive sur la formation obligatoire 2023-06-20--12-10-25.csv
+98. Directive on Occupational Health Evaluations 2023-06-20--12-10-44.csv
+98. Directive sur les évaluations de la santé au travail 2023-06-20--12-11-01.csv
+99. Directive on Performance Management 2023-06-20--12-11-20.csv
+99. Directive sur la gestion du rendement 2023-06-20--12-11-37.csv
+100. Directive on Performance Pay Administration for Certain Senior Excluded and Unrepresented Groups and Levels 2023-06-20--12-11-56.csv
+100. Directive sur l'administration de la rémunération au rendement de certains groupes et niveaux supérieurs exclus et non représentés 2023-06-20--12-12-13.csv
+101. Directive on the Prevention and Resolution of Workplace Harassment and Violence 2023-06-20--12-12-32.csv
+101. harcèlement et de la violence dans le lieu de travail 2023-06-20--12-12-49.csv
+102. Strikes - Chapter 9 2023-06-20--12-13-08.csv
+102. Grèves - Chapitre 9 2023-06-20--12-13-25.csv
+103. Directive on Student Employment 2023-06-20--12-13-44.csv
+103. Directive sur l'embauche des étudiants 2023-06-20--12-14-02.csv
+104. Directive on Telework 2023-06-20--12-14-20.csv
+104. Directive sur le télétravail 2023-06-20--12-14-38.csv
+105. Directive on Term Employment 2023-06-20--12-14-57.csv
+105. Directive sur l'emploi pour une période déterminée 2023-06-20--12-15-14.csv
+106. Termination of Employment of Public Service Employees Due to Alternative Delivery Situations 2023-06-20--12-15-33.csv
+106. Licenciement de fonctionnaires dû à la diversification des modes d'exécution 2023-06-20--12-15-50.csv
+107. Directive on Terms and Conditions of Employment for Certain Excluded and Unrepresented Groups and Levels 2023-06-20--12-16-09.csv
+107. Directive sur les conditions d'emploi de certains groupes et niveaux exclus et non représentés 2023-06-20--12-16-26.csv
+108. Workplace Day Care Centres 2023-06-20--12-16-45.csv
+108. Garderies en milieu de travail 2023-06-20--12-17-03.csv
+109. Policy on the Planning and Management of Investments 2023-06-20--12-17-21.csv
+109. Politique sur la planification et la gestion des investissements 2023-06-20--12-17-39.csv
+110. Directive on Government Contracts- Including Real Property Leases- in the Nunavut Settlement Area 2023-06-20--12-17-58.csv
+110. Directive sur les marchés de l'État- incluant les baux immobiliers- dans la région du Nunavut 2023-06-20--12-18-15.csv
+111. Directive on the Management of Materiel 2023-06-20--12-18-34.csv
+111. Directive sur la gestion du matériel 2023-06-20--12-18-52.csv
+112. Directive on the Management of Procurement 2023-06-20--12-19-11.csv
+112. Directive sur la gestion de l'approvisionnement 2023-06-20--12-19-28.csv
+113. Guide to Official Languages in Federal Procurement 2023-06-20--12-19-47.csv
+113. Guide des langues officielles dans l'approvisionnement fédéral 2023-06-20--12-20-05.csv
+114. Guidelines on the Proactive Disclosure of Contracts 2023-06-20--12-20-25.csv
+114. Lignes directrices sur la divulgation proactive des marchés 2023-06-20--12-20-43.csv
+115. Directive on the Management of Projects and Programmes 2023-06-20--12-21-02.csv
+115. Directive sur la gestion de projets et programmes 2023-06-20--12-21-19.csv
+116. Directive on the Management of Real Property 2023-06-20--12-21-38.csv
+116. Directive sur la gestion des biens immobiliers 2023-06-20--12-21-56.csv
+117. Guide to portfolio management and the real property portfolio strategy 2023-06-20--12-22-15.csv
+117. Guide de gestion du portefeuille et stratégie relative au portefeuille des biens immobiliers 2023-06-20--12-22-32.csv
+118. Guidelines on the Proactive Disclosure of Contracts 2023-06-20--12-22-52.csv
+118. Lignes directrices sur la divulgation proactive des marchés 2023-06-20--12-23-09.csv
+119. Policy on Results 2023-06-20--12-23-28.csv
+119. Politique sur les résultats 2023-06-20--12-23-46.csv
+120. Directive on Results 2023-06-20--12-24-05.csv
+120. Directive sur les résultats 2023-06-20--12-24-23.csv
+121. Framework for the Management of Risk 2023-06-20--12-24-42.csv
+121. Cadre stratégique de gestion du risque 2023-06-20--12-24-59.csv
+122. Guideline on Self-Insurance 2023-06-20--12-25-18.csv
+122. Ligne directrice sur l'auto-assurance 2023-06-20--12-25-36.csv
+123. Policy on Service and Digital 2023-06-20--12-25-55.csv
+123. Politique sur les services et le numérique 2023-06-20--12-26-13.csv
+124. Directive on Automated Decision-Making 2023-06-20--12-26-32.csv
+124. Directive sur la prise de décisions automatisée 2023-06-20--12-26-50.csv
+125. Directive on the Business Number 2023-06-20--12-27-09.csv
+125. Directive sur le numéro d'entreprise 2023-06-20--12-27-27.csv
+126. Directive on Digital Talent 2023-06-20--12-27-40.csv
+126. Directive sur les talents numériques 2023-06-20--12-27-52.csv
+127. Standard on Geospatial Data 2023-06-20--12-28-05.csv
+127. Norme sur les données géospatiales 2023-06-20--12-28-23.csv
+128. Internet Protocol Version 6 IPv6 Network Equipment Procurement Guideline 2023-06-20--12-28-35.csv
+128. Ligne directrice sur l'achat d'équipement pour le réseau de la version 6 du protocole Internet (IPv6) 2023-06-20--12-28-54.csv
+129. Standard on Metadata 2023-06-20--12-29-10.csv
+129. Norme sur les métadonnées 2023-06-20--12-29-22.csv
+130. Directive on Open Government 2023-06-20--12-29-44.csv
+130. Directive sur le gouvernement ouvert 2023-06-20--12-30-04.csv
+131. Standard on Optimizing Websites and Applications for Mobile Devices 2023-06-20--12-30-32.csv
+131. Norme sur l'optimisation des sites Web et des applications pour appareils mobiles 2023-06-20--12-30-58.csv
+132. Directive on Service and Digital 2023-06-20--12-31-16.csv
+132. Directive sur les services et le numérique 2023-06-20--12-31-31.csv
+133. TBITS 12 Codes for the Representation of Currencies and Funds - Implementation Criteria 2023-06-20--12-31-51.csv
+133. NCTTI 12 Codes pour la représentation des monnaies et types de fonds - Critères d'applicabilité 2023-06-20--12-32-11.csv
+134. TBITS 25 Materiel Coding - Implementation Criteria 2023-06-20--12-32-34.csv
+134. NCTTI 25 Codification du matériel -Critères d'applicabilité 2023-06-20--12-32-54.csv
+135. TBITS 30 Business Number - Implementation Criteria 2023-06-20--12-33-18.csv
+135. NCTTI 30 Numéro d'entreprise - Critères d'applicabilité 2023-06-20--12-33-39.csv
+136. Directive on the Business Number 2023-06-20--12-34-03.csv
+136. Directive sur le numéro d'entreprise 2023-06-20--12-34-24.csv
+137. TBITS 36 All-Numeric Representation of Dates and Times -Implementation Criteria 2023-06-20--12-34-50.csv
+137. NCTTI 36 Représentation numérique de la date et de l'heure - Critères d'applicabilité 2023-06-20--12-35-09.csv
+138. Standard on Web Accessibility 2023-06-20--12-35-27.csv
+138. Norme sur l'accessibilité des sites Web 2023-06-20--12-35-49.csv
+139. Standard on Web Interoperability 2023-06-20--12-36-14.csv
+139. Norme sur l'interopérabilité du Web 2023-06-20--12-36-37.csv
+140. Standard on Web Usability 2023-06-20--12-37-02.csv
+140. Norme sur la facilité d'emploi des sites Web 2023-06-20--12-37-25.csv
+141. Policy on Transfer Payments 2023-06-20--12-37-50.csv
+141. Politique sur les paiements de transfert 2023-06-20--12-38-14.csv
+142. Guide to Departmental Collaboration with Recipients of Grants and Contributions 2023-06-20--12-38-40.csv
+142. Guide de la collaboration ministérielle avec les bénéficiaires de subventions et de contributions 2023-06-20--12-39-04.csv
+143. Guideline on Performance Measurement Strategy under the Policy on Transfer Payments 2023-06-20--12-39-30.csv
+143. Ligne directrice sur une stratégie de mesure du rendement aux termes de la Politique sur les paiements de transfert 2023-06-20--12-39-54.csv
+144. Guideline on Recipient Audits Under the Policy on Transfer Payments and the Directive on Transfer Payments 2023-06-20--12-40-21.csv
+144. Lignes directrices sur la vérification de bénéficiaires aux termes de la Politique sur les paiements de transfert 2023-06-20--12-40-45.csv
+145. Guidelines on the Reporting of Grants and Contributions Awards 2023-06-20--12-41-11.csv
+145. Lignes directrices sur la divulgation des octrois de subventions et de contributions 2023-06-20--12-41-36.csv
+146. Guideline on the Directive on Transfer Payments 2023-06-20--12-42-07.csv
+146. Ligne directrice concernant la Directive sur les paiements de transfert 2023-06-20--12-42-30.csv

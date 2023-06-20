@@ -1,0 +1,68 @@
+﻿New column 0,New column 1
+1. Référence,"1.1 Titre
+Codes pour la représentation des monnaies et types de fonds
+1.2 Indicatif
+NCTTI-12
+1.3 Catégorie
+Norme
+1.4 Entrée en vigueur
+Décembre 1991
+1.5 Autorisation
+Conseil du Trésor du Canada
+1.6 Organisme responsable
+Systèmes et technologies
+Secrétariat du Conseil du Trésor (SCT)
+1.7 Renvois
+CAN/CGSB-200.6-87/ISO-4217-1987 Codes pour la représentation des monnaies et types de fonds
+1.8 Documents connexes
+CAN/CGSB-200.4-89/ISO-3166-1988 Codes pour la représentation pays
+NCTTI-10, Échange de données électronique"
+2. Objet,"Cette norme du Conseil du Trésor sur les technologies de l'information (NCTTI-12) officialise l'adoption par le gouvernement du Canada des codes pour la représentation des monnaies et types de fonds tels qu'ils sont énoncés dans la Norme nationale du Canada (CAN/CGSB-200.6-87/ISO 4217)). Aussi, cette dernière doit maintenant être considérée comme faisant partie intégrante de ce document. La présente norme du Conseil du Trésor a pour objet de fournir un ensemble de codes pour la représentation des monnaies et types de fonds de manière à rationaliser et à uniformiser les échanges de données tant au sein de l'administration fédérale qu'à l'extérieur. Ces codes ont les particularités suivantes :
+
+indépendance vis-à-vis d'une langue quelconque
+reconnaissance internationale
+utilisation adaptée autant à un traitement manuel qu'électronique
+tenue et mise à jour par un organisme de mise à jour international"
+3. Champ d'application,Cette norme fournit un code à trois lettres et un code à trois chiffres pour représenter les monnaies et les types de fonds. Elle est destinée aux applications nécessitant des codes pour représenter les monnaies et les types de fonds. Les codes sont conçus pour s'adapter autant à un traitement manuel qu'automatisé.
+4. Conditions,"Dans certains cas, un ministère ou organisme préférera peut-être ne pas mettre en oeuvre cette norme. Il pourra s'en abstenir lorsqu'il pourra démontrer clairement que cela représente une amélioration de la performance ou une économie appréciable, que les intérêts globaux du gouvernement du Canada seront mieux servis ou qu'une clause d'une obligation ou d'un traité international (p. ex., l'OTAN) les y oblige."
+5. Spécifications,"Cette norme NCTTI précise la Norme nationale du Canada CAN/CGSB-200.6-87 Codes pour la représentation des monnaies et type de fonds pour une utilisation au sein de l'administration fédérale. Son contenu et sa disposition sont identiques à la norme internationale ISO 4217 Codes pour la représentation des monnaies et type de fonds. Après avoir subie l'examen du Comité des documents commerciaux de l'CGSB, cette norme internationale a été adoptée comme norme nationale du Canada."
+6. Mise en oeuvre,"La date d'entrée en vigueur de cette norme est  Décembre 1991.
+
+Les applications existantes pourront continuer à utiliser des codes étrangers à la présente norme NCTTI jusqu'à trois ans après l'entrée en vigueur de cette dernière."
+7. Groupe de travail fédéral chargé des normes,"Les normes EED
+
+G. Paterson (Président) SCT
+E. Buchinski BNC
+A. Kwan COM
+G. McConnell RC-DA
+D. Brashares MDN
+G. Jenkins TPC
+A. Nandi EMR
+N. Hart GRC
+B. Dodd ONGC
+J. Gazzard TC
+Y. Brisebois ASC
+J. King ASC
+J. Cope RC-DA
+K. Nakano TPC
+N. Tam BCG
+G. Vézina BCG
+G. Waters ONT
+L. Charron ONT
+J. Bériault BNC
+R. Zadra COM
+A. Carnaffan AGR
+S. Gavrel SCT"
+8. Commande d'exemplaires,"Pour obtenir les spécifications techniques, procéder à :
+
+CAN/ONGC-200.6-87
+
+Codes pour la représentation des monnaies et type de fonds
+
+Office des normes générales du Canada
+AU SOIN DE : Service des ventes de publications
+Ottawa, Canada
+K1A 1G6
+
+Téléphone : (819) 956-0425
+Télécopieur : (819) 956-4716"

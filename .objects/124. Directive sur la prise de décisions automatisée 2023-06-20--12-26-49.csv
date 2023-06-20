@@ -1,0 +1,263 @@
+﻿New column 0,New column 1
+1. Date d’entrée en vigueur,"1.1
+
+La présente directive entre en vigueur le 1er avril 2019 et doit être respectée au plus tard le 1er avril 2020.
+
+1.2
+
+La présente directive s’applique à tous les systèmes décisionnels automatisés développés ou acquis après le 1er avril 2020. Cependant,
+
+1.2.1
+
+les systèmes existants développés ou acquis avant le 25 avril 2023 auront jusqu’au 25 avril 2024 pour effectuer une transition complète vers les exigences des sous-sections 6.2.3, 6.3.1, 6.3.4, 6.3.5 et 6.3.6 de la présente directive;
+
+1.2.2
+
+les nouveaux systèmes développés ou acquis après le 25 avril 2023 auront jusqu’au 25 octobre 2023 pour satisfaire aux exigences de la présente directive.
+
+1.3
+
+La présente directive sera révisée tous les deux ans et selon ce que déterminera la dirigeante principale de l’information du Canada."
+2. Autorisations et pouvoirs,"2.1
+
+La présente directive est émise conformément aux mêmes autorisations et pouvoirs indiqués à la section 2 de la Politique sur les services et le numérique."
+3. Définitions,"3.1
+
+Les définitions servant à l’interprétation de la présente directive sont présentées à l’annexe A."
+4. Objectifs et résultats attendus,"4.1
+
+La présente directive a pour objet de veiller à ce que les systèmes décisionnels automatisés soient déployés d’une manière qui permet de réduire les risques pour les clients, les institutions fédérales et la société canadienne, et qui donne lieu à une prise de décisions plus efficace, exacte et conforme, qui peut être interprétée en vertu du droit canadien.
+
+4.2
+
+Les résultats escomptés de la présente directive sont les suivants :
+
+4.2.1
+
+Les décisions prises par les institutions fédérales sont appuyées par des données, et sont prises de façon responsable et conformes à l’équité procédurale et aux exigences d’application régulière de la loi.
+
+4.2.2
+
+Les incidences des algorithmes sur les décisions administratives sont évaluées et les résultats négatifs sont atténués, au nécessaire.
+
+4.2.3
+
+Les données et les renseignements sur l’utilisation des systèmes décisionnels automatisés dans les institutions fédérales sont mis à la disposition du public, si nécessaire."
+5. Portée,"5.1
+
+La présente directive s’applique à tout système, outil ou modèle statistique utilisé pour prendre une décision administrative ou une évaluation connexe au sujet d’un client.
+
+5.2
+
+La présente directive s’applique uniquement aux systèmes décisionnels automatisés en production et exclut les systèmes fonctionnant dans des environnements d’essais."
+6. Exigences,"Le sous-ministre adjoint chargé du programme qui utilise le système décisionnel automatisé (ou toute autre personne nommée par l’administrateur général) est chargé de ce qui suit :
+
+6.1 Évaluation de l’incidence algorithmique
+6.1.1
+
+Effectuer et publier les résultats finaux d’une évaluation de l’incidence algorithmique avant la production de tout système décisionnel automatisé.
+
+6.1.2
+
+Appliquer les exigences pertinentes décrites à l’annexe C, telles qu’elles ont été déterminées par l’évaluation de l’incidence algorithmique.
+
+6.1.3
+
+Revoir et mettre à jour l’évaluation de l’incidence algorithmique à intervalles réguliers, notamment en cas de changement à la fonctionnalité ou la portée du système décisionnel automatisé.
+
+6.1.4
+
+Diffuser les résultats finaux de l’évaluation de l’incidence algorithmique dans un format accessible par l’entremise des sites Web du gouvernement du Canada et de tout autre service désigné par le Secrétariat du Conseil du Trésor du Canada conformément à la Directive sur le gouvernement ouvert.
+
+6.2 Transparence
+Fournir un avis avant les décisions
+6.2.1
+
+Fournir, par l’entremise de tous les modes de prestation de services utilisés, des avis sur le fait que la décision rendue sera formulée totalement ou en partie par un système décisionnel automatisé, comme prescrit à l’annexe C.
+
+6.2.2
+
+Fournir des avis en langage simple et affichés de façon évidente, conformément au Guide de rédaction du contenu du site canada.ca.
+
+Fournir des explications après les décisions
+6.2.3
+
+Fournir une explication significative aux personnes concernées sur la façon dont la décision a été prise et la raison pour laquelle elle a été prise, comme prescrit à l’annexe C.
+
+Accès aux composants
+6.2.4
+
+Déterminer la licence appropriée pour les composants logiciels, y compris la prise en compte des logiciels libres, conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada.
+
+6.2.5
+
+Si l’on utilise une licence propriétaire, veiller à ce que :
+
+6.2.5.1
+
+toutes les versions publiées des composants logiciels propriétaires utilisés pour les systèmes décisionels automatisés sont livrées et protégées par le ministère.
+
+6.2.5.2
+
+le gouvernement du Canada détienne le droit d’accéder aux systèmes décisionnels automatisés et d’effectuer des essais sur celui-ci, y compris toutes les versions publiées des composants exclusifs, si de telles actions sont nécessaires pour réaliser un audit, une enquête, une inspection, un examen, une mesure d’exécution ou une procédure judiciaire, sous réserve de garanties contre une divulgation non autorisée.
+
+6.2.5.3
+
+dans le cadre de son accès au système, le gouvernement du Canada se réserve le droit d’autoriser des tiers à examiner et à vérifier les composants au nécessaire.
+
+Publication du code source
+6.2.6
+
+Rendre public tout code source créé sur mesure détenu par le gouvernement du Canada conformément aux mesures précisées dans le Cadre de l’architecture intégrée du gouvernement du Canada, sauf dans les cas où :
+
+6.2.6.1
+
+le code source traite des données classifiées Secret, Très secret ou Protégé C; ou
+
+6.2.6.2
+
+la divulgation serait autrement exemptée ou exclue en vertu d’une clause de la Loi sur l’accès à l’information, si la Loi sur l’accès à l’information venait à s’appliquer.
+
+6.2.7
+
+Déterminer les restrictions d’accès appropriées qui s’appliquent au code source rendu public.
+
+Documenter les décisions
+6.2.8
+
+Documenter les décisions des systèmes décisionnels automatisés conformément à la Directive sur les services et le numérique, et à l’appui des exigences en matière de surveillance (6.3.2), de gouvernance des données (6.3.4) et d’établissement de rapports (6.5.1).
+
+6.3 Assurance de la qualité
+Évaluer et surveiller les résultats
+6.3.1
+
+Avant d’amorcer la production, élaborer les processus de sorte que les données et l’information utilisés dans le système décisionel automatisé, ainsi que le modèle sous-jacent du système, soient testés afin de détecter les biais imprévus et d’autres facteurs qui pourraient influencer injustement les résultats.
+
+6.3.2
+
+Élaborer des processus de surveillance des résultats du système décisionnel automatisé afin d’éviter les résultats imprévus et de vérifier régulièrement la conformité aux dispositions législatives institutionnelles et relatives aux programmes, ainsi qu’à la présente directive, sur une base régulière.
+
+Qualité des données
+6.3.3
+
+Confirmer que toutes les données recueillies pour le système décisionnel automatisé et utilisées par celui-ci sont pertinentes, exactes, à jour, et conformes à la Politique sur les services et le numérique et à la Loi sur la protection des renseignements personnels.
+
+Gouvernance des données
+6.3.4
+
+Mettre en place des mesures garantissant que les données utilisées et générées par le système décisionnel automatisé sont traçables, protégées et accessibles de manière appropriée, et qu’elles sont collectées, utilisées, conservées et éliminées légalement conformément à la Directive sur les services et le numérique, la Directive sur les pratiques relatives à la protection de la vie privée et la Directive sur la gestion de la sécurité.
+
+Examen par les pairs
+6.3.5
+
+Consulter les experts qualifiés appropriés pour demander une évaluation du système décisionnel automatisé et publier l’examen complet ou un résumé en langage clair des conclusions avant la production du système, comme prescrit à l’annexe C.
+
+Analyse comparative entre les sexes plus
+6.3.6
+
+Réaliser une analyse comparative entre les sexes plus lors de l’élaboration ou de la modification du système décisionnel automatisé, comme prescrit à l’annexe C.
+
+Formation des employés
+6.3.7
+
+Fournir aux employés la formation appropriée concernant la conception, la fonction et la mise en œuvre du système décisionnel automatisé afin d’être en mesure d’examiner, d’expliquer et de surveiller le fonctionnement du système, comme prescrit à l’annexe C.
+
+Gestion de la TI et de la continuité des activités
+6.3.8
+
+Mettre en place des stratégies, des plans, et/ou des mesures pour soutenir la gestion de la continuité de la TI et des activités, comme prescrit à l’annexe C et conformément à la Directive sur la gestion de la sécurité.
+
+Sécurité
+6.3.9
+
+Mener des évaluations des risques durant le développement du système décisionnel automatisé et établir les mesures de protection appropriées, conformément à la Politique sur la sécurité du gouvernement.
+
+Services juridiques
+6.3.10
+
+Consulter l’unité des services juridiques de l’institution, dès la phase de conception d’un projet d’automatisation, afin de veiller à ce que l’utilisation du système décisionnel automatisé soit conforme aux exigences juridiques applicables.
+
+Assurer une intervention humaine
+6.3.11
+
+Veiller à ce que le système décisionnel automatisé permette une intervention par un humain au nécessaire, comme prescrit à l’annexe C.
+
+6.3.12
+
+Obtenir le niveau d’approbation approprié avant de produire un système décisionnel automatisé, comme prescrit à l’annexe C.
+
+6.4 Recours
+6.4.1
+
+Offrir aux clients toute possibilité à leur disposition en matière de recours applicable afin de contester la prise de décision administrative automatisée.
+
+6.5 Établissement de rapports
+6.5.1
+
+Publier les renseignements sur l’efficacité et l’efficience des systèmes décisionnels automatisés en matière de réalisation des objectifs du programme sur un site Web ou service désigné par le Secrétariat du Conseil du Trésor du Canada."
+7. Conséquences,"7.1
+
+Les conséquences d’une non-conformité à la présente directive peuvent comprendre toute mesure prescrite en vertu de la Loi sur la gestion des finances publiques que le Conseil du Trésor pourrait déterminer comme étant appropriée et acceptable, selon les circonstances.
+
+7.2
+
+Pour obtenir un aperçu des conséquences de la non-conformité, veuillez consulter l’annexe C : Conséquences pour les institutions et l’annexe D : Conséquences pour les personnes du Cadre stratégique sur la gestion de la conformité."
+8. Rôles et responsabilités du Secrétariat du Conseil du Trésor du Canada,"Sous réserve des délégations nécessaires, la dirigeante principale de l’information du Canada est responsable de ce qui suit :
+
+8.1
+
+fournir une orientation pangouvernementale sur l’utilisation des systèmes décisionnels automatisés.
+
+8.2
+
+élaborer et tenir à jour l’évaluation de l’incidence algorithmique et tout document connexe.
+
+8.3
+
+mener des activités de communication et de mobilisation dans l’ensemble du gouvernement et auprès des partenaires dans d’autres administrations et secteurs afin d’élaborer des stratégies, des approches et des processus communs et d’appuyer l’utilisation responsable des systèmes décisionnels automatisés."
+9. Application,"9.1
+
+La présente directive s’applique à toutes les institutions assujetties à la Politique sur les services et le numérique, sauf en cas d’exclusion par des lois, des règlements ou des décrets précis.
+
+9.1.1
+
+Les agents du Parlement sont soustraits de l’application de la présente directive, y compris :
+
+le Bureau du vérificateur général du Canada;
+le Bureau du directeur général des élections;
+le Commissariat au lobbying du Canada;
+le Commissariat aux langues officielles;
+le Commissariat à l’information du Canada;
+le Commissariat à la protection de la vie privée du Canada;
+le Commissariat à l’intégrité du secteur public du Canada.
+9.2
+
+Les organismes, les sociétés d’État ou les agents du Parlement peuvent conclure des ententes précises avec le SCT en vue d’adopter des exigences de la présente directive et de les appliquer à leur organisation, au besoin."
+10. Références,"10.1
+
+Lois
+
+Loi sur la gestion des finances publiques
+Loi sur l’accès à l’information
+Loi canadienne sur les droits de la personne
+Loi sur la protection des renseignements personnels
+Loi sur la protection de l’information
+Loi canadienne sur l’accessibilité
+10.2
+
+Instruments de politique connexes
+
+Politique sur l’accès à l’information
+Politique sur les services et le numérique
+Politique sur la sécurité du gouvernement
+Politique sur la protection de la vie privée
+Politique sur la gestion des personnes
+Directive sur le gouvernement ouvert
+Norme sur le filtrage de sécurité"
+11. Demandes d’information,"11.1
+
+Afin d’interpréter tout aspect de la présente directive, veuillez présenter une demande de renseignements auprès du Secrétariat du Conseil du Trésor du Canada.
+
+11.2
+
+Les personnes qui proviennent d’institutions fédérales peuvent communiquer avec ai-ia@tbs-sct.gc.ca pour toute question concernant la présente directive, y compris l’évaluation de l’incidence algorithmique."

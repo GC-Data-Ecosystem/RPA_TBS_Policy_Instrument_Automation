@@ -1,0 +1,44 @@
+﻿New column 0,New column 1
+Introduction,"As per the Directive on Disposal of Surplus Materiel,whenever practical, departments must make surplus materiel assets available, whether gratuitously, at book value, or at market value, to other federal departments and agencies before disposing of them outside the federal domain.
+
+Treasury Board Accounting Standard 3.1 - Capital Assetsrequires that transfers of capital assets between departments be recorded at the net book value of the asset regardless of whether the capital asset was transferred to another departmentgratuitously, at book value, or at the market value. As such, the receiving department must record the capital asset at its original historical cost and also record the accumulated amortization at the date of transfer. In addition, the transferred capital asset's historical cost and accumulated amortization amounts must be removed from the books of the transferring department. As a result, the accounting treatment should not produce a gain or loss, and there should be no impact at the government-wide level.  Given the fact that interdepartmental transfers are related party transactions, the equity accounts of the departments should be credited or debited with the net book value of the capital asset.
+
+Furthermore, the transferring departments are not allowed to re-spend the agreed upon amounts from interdepartmental transfers of surplus assets because the Surplus Crown Assets Act only enables departments to re-spend the sale proceeds when the sales are entered into with third parties. Please consult your departmental program analyst at the Treasury Board Secretariat to pursue access to the agreed upon amounts. The accounting treatment of the capital assets transferred is separate from the transfer of funds between departments.
+
+To avoid any effect on government reporting, departments should coordinate their accounting entries to ensure that they occur in the same period."
+References,"Surplus Crown Assets Act
+TBAS 3.1 - Capital Assets
+Directive on Disposal of Surplus Materiel
+CICA 3840 – Related party transactions"
+Accounting entries,"1. Transfer of a capital asset from one department to another
+Scenario A - One department transfers a motor vehicle to another department.
+
+The net book value of the motor vehicle transferred to the other department is $35,000 (an original cost of $50,000 less accumulated depreciation $15,000).
+
+(a) The transferring department starts the process by removing the asset from its books.
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Accumulated Amortization on Motor Vehicles (Non-Military)	15,000	16233	F311	7061
+Debit: Capital Assets Transfer Out/In Offset Account	35,000	37DDD	F999	7099
+Credit: Motor Vehicles (Non-Military)	50,000	16133	F319	7099
+(b) The receiving department sets up the net book value of the asset on its books.
+Financial Reporting Account (FRA)	Amount $	FRA code	Authority code	Object code
+Debit: Motor Vehicles (Non-Military)	50,000	16133	F319	7099
+Credit: Accumulated Amortization	15,000	16233	F311	7061
+Credit: Capital Assets Transfer Out/In Offset Account	35,000	37DDD	F999	7099
+FRA coding rationale:
+
+The motor vehicle capital asset under FRA 16133 and its accumulated amortization under FRA 16233 will be removed from the transferring department's books and recorded in the receiving department's books.  Since the transfer is done at the net book value between departments, there should not be any gain or loss on the transaction. Therefore, the equity account FRA 37DDD will be used for net book value.
+
+Authority coding rationale:  
+
+Since the spending authorities were affected when the asset was purchased by the department, the appropriations are not affected as a result of interdepartmental transfers. To assist with departmental reconciliations, F codes are used for these non-appropriated amounts. F319 is used for the adjustment of the capital asset, and F311 is used for accumulated amortization.  F999 is used to record the change in equity. 
+
+F311:  Increases (decreases) to accumulated amortization of capital assets
+F319:  Reductions from (increases to) balances of other assets
+F999:  Non-appropriated amounts
+Object coding rationale:  
+
+As these are non-cash (non-expenditure) items, they have no effect on economic objects. 7061 is used for accumulated amortization.  7099 will be used to reflect the increase or decrease in the assets.
+
+7061:  Accumulated amortization on capital assets
+7099:  Net increase or decrease in other transactions"

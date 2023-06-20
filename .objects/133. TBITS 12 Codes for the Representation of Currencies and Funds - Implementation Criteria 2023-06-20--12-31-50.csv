@@ -1,0 +1,66 @@
+﻿New column 0,New column 1
+1. Reference,"1.1 Name
+Codes for the representation of currencies and funds
+1.2 Identifier
+TBITS-12
+1.3 Category
+Standard
+1.4 Effective date
+December 1991
+1.5 Approving authority
+Treasury Board of Canada
+1.6 Maintenance agency
+Systems and Technology
+Treasury Board Secretariat (TBS)
+1.7 Cross index
+CAN/CGSB-200.6-87/ISO 4217-1987, Codes for the Representation of Currencies and Funds
+1.8 Related documents
+CAN/CGSB-200.4-89/ISO 3166-1988 Codes for the representation of countries
+TBITS-10, Electronic data interchange"
+2. Purpose,"This Treasury Board Information Technology Standard (TBITS-12) adopts the Codes for the representation of currencies and funds as specified by the National Standard of Canada CAN/CGSB-200.6-87 for use by the Government of Canada. As such CAN/CGSB-200.6-87/ISO 4217 is to be considered an integral part of this document. The objective of this standard is to provide a set of codes for the representation of currencies and funds that will promote consistency and uniformity in the exchange of data both inside and outside the federal government. These codes are:
+
+language independent
+internationally recognized
+equally suitable for manual or electronic use
+maintained and updated by an international maintenance agency"
+3. Application,"This standard provides a three-letter and a three-digit code for representing currencies and funds. It is intended for use in applications such as trade, commerce or banking where codes are required to identify currencies and funds. The codes are designed to be equally suitable for manual users and for those employing automated systems."
+4. Qualification,"In certain circumstances departments and agencies may wish to make exceptions to the use of this standard. This may be done when it can be clearly demonstrated that there are appreciable performance or cost advantages to be gained, when the overall interests of the Government of Canada are best served or when they are party to an international treaty or obligation (e.g. NATO)."
+5. Specifications,This TBITS specifies CAN/CGSB-200.6-87 Codes for the Representation of Currencies and Funds for use by the Government of Canada. It is identical in content and in layout with International Standard ISO 4217 Codes for the Representation of Currencies and Funds. The international standard was reviewed by the CGSB Committee on Trade Documents and was subsequently adopted as a National Standard of Canada.
+6. Implementation,"The effective date of this standard is December 1991.
+
+Existing applications employing codes other than stated in this standard may continue for up to three years following the effective date of this TBITS."
+7. Government standards working group,"EDI standards
+
+G. Patterson (Chairperson) TBS
+E. Buchinski NLC
+A. Kwan COM
+G. McConnell RC-CE
+D. Brashares DND
+G. Jenkins PWC
+A. Nandi EMR
+N. Hart RCMP
+B. Dodd CGSB
+J. Gazzard TC
+Y. Brisebois SSC
+J. King SSC
+J. Cope RC-CE
+K. Nakano PWC
+N. Tam OCG
+G. Vézina OCG
+G. Watters NTA
+L. Charron NTA
+J. Bériault NLC
+R. Zadra COM
+A. Carnaffan AGR
+S. Gavrel TBS"
+8. Where to obtain copies,"Copies of technical specifications may be obtained as follows:
+
+CAN/CGSB-200.6-87
+Codes for the representation of currencies and funds
+Canadian General Standards Board
+ATTENTION: Publications Sales Unit
+Ottawa, Canada
+K1A 1G6
+
+Telephone: (819) 956-0425
+Facsimile: (819) 956-4716"

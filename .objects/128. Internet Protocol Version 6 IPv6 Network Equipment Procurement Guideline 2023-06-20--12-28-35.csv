@@ -1,0 +1,32 @@
+﻿New column 0,New column 1
+1 Effective date,"This guideline takes effect on November 30, 2012."
+2 Purpose,"This guideline sets out recommendations to assist departments when procuring network equipment, in support of the Government of Canada Internet Protocol Version 6 (IPv6) Adoption Strategy."
+3 Background,"The Internet's remaining unused Internet Protocol Version 4 (IPv4) address blocks were allocated in early 2011 to the five Regional Internet Registries which allocate Internet addresses to network operators in their region. The Asia-Pacific region has experienced strong Internet growth and has been a lead adopter of IPv6, now using IPv6 for all new growth. Due to the address space pressures, many governments and enterprises around the world are actively adopting IPv6, which provides a much larger address space.
+
+Although IPv4 and IPv6 are not backwards compatible, there are mechanisms to link the two, such as translation and tunnelling, which can be used to assist in deployment during the transition from IPv4 to IPv6. Both IPv4 and IPv6 networks will coexist in the global Internet for some time as systems become inter-connected and move to a dual-stack architecture."
+4 Context,"The advent of IPv6 will have an impact on the Government of Canada, whose business is geographically dispersed throughout the world. The Government of Canada conducts business with clients, suppliers and global partners who are (or soon will be) on IPv6 networks, and as a consequence, the Government of Canada must adopt IPv6.
+
+The Government of Canada IPv6 Adoption Strategy is designed to ensure the continuity of Government of Canada services. Adoption of IPv6 by the Government of Canada will provide seamless, uninterrupted access to Government of Canada services by Canadians and users around the world. It also ensures continued access to global Internet resources by public service employees in carrying out their job functions."
+5 Network Equipment Procurement,"Network equipment (e.g., routers, proxy servers, firewalls) is procured for Government of Canada networks through a variety of means, including contracts and standing offers such as Network Equipment Support Services (NESS). IPv6 functions specified in this guideline are expected to be incorporated in these procurement vehicles where IP-based network equipment is specified."
+6 Audience,"This guideline supports the Directive on Management of Information Technology by providing functional specialists, within Government of Canada departments and at Shared Services Canada, with network equipment procurement guidance to assist in the adoption of IPv6.
+
+The target audience for this guideline includes Government of Canada departmental clients, technical authorities, network architects, network procurement technical analysts and contracting authorities."
+7 Definitions,"There are numerous generic terms such as ""IPv6-enabled"", ""IPv6-ready"", ""IPv6-compatible"", and ""IPv6-capable"", that are used to identify IPv6 functionality in network equipment. There is no standard interpretation of these terms, which can lead to confusion among buyers.
+
+In this guideline, the term ""IPv6-capable"" means network equipment that meets the set of functions identified in the Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement Guideline."
+8 Usage recommendations,"This document provides guidance for those procuring network equipment, by identifying functions that are essential to the proper functioning of equipment in a Government of Canada IPv6 environment (see the Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement Guideline). A list of base functions that applies to all network equipment is followed by lists of functions that apply to the equipment when used in specific situations. Following these is a section that addresses future needs, also organized according to the network scenario in which the equipment will be used.
+
+When preparing network equipment requirements, buyers should include the IPv6 functions referred to above, as specified in the Technical Requirements for Internet Protocol Version 6 Network Equipment Procurement Guideline.
+
+It is possible that not all functions listed are currently supported by all vendors and that some of the quoted Internet standards may be updated or become obsolete. As a result, a ""best fit"" may be required when equipment must be replaced due to end-of-life or other considerations, and cannot wait for the availability of the full IPv6 functionality recommended in this guideline.
+
+Although beyond the scope of this guideline, buyers may also wish to specify performance requirements (e.g., throughput, latency, packet loss, jitter), for both IPv4 and IPv6 for the equipment being procured, because their performance characteristics may differ. This could be particularly noticeable in cases where IPv6 functionality requires additional hardware or software modules."
+9 References,"9.1 Related policy instruments and publications
+Policy on Management of Information Technology
+Directive on Management of Information Technology
+Policy on Government Security
+Operational Security Standard: Management of Information Technology Security (MITS)
+Policy on the Planning and Management of Investment
+9.2 Relevant legislation
+Financial Administration Act"
+10 Enquiries,"For questions on this policy instrument, please contact Treasury Board of Canada Secretariat (TBS) Public Enquiries."

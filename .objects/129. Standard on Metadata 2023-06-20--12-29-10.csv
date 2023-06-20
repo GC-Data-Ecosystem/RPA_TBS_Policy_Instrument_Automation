@@ -1,0 +1,175 @@
+﻿New column 0,New column 1
+1. Effective Date,"1.1 This standard takes effect on July 1, 2010.
+
+1.2 It replaces the following Treasury Board policy instruments: Government On-Line Metadata Standard (TBITS 39.1) and Controlled Vocabulary Standard (TBITS 39.2)."
+2. Application,"2.1 This standard applies to departments as defined in section 2 of the Financial Administration Act, unless excluded by specific acts, regulations or Orders in Council.
+
+2.2 In this standard, any reference to all or part of national or international standards or specifications shall be construed as a reference to the most recent version of those standards or specifications, as well as any officially issued correction. Any change to referenced national or international standards or specifications that affect this standard shall be implemented no later than one year after the effective date of the change.
+
+2.3 Those portions of sections 6.5.1, 6.5.2 and 7.1 relating to the role of the Treasury Board Secretariat in monitoring compliance and directing consequences for non-compliance do not apply with respect to the Office of the Auditor General, the Office of the Privacy Commissioner, the Office of the Information Commissioner, the Office of the Chief Electoral Officer, the Office of the Commissioner of Lobbying, the Office of the Commissioner of Official Languages and the Office of the Public Sector Integrity Commissioner. The deputy heads of these organizations are solely responsible for monitoring and ensuring compliance with the standard within their organizations, as well as for responding to cases of non-compliance in accordance with any Treasury Board instruments providing principles and guidance on the management of compliance."
+3. Context,"3.1 This standard supports the Policy on Information Management and Policy on Management of Information Technology by outlining information management (IM) and information technology (IT) requirements for the departmental IM Senior Official, the Chief Information Officer (CIO) or equivalent, information management functional specialists, and employees in the area of metadata.
+
+3.2 Metadata defines and describes the structure and meaning of information resources, and the context and systems in which they exist. It is used to support efficient and effective management of these information resources over time.
+
+3.3  The consistent creation, capture and use of metadata contribute to the objectives of the Policy on Information Management and the Directive on Recordkeeping to manage information as a strategic asset by supporting the capture, description, retrieval, use, re-use, accessibility, sharing, authenticity, reliability, integrity, and maintenance of information resources to facilitate decision-making, accountability, and the efficient delivery of Government programs and services.
+
+3.4  Standardized metadata in the design, documentation and implementation of systems and components supports interoperability within and across systems, and re-use of information resources within departments and across the Government of Canada (GC) to the extent that government laws and policies permit it.
+
+3.5 Along with standardized metadata, consistent use of value domains supports the exchange of information resources within and across systems. Value domains include, but are not limited to, controlled vocabularies, taxonomies, ontologies, thesauri, reference data, authority lists, naming conventions, and value string instructions.
+
+3.6 The requirements of this standard apply to the following domains:
+
+3.6.1 Recordkeeping: Recordkeeping metadata supports recordkeeping as a management function through which information resources of business value are created, acquired, captured, and managed in departmental repositories over time, and used as a strategic asset to support effective decision making and facilitate ongoing operations and the delivery of programs and services.
+
+3.6.2 Web resource discovery: Web resource discovery metadata supports the navigation, searching, display and sharing of Web information resources.
+
+3.6.3 Web content management systems: Web content management system (WCMS) metadata supports business and technical processes for authoring, managing and publishing Web content in Web content management systems.
+
+3.7 A related standard, the Standard on Geospatial Data, establishes requirements for geospatial metadata.
+
+3.8 This standard is issued pursuant to section 7 of the Financial Administration Act.
+
+3.9 This standard is to be read in conjunction with the Policy on Information Management, the Policy on Management of Information Technology and the Directive on Recordkeeping."
+4 Definitions,4.1 Definitions to be used in the interpretation of this standard are attached in Appendix A.
+5. Standard Statement,"5.1 Objective
+
+The objective of this standard is to increase the use of standardized metadata and value domains in support of the management of information resources.
+
+5.2 Expected results
+
+The expected results of this standard are:
+
+5.2.1 Improved accessibility, sharing, authenticity, reliability, integrity through the consistent capture, description, retrieval, use, re-use, and maintenanceof information resources, regardless of systems in which they exist, and across departments; and
+
+5.2.2 The ability of programs and services to share information efficiently and effectively between systems and across departments."
+6. Requirements,"6.1 The departmental Information Management Senior Official designated by the deputy head is responsible for:
+
+6.1.1 Ensuring that the responsibility for the development and management of departmental metadata and value domains is assigned;
+
+6.1.2 Ensuring that departmental metadata is used and maintained in a registry of standardized metadata and value domains;
+
+6.1.3 Ensuring that GC standardized metadata and value domains are incorporated in the design and implementation of departmental systems managing information resources; and
+
+6.1.4 Ensuring that metadata and value domain requirements are addressed during the planning phase of information systems that support departmental programs and services.
+
+6.2 The departmental CIO or equivalent is responsible for:
+
+6.2.1 Ensuring that software and systems acquired by departments in order to create, edit, generate, manage, register, parse, harvest, extract, index, search, browse and display metadata adhere to the requirements of this standard or are modifiable to adhere to these requirements.
+
+6.3 Information management functional specialists are responsible for:
+
+6.3.1 Providing support directly to employees in applying recordkeeping, Web resource discovery and Web content management system metadata, as outlined in Appendices B, C and D;
+
+6.3.2 Documenting and maintaining metadata which describes business requirements, system design requirements, and data element requirements to enable the interpretation and exchange of information resources within and across systems;
+
+6.3.3 Incorporating GC standardized metadata and value domains in the phases of planning, design, and implementation of systems that support departmental programs and services; and
+
+6.3.4 Participating in the creation of GC and departmental metadata and value domains.
+
+6.4 Employees are responsible for:
+
+6.4.1 Applying recordkeeping metadata to information resources of business value according to the conditions outlined in Appendix B;
+
+6.4.2 Applying Web resource discovery metadata to information resources available to the public on the World Wide Web according to the conditions outlined in Appendix C; and
+
+6.4.3 Applying Web content management system metadata to information resources within Web content management systems according to the conditions outlined in Appendix D.
+
+6.5 Monitoring and Reporting Requirements
+
+6.5.1 IM Senior Officials and CIO or equivalent are responsible for supporting their deputy head by overseeing the implementation and monitoring of this standard in their departments, bringing to the deputy head's attention any significant difficulties, gaps in performance, or compliance issues, developing proposals to address them, and reporting significant performance or compliance issues to the Chief Information Officer Branch of Treasury Board of Canada Secretariat.
+
+6.5.2 The Treasury Board Secretariat will monitor compliance with all aspects of this standard and the achievement of expected results in a variety of ways, including but not limited to assessments under the Management Accountability Framework, examinations of Treasury Board submissions, Reports on Plans and Priorities, Departmental Performance Reports, departmental IM/IT strategies and plans, audits results, evaluations, and studies.
+
+6.5.3 The Treasury Board Secretariat will review this standard and its effectiveness at the five-year mark from the effective date of the standard (or earlier if warranted)."
+7. Consequences,"7.1 Consequences of non-compliance can include informal follow-ups and requests from the Treasury Board of Canada Secretariat, external audits, or formal direction on corrective measures.
+
+7.2 Consequences of non-compliance with this standard can include any measure allowed by the Financial Administration Act that the Treasury Board would determine as appropriate and acceptable in the circumstances."
+8. Roles and responsibilities of government organizations,"Note: This section identifies other significant departments in this policy area. In and of itself, it does not confer an authority.
+
+8.1 Treasury Board Secretariat:
+
+8.1.1 Provides interpretive advice and guidance on this standard; and
+
+8.1.2 Designates the requirements for metadata registries and repositories.
+
+8.2 Library and Archives Canada:
+
+8.2.1 Maintains the Government of Canada Core Subject Thesaurus and ensures that it remains publically available; and
+
+8.1.3 Ensures the registration of controlled vocabularies in use in the Government of Canada or that have been approved by interdepartmental or regulatory agencies designated by the Treasury Board Secretariat, and that meet the requirements outlined in Appendix B.
+
+8.3 Public Works and Government Services Canada:
+
+8.3.1 Is responsible for providing common government-wide solutions to meet IM requirements of departments and agencies for delivering services such as document management, Web content management, portal and collaboration, and enterprise search management.
+
+8.4 Service Canada:
+
+8.4.1 Configures and optimizes the Canada Site search engine to make use of Web resource discovery metadata as outlined in Appendix C."
+9. References,"9.1 Relevant Legislation
+Access to Information Act
+Canada Evidence Act
+Copyright Act
+Criminal Records Act
+Emergency Preparedness Act
+Library and Archives of Canada Act
+Legal Deposit of Publications regulations (SOR/2006-337)
+Official Languages Act
+Personal Information Protection and Electronic Documents Act (Part 2)
+Privacy Act
+Security of Information Act
+Statistics Act
+9.2. Related Treasury Board Policy Instruments and Publications
+Common Look and Feel for the Internet 2.0
+Common Services Policy
+Directive on Information Management Roles and Responsibilities
+Directive on Recordkeeping
+Directive on the Use of Official Languages on Web Sites
+Framework for the Management of Compliance
+Guideline for Employees of the Government of Canada: Information Management (IM) Basics
+Policy Framework for Information and Technology
+Policy on Access to Information
+Policy on Electronic Authorization and Authentication
+Policy on Evaluation
+Policy on Government Security
+Policy on Information Management
+Policy on Internal Audit
+Policy on Language of Work
+Policy on Management of Information Technology
+Policy on Privacy Protection
+Policy on the Duty to Accommodate Persons with Disabilities in the Federal Public Service
+Policy on the Use of Official Languages for Communications with and Services to the Public
+Standard on Geospatial Data
+Standard for Electronic Documents and Records Management Solutions (EDRMS)
+9.3 Related GC Metadata Tools and Guidelines
+
+9.3.1 Recordkeeping Metadata
+
+GC Recordkeeping Metadata Element Set (GC RKMES)
+GC Recordkeeping Metadata Application Profile (GC RKMAP)
+GC Recordkeeping Metadata Implementation Guideline (GC RKMIG)
+
+9.3.2 Web Resource Discovery Metadata
+
+GC Dublin Core Application Profile (GC DCAP)
+GC Metadata Implementation Guideline (GC MIG) for Web Resource Discovery, 6th edition
+Government of Canada Core Subject Thesaurus
+
+9.3.3 Web Content Management System Metadata
+
+GC Web Content Management System Metadata Element Set (GC WCMS-MES)
+GC Web Content Management System Metadata Application Profile (GC WCMS-MAP)
+GC Web Content Management System Metadata Implementation Guideline (GC MIG) for (GC WCMS-MIG)
+9.4 Required External Standards and Specifications
+Codes for the Representation of Names of Languages Part 2: Alpha-3 Code (ISO 639-2)
+Data elements and interchange formats -- Information interchange -- Representation of dates and times (ISO 8601)
+Documentation – Guidelines for the establishment and development of monolingual thesauri (ISO 2788)
+Documentation – Guidelines for the establishment and development of multilingual thesauri (ISO 5964)
+Information and documentation – Records management processes – Metadata for records – Part 1: Principles (ISO 23081-1)
+Information and documentation – Records management processes – Metadata for records – Part 2: Conceptual and implementation issue (ISO 23081-2)
+Information and Documentation – The Dublin Core metadata element set (ISO 15836)
+World Wide Web Consortium Date and Time Formats (W3CDTF)"
+10. Enquiries,"Please direct enquiries about this standard to your department's headquarters. For interpretation of this standard, departmental headquarters should contact:
+
+Office of the Chief Information Officer
+Treasury Board of Canada Secretariat
+E-mail: dppn@tbs-sct.gc.ca"

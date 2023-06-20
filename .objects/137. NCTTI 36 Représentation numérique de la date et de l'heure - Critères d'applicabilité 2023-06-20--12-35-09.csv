@@ -1,0 +1,98 @@
+﻿New column 0,New column 1
+1. Référence,"1.1 Titre
+Représentation numérique de la date et de l'heure
+1.2 Indicatif
+NCTTI-36
+1.3 Catégorie
+Norme
+1.4 Entrée en vigueur
+Prend effet dès la publication
+1.5 Autorisation
+Mise à jour conformément à la partie 2 des lignes directrices sur les technologies de l'information
+Approbation du CCGI (le 18 décembre, 1997)
+1.6 Organisme responsable
+Gestion des investissements dans les infrastructures
+Secrétariat du Conseil du Trésor
+1.7 Renvois
+FIPS PUB 4-1, Representation for calendar date and ordinal date for information interchange
+ISO-8601 : 1988, Éléments de données et formats d'échange - Échange d'information - Représentation de la date et de l'heure
+1.8 Documents connexes
+CAN/CSA-Z234.4-89, Représentation numérique de la date et de l'heure
+ANSI X3.30-1985 (R1991) - for information systems - Representation for calendar date and ordinal date for information interchange
+Le présent bulletin remplace le bulletin GES/NGI-2/A-1977-04-01."
+2. Objet,"L'objectif de cette norme est de définir la structure numérique de présentation des dates civiles aux fins d'échange de données sur des supports exploitables par une machine entre les divers ministères et organismes du gouvernement.
+
+L'expression 'date grégorienne' d'usage courant dans les milieux informatique, a été remplacée, aux fins de rédaction du présent document, par l'expression équivalente 'date civile', qui sert à désigner la représentation familière d'une date sous forme de trois nombres, identifiant respectivement l'année, le mois et le jour du mois.
+
+L'espression 'date julienne' également d'usage courant en informatique, a été remplacée, aux fins de rédaction de la présente norme, par l'expression équivalente 'date ordinale', qui sert à désigner la représentation d'une date sous forme de deux nombres (souvent réunis en un seul), identifiant respectivement l'année et le jour de l'année, celui-ci correspondant au numéro d'ordre du jour dans l'année en commençant par 001 pour le 1er janvier."
+3. Champ d'application,"Cette norme s'appliquera lorsqu'on décrira soit la date civile, soit la date ordinale, dans une présentation entièrement numérique aux fins d'échange de données sur des supports exploitables par une machine entre les divers ministères et organismes du gouvernement."
+4. Conditions,"4.1 Séquence
+
+Une date entièrement numérique doit comporter les éléments d'information suivants, disposés de gauche à droite :
+
+(date civile) année-mois-jour
+(date ordinale) année-jour de l'année
+4.2 Caractères
+
+On doit utiliser les chiffres arabes, tirés de la série de caractères 0, 1, 2, ... 9.
+
+4.3 Eléments
+
+4.3.1 Une date civile comporte trois éléments :
+
+quatre chiffres pour représenter  « l'année »
+deux chiffres pour représenter « le mois »
+deux chiffres pour représenter « le jour »
+
+4.3.2 Une date ordinale comporte deux éléments :
+
+quartre pour représenter « l'année »
+trois chiffres pour représenter « le jour de l'année »
+4.4 Séparateurs
+
+Aux fins de l'échange d'informations entre l'homme et la machine (entrée des données et sortie des résultats), aussi bien qu'aux fins d'échange d'informations d'homme à homme, la date civile devra être disposée avec des séparateurs, du type espace ou trait d'union, pour diviser chacun des éléments; ainsi, par exemple, on écrira la date du 1er juillet 1975 sous sa forme entièrement numérique :
+
+(soit avec des espaces) 1975 07 01
+(soit avec des traits d'union) 1975-07-01
+
+Toutefois, la représentation interne dans la mémoire d'une machine ne comportera aucun séparateur."
+5. Mise en oeuvre,La période allouée pour se conformer aux exigences de cette norme ne devra pas dépasser six mois après la date de sa publication.
+6. Groupe de travail fédéral chargé des normes,"G.E. Henderson (Président)
+B. Laidlaw SCT
+G. Beauséjour
+R.E. Blasius
+N.D. Brewer
+D.S. Brooks
+D.M. Brown
+A.B. Donaldson
+J.A. Guminski
+T.J. Jones
+P. McLellan TPSGC
+S. Poretski
+J.M. Selman"
+7. Commande d'exemplaires,"Pour obtenir les spécifications techniques, procéder comme suit :
+
+FIPS PUB 4-1,
+
+Representation for calendar date and ordinal date for information interchange
+National Technical Information Service (NTIS)
+U.S. Department of Commerce
+ATTN: Sales Office, Sills Building
+5285 Port Royal Road
+Springfield, VA 22161
+U.S.A.
+Téléphone : (703) 487-4650
+Télécopieur : (703) 321-8547
+
+ISO 8601 : 1988,
+
+Éléments de données et formats d'échange - Échange d'information
+
+
+CAN/CSA-Z243.4-89, Représentation numérique de la date et de l'heure
+Association canadienne de normalisation
+178, boul. Rexdale
+Etobicoke (Ontario)
+M9W 1R3
+Téléphone : (416) 747-4044
+Télécopieur : (416) 747-2475"

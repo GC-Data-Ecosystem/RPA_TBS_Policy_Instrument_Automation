@@ -1,0 +1,727 @@
+﻿New column 0,New column 1
+1. Date of publication,"This guide takes effect on August 1, 2020.
+
+This guide replaces the Guidance document: Proactive disclosure of travel and hospitality expenses, dated March 31, 2004."
+2. Application,"This guide supports the requirements for the proactive publication of travel and hospitality expenses under the Access to Information Act and applies to government institutions that are subject to the Access to Information Act.
+
+Government institutions should adopt all sections and requirements of this guide, as well as all sections and requirements of the following:
+
+Access to Information Act
+Privacy Act
+Interim Policy on Privacy Protection
+Policy on Access to Information
+Interim Directive on the Administration of the Access to Information Act
+Directive on Travel, Hospitality, Conference and Event Expenditures"
+3. Objective,This guide will help ensure that information on government travel and hospitality expenses is proactively published in accordance with statutory obligations. Proactive publication provides consistent information that is accessible to the public.
+4. Whose travel and hospitality expenses must be proactively published?,"Under the Access to Information Act, travel and hospitality expenses incurred by the following individuals must be proactively published in electronic form:
+
+ministers (including the Prime Minister, ministers of state and associate ministers), ministerial advisers
+Footnote
+1 and ministerial staff
+Footnote
+2
+senior officers or employees in any department or ministry of state of the Government of Canada, or in any body or office listed in Schedule I of the Access to Information Act, which includes government institutions listed in Schedules I, I.1, and II of the Financial Administration Act (including deputy ministers, deputy heads, associate deputy ministers, assistant deputy ministers, assistant deputy heads, and any individuals who hold positions of an equivalent rank)
+senior officers or employees in any parent Crown corporation, and any wholly owned subsidiary of such a corporation, within the meaning of section 83 of the Financial Administration Act (including presidents, vice‑presidents, chief executive officers and members of a board of directors, and any individuals who hold positions of an equivalent rank)
+
+Travel and hospitality expenses incurred by individuals on behalf of any person listed above must also be published.
+
+It is up to the government institution to determine which positions constitute positions of an equivalent rank."
+5. What information needs to be proactively published?,"5.1 What travel expense information needs to be proactively published?
+
+Government institutions must publish the information in Table 1 for each trip taken by any individual listed in section 4 of this guide.
+
+Table 1: information fields for travel expenses
+Information field	Description
+
+
+Notes
+
+Amounts must be reported in Canadian dollars and include taxes.
+Expense items should appear in chronological order according to the date(s) on which the travel expenses were reimbursed. For government institutions using the Open Government Portal, the most recently uploaded travel expenses will appear first.
+Government institutions that have no travel expenses to report in a period (no travel expenses for the entire government institution) must submit a report that states “nothing to report” (known as a nil report). Institutions are not to publish nil reports for each individual who has no travel expenses for a publication period.
+Expenses reimbursed by a third party: In situations where travel expenses are reimbursed by a third party, it is recommended that the government institution post, for example, a zero-dollar transaction and provide an explanation in the “Additional comments” field.
+Companion travel: Companion travel expenses must be included in the travel expense disclosure of the individual subject to proactive publication. For example, when the spouse of a minister accompanies that minister on official government business, in accordance with the Policies for Ministers’ Offices, the travel expenses incurred by the spouse must be included in the minister’s travel expense claims and must be published. In such situations, the spouse’s presence on the trip is to be indicated in the “Purpose of travel” field (for example, “Attend state funeral: Accompanied by spouse”). Additional information could be added in the “Additional comments” field.
+Dependant travel: Travel expenses for dependants can be claimed under very specific circumstances, which are set out in the National Joint Council Travel Directive. If dependant travel expenses are allowed, they should be included in the official’s travel claims and should be published. For example, the “Purpose of travel” field could be populated with “Weekend travel: Dependant” and additional information could be added in the “Additional comments” field.
+Member of Parliament (MP) travel: Under the Policies for Ministers’ Offices and the Special Travel Authorities, MPs may, in some circumstances, accompany a minister as a guest or travel on a minister’s behalf. If the travel expenses incurred by an MP in such circumstances are charged to the minister’s budget, they should be published and would be indicated in the “Purpose of travel” field. Example: “Infrastructure Canada announcement: Accompanied by Joe Smith, MP” or “Infrastructure Canada announcement: Joe Smith, MP, on behalf of Minister Jones.”
+Relocation: Travel expenses incurred for the purposes of relocation under the National Joint Council Relocation Directive are not subject to proactive publication.
+Cancelled trips: The Access to Information Act requires the proactive publication of all travel expenses for the individuals listed in section 4 of this guide. As such, if residual travel expenses are still reflected in the government institution’s financial management system after the cancellation of a trip, they still have to be proactively published. The “Additional comments” field can be used to specify that the trip was cancelled and explain which costs were incurred.
+Local travel: Travel expenses to be published include local travel within the normal office location and surrounding working area (for example, taxi and parking expenses).
+
+** For all questions about interpreting financial policy, consult your chief financial officer.
+
+
+
+
+Reference number
+
+	
+
+A unique reference number given to the published expense report for each trip. Having a unique identifier for each trip helps users find a specific item if they need to change or delete it.
+
+Example: T-2019-P1-00001
+
+T: for travel
+2019: for the fiscal year ending on March 31, 2019
+P: for the reporting period in which the expenses were reimbursed (see Table 3)
+
+Note: The 5-digit number at the end of the reference number is generated in sequence for each trip, for example:
+
+T-2019-P1-00002
+T-2019-P1-00003
+T-2019-P1-00004
+
+
+
+Disclosure group
+
+	
+
+The group to which the individual belongs. Choose 1 of the following:
+
+Minister / ministerial adviser / ministerial staff / parliamentary secretary / exempt staff
+Senior officer or employee
+
+
+
+Title
+
+	
+
+Position title of the person who travelled.
+
+Examples:
+
+Vice‑Chairperson
+Deputy Minister
+Parliamentary Secretary
+Assistant Deputy Minister, Programs Branch
+Commander, Royal Canadian Air Force
+
+
+
+Name
+
+	
+
+Name of the person who travelled.
+
+
+
+
+Organization
+
+	
+
+Name of the government institution.
+
+
+
+
+Purpose of travel
+
+	
+
+A short description of the reason for the trip.
+
+The description should be no more than one line, if possible, and acronyms should be avoided.
+
+Examples:
+
+Attend North American Free Trade Agreement trade mission
+Give presentation at the Ontario Chamber of Commerce
+Attend Government of Canada Leadership Conference
+Team Canada trade mission meetings
+
+
+
+Dates of travel
+
+	
+
+Start and end dates for the full period of the trip.
+
+Dates should be formatted as yyyy-mm-dd.
+
+Examples:
+
+Start date: 2018-06-22
+End date: 2018-06-23
+
+
+
+Places visited
+
+	
+
+All places visited during the trip.
+
+Use the full names of the city or region, province or state, and country.
+
+Examples:
+
+Ottawa, Ontario, Canada
+New York City, New York, United States
+
+
+
+Airfare
+
+	
+
+Total cost of airline tickets.
+
+Aircraft owned or operated by Government of Canada
+
+If the individual travelled on an aircraft that is owned or operated by the Government of Canada, charges may not be levied in some cases. Use of such aircraft, however, should still be indicated. If charges were levied for the use of such aircraft, those charges should be indicated. See subsection 6.3 of the Policies for Ministers’ Offices for details.
+
+Seat selection and luggage fees should be included in the total cost of airfare. Such fees should be explained in the “Additional comments” field.
+
+
+
+
+Other transportation
+
+	
+
+Total cost of any other forms of transportation (for example, train, bus, vehicle rental, private vehicle, taxis, parking).
+
+
+
+
+Lodging
+
+	
+
+Total cost of accommodation.
+
+
+
+
+Meals and incidentals
+
+	
+
+Total cost of meals and incidental expenses.
+
+
+
+
+Other expenses
+
+	
+
+Total cost of all other items that are not covered by the above fields (for example, special passport, visas, associated photos, calls to the office or home, dependant care, where applicable).
+
+
+
+
+Total amount
+
+	
+
+The total of the amounts listed above.
+
+
+
+
+Additional comments
+
+	
+
+Additional explanatory comments (as required). This should be used to explain any corrections or adjustments made to the proactive publication or any other information, such as:
+
+the individuals accompanying the travellers (for example, the spouse of a minister, a dependant or a member of Parliament)
+the cancellation of a trip
+the application of credits to the cost of the trip (for example, using credit from a cancelled trip to reduce the airfare of another trip)
+
+Refer to the notes below for more information.
+
+Example 1: proactive publication of travel expenses
+
+Reference number: T-2019-P10-00013
+
+Disclosure group: Minister / ministerial adviser / ministerial staff / parliamentary secretary / exempt staff
+
+Title: Minister of Veterans Affairs Canada
+
+Name: Smith, John
+
+Organization: Veterans Affairs Canada
+
+Purpose of travel: Attend a wreath‑laying ceremony to commemorate the Battle of Verdun
+
+Travel start date: 2018-06-22
+
+Travel end date: 2018-06-23
+
+Places visited: Verdun, France
+
+Airfare: $1,000.00
+
+Other transportation: $50.00
+
+Lodging: $300.00
+
+Meals and incidentals: $150.00
+
+Other expenses: $0.00
+
+Total amount: $1,500.00
+
+5.2 What hospitality expense information needs to be proactively published?
+
+Government institutions must publish the information in Table 2 for hospitality expenses incurred by any individual listed in section 4 of this guide.
+
+Table 2: information fields for hospitality expenses
+Information field	Description
+
+
+Notes
+
+Reported amounts must be in Canadian currency and include taxes.
+Expense items should appear in chronological order according to the date or dates on which the hospitality expenses were reimbursed. On the Open Government Portal, the most recently uploaded hospitality expenses will appear first.
+Government institutions that have no hospitality expenses to report in a period (no hospitality expenses for the entire government institution) must submit a report that states “nothing to report” (known as a nil report). Institutions are not to publish nil reports for each individual who has no hospitality expenses for a publication period.
+Expenses reimbursed by a third party: In situations where hospitality expenses are reimbursed by a third party, it is recommended that the government institution post, for example, a zero-dollar transaction and provide an explanation in the “Additional comments” field.
+
+
+
+Reference number
+
+	
+
+A unique reference number given to each proactive publication of a hospitality activity. Having a unique identifier for each hospitality activity helps users find a specific item if they need to change or delete it.
+
+Example: H-2019-P1-00001
+
+H: for hospitality
+2019: for the fiscal year ending on March 31, 2019
+P: for the reporting period in which the expenses were reimbursed (see Table 3)
+
+Note: The 5-digit number at the end of the reference number is generated in sequence for each hospitality activity, for example:
+
+H-2019-P1-00002
+H-2019-P1-00003
+H-2019-P1-00004
+
+
+
+Disclosure group
+
+	
+
+The group to which the individual belongs.
+
+Choose 1 of the following:
+
+Minister / ministerial adviser / ministerial staff / parliamentary secretary / exempt staff
+Senior officer or employee
+
+
+
+Title
+
+	
+
+Position title of the individual who incurred the hospitality expenses (the hospitality expenses were charged to their responsibility centre).
+
+Examples:
+
+Vice‑Chairperson
+Deputy Minister
+Parliamentary Secretary
+Assistant Deputy Minister, Programs Branch
+Commander, Royal Canadian Air Force
+
+
+
+Name
+
+	
+
+Name of the individual who incurred the hospitality expenses (the hospitality expenses were charged to their responsibility centre).
+
+
+
+
+Organization
+
+	
+
+Name of the government institution.
+
+
+
+
+Purpose of hospitality activity
+
+	
+
+Provide both the forms (for example, breakfast, refreshment, lunch, reception, dinner and other forms of hospitality) and circumstances (the purpose) of the hospitality.
+
+Examples:
+
+Refreshments and lunch: Information Management and Policies Committee meeting
+Reception: Maltese delegation
+Dinner: Trade discussions with United States and Mexican officials
+
+
+
+Date of hospitality activity
+
+	
+
+Start and end dates for the period in which the hospitality was provided.
+
+Dates should be formatted as yyyy-mm-dd.
+
+Examples:
+
+Start date: 2018-05-25
+End date: 2018-05-25
+
+
+
+Municipality where the hospitality activity took place
+
+	
+
+Municipality where the hospitality was provided.
+
+Use the full names of the city or region, province or state, and country.
+
+Example:
+
+Montréal, Quebec, Canada
+
+
+
+Name of any commercial establishment or vendor involved in the hospitality activity
+
+	
+
+The name of the commercial establishment that provided the hospitality (for example, restaurant, hotel or other location) and/or vendor (for example, a caterer).
+
+Note the following:
+
+Another government department is not a vendor for the purposes of this requirement. A Crown corporation is a vendor for the purposes of this requirement only if it is a non-agent Crown corporation (for example, one of the museums established under the Museums Act). If the name is not required, enter “nil” in this field.
+Proactive publication of the name of the venue is required if a room is rented in order to provide the hospitality activity and the venue is a commercial establishment. It is not required if the venue is a government venue unless the venue is operated by a non-agent Crown corporation.
+There is a requirement to proactively publish if a room is rented for the sole purpose of providing hospitality.
+
+
+
+Number of persons who attended the hospitality activity
+
+	
+
+The total number of attendees and the breakdown according to the number of Government of Canada officials and the number of guests.
+
+Names of the attendees are not required.
+
+Example:
+
+Attendees (Government of Canada officials): 7
+Attendees (guests): 5
+
+
+
+Total amount of the expenses for the hospitality activity
+
+	
+
+The total cost of the hospitality activity.
+
+
+
+
+Additional comments
+
+	
+
+Additional explanatory comments (as required). Refer to the notes below for more information.
+
+Example 2: proactive publication of hospitality activity expenses
+
+Reference number: H-2019-P4-00006
+
+Disclosure group: Senior officer or employee
+
+Title: Chief Financial Officer
+
+Name: Smith, John
+
+Organization: Fisheries and Oceans Canada
+
+Purpose of hospitality activity: Refreshments and lunch: Aspiring Leaders Symposium
+
+Start date: 2018-05-25
+
+End date: 2018-05-25
+
+Municipality where the hospitality activity took place: Ottawa, Ontario, Canada
+
+Name of any commercial establishment or vendor involved in the hospitality activity: Shaw Centre
+
+Attendees (Government of Canada officials): 150
+
+Attendees (guests): 4
+
+Totalamount of the expenses for the hospitality activity: $7,710.55"
+6. When do travel and hospitality expenses need to be proactively published?,"Under the Access to Information Act, any travel and hospitality expenses incurred by individuals listed in section 4 of this guide must be published within 30 days after the end of the month in which these expenses were reimbursed. The publication deadlines are listed in Table 3.
+
+Information published on the Open Government Portal must be uploaded to the Open Government Registry the day before the deadline for proactive publication so that the information can be published overnight to meet the legislated timeline for publication.
+
+Table 3: deadlines for publishing travel and hospitality expenses
+Reporting period in which expenses were reimbursed	Publication deadline
+table 3 note
+*
+
+Table 3 Notes
+Table 3 Note *
+
+When the deadline falls on a weekend or statutory holiday, the information must be published in electronic form by the last business day before that weekend or holiday.
+
+Return to table 3 note
+*
+referrer
+
+
+
+
+Period 1: April 1 to April 30
+
+	
+
+May 30
+
+
+
+
+Period 2: May 1 to May 31
+
+	
+
+June 30
+
+
+
+
+Period 3: June 1 to June 30
+
+	
+
+July 30
+
+
+
+
+Period 4: July 1 to July 31
+
+	
+
+August 30
+
+
+
+
+Period 5: August 1 to August 31
+
+	
+
+September 30
+
+
+
+
+Period 6: September 1 to September 30
+
+	
+
+October 30
+
+
+
+
+Period 7: October 1 to October 31
+
+	
+
+November 30
+
+
+
+
+Period 8: November 1 to November 30
+
+	
+
+December 30
+
+
+
+
+Period 9: December 1 to December 31
+
+	
+
+January 30
+
+
+
+
+Period 10: January 1 to January 31
+
+	
+
+March 2 (March 1 in a leap year)
+
+
+
+
+Period 11: February 1 to February 28
+
+	
+
+March 30
+
+
+
+
+Period 12: March 1 to March 31
+
+	
+
+April 30
+
+Corrections and adjustments
+
+Proactive publication should occur when the travel and hospitality expenses have been reimbursed (see the reimbursement criteria listed in section 7 of this guide).
+
+The publication should not be delayed in anticipation of an adjustment to the information (such as a non-material cost that is charged long after the trip occurred or the hospitality was provided).
+
+In the event of an error or adjustment in published information (for example, an additional unexpected processing fee or an interdepartmental settlement from another institution is charged after the travel expenses have been proactively published), government institutions must correct or adjust the published information as soon as possible."
+7. What does reimbursement of travel and hospitality expenses mean?,"7.1 When are travel expenses considered reimbursed?
+
+Under the Access to Information Act, any travel expenses incurred by an individual listed in section 4 of this guide must be proactively published within 30 days after the end of the month in which the travel expenses were reimbursed.
+
+The reimbursement of travel expenses in the Government of Canada is complex for several reasons, including:
+
+Travel expenses can take different forms, for example:
+reimbursement of out‑of‑pocket expenses paid by an individual
+prepaid expenses, such as airfare and hotel
+allowances
+advances
+Travel expenses can be incurred at different times, for example:
+before a trip (airfare and accommodations)
+during a trip (meals and transportation)
+Travel expenses can be paid in different ways, for example:
+paid directly by the government institution
+paid out of pocket by the individual and reimbursed later by the government institution
+
+Because of these complexities, travel expenses are considered to have been reimbursed once all of the following have occurred:
+
+the travel expense claim for the trip has been approved
+all of the expenses related to the travel have been granted certification authority and payment authority (sections 34 and 33 of the Financial Administration Act) by the appropriate individuals with delegated authority
+Footnote
+3
+all of the travel expenses are recorded in the government institution’s financial management system
+
+Note that all related travel expenses must be published together once all of the expenses are reimbursed as described above.
+
+Figure 1 is an example of how to determine when a travel expense must be published. The example:
+
+is a timeline of the publication of travel expenses incurred by a senior officer or employee in a department
+shows how the reimbursement of travel expenses triggers the deadline for proactive publication
+Figure 1: example of a timeline for the proactive publication of travel expenses
+Figure 1 - Text version
+7.2 When are hospitality expenses considered reimbursed?
+
+Under the Access to Information Act, any hospitality expenses incurred by an individual listed in section 4 of this guide must be proactively published within 30 days after the end of the month in which the hospitality expenses were reimbursed.
+
+The reimbursement of hospitality expenses in the Government of Canada is complex because these expenses can result from various payment methods (for example, invoices, acquisition cards and reimbursements of out‑of‑pocket expenses), which means that some expenses are paid directly by the government institution and some are reimbursed to individuals. In addition, a hospitality activity may include several hospitality expenses, for example expenses related to providing refreshments, lunch and dinner.
+
+As a result, the detailed total cost of the hospitality activity must be published 30 days after the end of the month once both of the following actions have occurred:
+
+all of the hospitality expenses related to the hospitality activity have been granted certification authority and payment authority (sections 34 and 33 of the Financial Administration Act) from the appropriate individuals with delegated authority
+Footnote
+3
+all of the hospitality expenses related to the hospitality activity are recorded in the senior officer’s budget or the employee’s budget (responsibility centre) as a hospitality expense in the government institution’s financial management system
+
+Government institutions must proactively publish all hospitality expenses that are related to an activity and that are charged to the responsibility centre that the senior officer or employee is directly managing, even if this individual did not attend the activity.
+
+Figure 2 is an example of how to determine when a hospitality expense must be published. The example:
+
+is a timeline of the publication of hospitality expenses incurred by a senior officer or employee in a department
+shows how the reimbursement of hospitality expenses triggers the proactive publication deadline
+Figure 2: example of a timeline for the proactive publication of hospitality expenses
+Figure 2 - Text version"
+8. Where must travel and hospitality expenses be proactively published?,"The Access to Information Act:
+
+requires that travel and hospitality expenses be published in electronic form
+provides that the President of the Treasury Board, as designated Minister, may specify the form of the publication
+
+Departments, agencies and other bodies subject to the Access to Information Act and listed in Schedules I, I.1, or II of the Financial Administration Act are required to proactively publish travel and hospitality expenditures on the Open Government Portal.
+
+Crown corporations and wholly owned subsidiaries, and other government institutions subject to the Access to Information Act may proactively publish travel and hospitality expenditures on their own websites or on the Open Government Portal. Wholly owned subsidiaries publishing on a parent Crown corporation’s website should publish as clearly identifiable entities.
+
+Information published on the Open Government Portal must be uploaded to the Open Government Registry the day before the deadline for proactive publication so that information can be published overnight to meet the legislated timeline for publication.
+
+Contact open-ouvert@tbs-sct.gc.ca for information about the Open Government Portal."
+9. Protecting what is not required or not permitted to be proactively published,"Pursuant to sections 80 and 90 of the Access to Information Act, when proactively publishing travel and hospitality expenses, an institution is required to not publish any information that would be required to be withheld if it were being disclosed in response to an access to information request. As well, an institution is not required to publish information that the institution could refuse to disclose in response to an access to information request. For example, the publication of travel and hospitality expenses is not required if the information would compromise national security, public safety or ongoing criminal investigations.
+
+Government institutions should consult with their access to information coordinators for advice on whether specific information relating to government travel and hospitality expenses should be disclosed."
+10. How is proactive publication monitored?,"Government institutions are responsible for ensuring that:
+
+information about travel and hospitality expenses is accurate and up to date
+the information is posted in accordance with this guide and with the following:
+Access to Information Act
+Privacy Act
+Interim Policy on Privacy Protection
+Policy on Access to Information
+Interim Directive on the Administration of the Access to Information Act"
+11. References,"11.1 Legislation
+Access to Information Act
+Financial Administration Act
+Privacy Act
+
+Other relevant documents
+
+Policy on Access to Information
+Interim Policy on Privacy Protection
+Interim Directive on the Administration of the Access to Information Act
+Directive on Travel, Hospitality, Conference and Event Expenditures
+National Joint Council Travel Directive
+Special Travel Authorities
+Policies for Ministers’ Offices"
+12. Enquiries,"Enquiries from the public
+
+Members of the public who have questions about this guide may contact the Treasury Board of Canada Secretariat Public Enquiries at questions@tbs-sct.gc.ca.
+
+Enquiries from government institutions about access to information
+
+Individuals from government institutions should contact:
+
+open-ouvert@tbs-sct.gc.ca for information and technical questions related to the Open Government Portal
+their access to information and privacy coordinator for guidance related to their institution’s internal processes for the proactive publication of travel and hospitality expenses, including any questions related to removing personal information from travel and hospitality receipts
+
+Individuals from information and privacy groups may contact the Information and Privacy Policy Division of Treasury Board of Canada Secretariat at ippd-dpiprp@tbs-sct.gc.ca for guidance on the following:
+
+Access to Information Act
+Privacy Act
+Interim Policy on Privacy Protection
+Policy on Access to Information
+Interim Directive on the Administration of the Access to Information Act
+Enquiries from government institutions about financial management
+
+Individuals from government institutions should contact:
+
+their financial policy group for guidance on the Directive on Travel, Hospitality, Conference and Event Expenditures
+their designated travel coordinator for guidance on the National Joint Council Travel Directive and the Special Travel Authorities
+mino-cabmin@tbs-sct.gc.ca for any guidance on the Policies for Ministers’ Offices
+
+Designated travel coordinators may contact ZZVOYAGE@tbs-sct.gc.ca.
+
+Individuals from a departmental or agency financial policy group may contact fin-www@tbs-sct.gc.ca for any questions on this guide and interpretation of the Directive on Travel, Hospitality, Conference and Event Expenditures.
+
+Enquiries from Crown corporations
+
+Individuals from Crown corporations or wholly owned subsidiaries should contact the internal financial management services or portfolio department at their parent Crown corporation if they have questions about this guide."

@@ -1,0 +1,69 @@
+﻿New column 0,New column 1
+1. Référence,"1.1 Titre
+Codification du matériel
+1.2 Indicatif
+NCTTI-25
+1.3 Catégorie
+Norme
+1.4 Entrée en vigueur
+Le 11 février 1993
+1.5 Autorisation
+Conseil du Trésor du Canada
+1.6 Organisme responsable
+Systèmes et technologies
+Secrétariat du Conseil du Trésor
+1.7 Renvois
+Normes militaires –
+STANAG (Accord de normalisation OTAN),
+#3150 pour normaliser la classification du matériel
+#3151 pour normaliser l'identification des articles"
+2. Objet,"La présente Norme du Conseil du Trésor sur les technologies de l'information (NCTTI-25) adopte le code d'identification de l'OTAN à titre de code de classification du matériel dans l'administration fédérale. Les normes particulières sont énumérées dans le Manuel OTAN de codification (A Cod P.1) qui est publié par la Section des systèmes de gestion du matériel de la Division du soutien à la défense, au Siège de l'OTAN à Bruxelles.
+
+Pour répondre à ses besoins internes, le Canada a adapté le système OTAN de codification et a créé le Système de catalogage du gouvernement canadien (SCGC). Le SCGC est conforme aux ententes internationales qui régissent la mise en oeuvre et l'utilisation du système OTAN de codification. Au Canada, le ministère de la Défense nationale – Direction du catalogage et de l'identification – est chargé du SCGC. Vous n'avez qu'à vous adresser à cette Direction pour obtenir un Guide du SCGC. (Voir l'article 8 – Commande d'exemplaires).
+
+Le gouvernement du Canada utilise la technologie actuelle pour assurer une gestion plus efficiente et plus économique de ses activités. La norme de codification du matériel de l'OTAN l'aidera à atteindre cet objectif puisqu'elle permettra d'uniformiser la formule utilisée pour identifier tous les biens matériels de l'administration fédérale. Les ministères pourront ainsi communiquer plus efficacement et effectuer leurs opérations par voie électronique.
+
+La norme vise les objectifs suivants :
+
+présenter un système uniforme d'identification des biens matériels de l'administration fédérale;
+favoriser le partage et l'intégration, par voie électronique, de l'information sur la gestion des biens matériels (à l'échelle de l'administration fédérale);
+déterminer la base pour l'exécution d'opérations par voie électronique;
+éviter le double emploi, réduisant ainsi le coût de la gestion des biens matériels;
+contribuer à la gestion des biens matériels de façon plus efficiente et plus économique."
+3. Champ d'application,"Le code d'identification d'article de l'OTAN, soit le numéro de nomenclature OTAN, sera le code normalisé de classification des biens matériels utilisé pour les systèmes ministériels de gestion des biens de l'administration fédérale.
+
+La norme doit être utilisée pour la conception et la mise en oeuvre des nouveaux systèmes de codification du matériel dans l'administration fédérale. À titre d'exigence minimale, tous les systèmes électroniques d'identification du matériel des ministères, nouveaux ou réaménagés, doivent avoir un lien avec la classe d'articles d'approvisionnement de l'OTAN."
+4. Condition,"Le code numérique de 13 chiffres qui constitue le numéro d'article stocké de l'OTAN doit être utilisé pour identifier tous les biens matériels dont le gouvernement a besoin de façon périodique, régulière ou permanente. Lorsqu'il n'est pas pratique d'utiliser le code de 13 chiffres ou dans le cas d'articles uniques ou à faible coût, le matériel devrait être identifié à l'aide des catégories d'approvisionnement de l'OTAN (les quatre premiers chiffres du numéro d'article stocké), du nom du fabricant ou du fournisseur et du numéro de pièce ou de modèle."
+5. Mise en oeuvre,Cette norme est en vigueur le 11 février 1993.
+6. Spécifications,"La présente NCTTI adopte l'élément canadien des normes énumérées dans le Manuel OTAN de codification (A Cod P.1) pour usage gouvernemental qui est publié par la Section des systèmes de gestion du matériel de la Division du soutien à la défense, au Siège de l'OTAN à Bruxelles. L'élément canadien est désigné comme étant le système de catalogage du gouvernement canadien qui relève du ministère de la Défense nationale."
+7. Groupe de travail fédéral chargé des normes,"Codification du matériel
+
+K.F. Wöldike, ASC (Président)
+R. Andrews, SCT
+P. Arcand, ANC
+G. Baller, CC
+M. Brady, ASC
+M.M. Cardin, EC
+B. Gamble, SCC
+H. Harrison, TPC
+G. Jeddrie, P&O
+D. Lampron, MDN
+P.R. Lavallée, SCT
+K. Lawlis, SCC
+B. Martin, ASC
+W. Parij, TC
+G. Patterson, SCT
+N.A. Perry, SBSC
+R.R. Pilon, EC
+Y. Sicard, AECEC
+B.A. Simpson, TC
+G. Stewart, CNRC
+M. Swords, ASC"
+8. Commande d'exemplaires,"Des exemplaires des normes militaires et du Guide du système de catalogage du gouvernement canadien sont disponibles au :
+
+Directeur - Opérations de la chaîne
+d'approvisionnement 5-2
+Quartier général de la Défense nationale
+Édifice mgén George R. Pearkes
+101 promenade du Colonel-By, Ottawa, ON K1A 0K2
+courriel : CGCMSupport@forces.gc.ca"
